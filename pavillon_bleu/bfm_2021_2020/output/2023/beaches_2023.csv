@@ -1,0 +1,407 @@
+year,commune,department,region,type_of_flag,places
+2023,Malafretaz,Ain,Auvergne-Rhône-Alpes,beach,Plage Principale
+2023,Vieure,Allier,Auvergne-Rhône-Alpes,beach,Plage Du Plan D'Eau De Vieure
+2023,Ubaye Serre-Ponçon,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,beach,Plage De Saint Vincent Les Forts
+2023,Antibes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,beach,Les Groules
+2023,Antibes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,beach,Fontonne Est
+2023,Antibes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,beach,Fontonne Ouest
+2023,Antibes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,beach,Antibes-Les-Pins Est
+2023,Antibes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,beach,Antibes-Les-Pins Ouest
+2023,Antibes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,beach,Marineland
+2023,Antibes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,beach,Fort Carré
+2023,Cannes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,beach,Chantiers Navals
+2023,Cannes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,beach,Trou (Roubine)
+2023,Cannes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,beach,Font De Veyre
+2023,Cannes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,beach,Ile Sainte Marguerite Est
+2023,Cannes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,beach,Ile Sainte Marguerite Ouest
+2023,Cannes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,beach,Rochers De La Bocca
+2023,Cannes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,beach,Saint Georges
+2023,Nice,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,beach,Saint Hélène
+2023,Saint Martin D'Ardèche,Ardèche,Auvergne-Rhône-Alpes,beach,Plage Du Grain De Sel
+2023,Fleury D'Aude,Aude,Occitanie,beach,Les Cabanes De Fleury
+2023,Fleury D'Aude,Aude,Occitanie,beach,Saint-Pierre-La-Mer
+2023,Gruissan,Aude,Occitanie,beach,Grazel
+2023,Gruissan,Aude,Occitanie,beach,Les Chalets
+2023,Leucate,Aude,Occitanie,beach,La Franqui
+2023,Leucate,Aude,Occitanie,beach,Leucate Plage
+2023,Leucate,Aude,Occitanie,beach,Naturistes (Port Leucate)
+2023,Leucate,Aude,Occitanie,beach,Le Kyklos
+2023,Leucate,Aude,Occitanie,beach,Copacabana (Port Leucate)
+2023,Narbonne-Plage,Aude,Occitanie,beach,Plage Du Centre
+2023,Narbonne-Plage,Aude,Occitanie,beach,Plage Des Karantes
+2023,Narbonne-Plage,Aude,Occitanie,beach,Plage Du Languedoc
+2023,Narbonne-Plage,Aude,Occitanie,beach,Plage Du Créneau Naturel
+2023,Port La Nouvelle,Aude,Occitanie,beach,Plage Du Front De Mer
+2023,Salles-Curan,Aveyron,Occitanie,beach,Plage Des Vernhes 1
+2023,Salles-Curan,Aveyron,Occitanie,beach,Plage Des Vernhes 2
+2023,Berre L'Etang,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,beach,Plage De Champigny - Quartier Des Merveilles
+2023,Cassis,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,beach,Plage Du Bestouan
+2023,Cassis,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,beach,Plage De La Grande Mer
+2023,Fos Sur Mer,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,beach,Cavaou
+2023,Fos Sur Mer,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,beach,Grande Plage
+2023,La Ciotat,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,beach,Plage Cyrnos
+2023,Marignane,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,beach,Plage Du Jaï Nord
+2023,Port De Bouc,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,beach,Bottai
+2023,Saint Chamas,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,beach,Plage Des Cabassons
+2023,Sausset-Les-Pins,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,beach,Corniche
+2023,Colleville Montgomery,Calvados,Normandie,beach,Colleville Plage
+2023,Honfleur,Calvados,Normandie,beach,Plage Du Butin
+2023,Pont-L'Évêque,Calvados,Normandie,beach,Lac De Pont-L'Évêque
+2023,Trémouille,Cantal,Auvergne-Rhône-Alpes,beach,Lastioulles
+2023,La Rochelle,Charente-Maritime,Nouvelle-Aquitaine,beach,Chef De Baie
+2023,La Rochelle,Charente-Maritime,Nouvelle-Aquitaine,beach,Les Minimes
+2023,Le Bois Plage En Ré,Charente-Maritime,Nouvelle-Aquitaine,beach,Gros-Jonc
+2023,Le Bois Plage En Ré,Charente-Maritime,Nouvelle-Aquitaine,beach,Les Gollandières
+2023,Le Grand Village Plage,Charente-Maritime,Nouvelle-Aquitaine,beach,Plage De La Giraudière
+2023,Royan,Charente-Maritime,Nouvelle-Aquitaine,beach,La Grande Conche
+2023,Royan,Charente-Maritime,Nouvelle-Aquitaine,beach,Le Chay
+2023,Royan,Charente-Maritime,Nouvelle-Aquitaine,beach,Le Pigeonnier
+2023,Royan,Charente-Maritime,Nouvelle-Aquitaine,beach,Pontaillac
+2023,Royan,Charente-Maritime,Nouvelle-Aquitaine,beach,Foncillon
+2023,Saint Trojan Les Bains,Charente-Maritime,Nouvelle-Aquitaine,beach,La Grande Plage
+2023,Saint Trojan Les Bains,Charente-Maritime,Nouvelle-Aquitaine,beach,Gatseau
+2023,Ambrugeat - Meymac,Corrèze,Nouvelle-Aquitaine,beach,Lac De Séchemailles
+2023,Egletons,Corrèze,Nouvelle-Aquitaine,beach,Plage Du Lac
+2023,Liginiac,Corrèze,Nouvelle-Aquitaine,beach,Le Maury
+2023,Masseret,Corrèze,Nouvelle-Aquitaine,beach,Plan D'Eau Masseret - Lamongerie
+2023,Neuvic D'Ussel,Corrèze,Nouvelle-Aquitaine,beach,La Plage
+2023,Treignac,Corrèze,Nouvelle-Aquitaine,beach,Plage Des Bariousses
+2023,Ajaccio,Corse-du-sud,Corse,beach,Trottel
+2023,Ajaccio,Corse-du-sud,Corse,beach,Terre Sacrée
+2023,Grosseto-Prugna,Corse-du-sud,Corse,beach,Plage Des Tamaris
+2023,Pietrosella,Corse-du-sud,Corse,beach,Plage Du Ruppione
+2023,Serra Di Ferro,Corse-du-sud,Corse,beach,Porto Pollo
+2023,Arnay Le Duc,Côte-d'or,Bourgogne-Franche-Comté,beach,Fouché
+2023,Carsac De Gurson,Dordogne,Nouvelle-Aquitaine,beach,Plage Du Lac De Gurson
+2023,La Jemaye-Ponteyraud,Dordogne,Nouvelle-Aquitaine,beach,Plage Du Grand Etang
+2023,Saint Estephe,Dordogne,Nouvelle-Aquitaine,beach,Plage Du Grand Etang
+2023,Tamnies,Dordogne,Nouvelle-Aquitaine,beach,Etang De Loisirs De Tamniès
+2023,Audierne,Finistère,Bretagne,beach,Plage De Trescadec
+2023,Audierne,Finistère,Bretagne,beach,Plage De Trez Goarem
+2023,Benodet,Finistère,Bretagne,beach,Plage Du Trez
+2023,Clohars Carnoët,Finistère,Bretagne,beach,Bellangenet
+2023,Clohars Carnoët,Finistère,Bretagne,beach,Grands Sables
+2023,Clohars Carnoët,Finistère,Bretagne,beach,Kerrou
+2023,Fouesnant-Les Glénan,Finistère,Bretagne,beach,Kerler
+2023,Fouesnant-Les Glénan,Finistère,Bretagne,beach,Maner Coat Clevarec
+2023,Fouesnant-Les Glénan,Finistère,Bretagne,beach,Kerambigorn
+2023,Fouesnant-Les Glénan,Finistère,Bretagne,beach,Cap Coz (Milieu)
+2023,Fouesnant-Les Glénan,Finistère,Bretagne,beach,Glenan Saint Nicolas
+2023,Le Conquet,Finistère,Bretagne,beach,Pors Liogan
+2023,Le Conquet,Finistère,Bretagne,beach,Portez
+2023,Le Conquet,Finistère,Bretagne,beach,Blancs Sablons
+2023,Moëlan Sur Mer,Finistère,Bretagne,beach,Kerfany
+2023,Plouarzel,Finistère,Bretagne,beach,Porsman
+2023,Plouhinec,Finistère,Bretagne,beach,Gwendrez
+2023,Plouhinec,Finistère,Bretagne,beach,Mesperleuc
+2023,Pouldreuzic,Finistère,Bretagne,beach,Penhors
+2023,Roscoff,Finistère,Bretagne,beach,Saint Luc (Roch-Kroum)
+2023,Saint Pol De Léon,Finistère,Bretagne,beach,Sainte Anne
+2023,Le Grau Du Roi,Gard,Occitanie,beach,Le Boucanet
+2023,Le Grau Du Roi,Gard,Occitanie,beach,Rive Droite
+2023,Le Grau Du Roi,Gard,Occitanie,beach,Rive Gauche
+2023,Le Grau Du Roi,Gard,Occitanie,beach,Port Camargue Nord
+2023,Le Grau Du Roi,Gard,Occitanie,beach,Port Camargue Sud
+2023,Le Grau Du Roi,Gard,Occitanie,beach,Pointe De L'Espiguette
+2023,Aignan,Gers,Occitanie,beach,Base De Loisirs Du Lac
+2023,Castera Verduzan,Gers,Occitanie,beach,Base De Loisirs
+2023,Bordeaux,Gironde,Nouvelle-Aquitaine,beach,Plage Du Lac
+2023,Grayan Et L'Hôpital,Gironde,Nouvelle-Aquitaine,beach,Le Gurp
+2023,Grayan Et L'Hôpital,Gironde,Nouvelle-Aquitaine,beach,Plage De Dépée (Euronat)
+2023,Hourtin,Gironde,Nouvelle-Aquitaine,beach,Hourtin Océan
+2023,Hourtin,Gironde,Nouvelle-Aquitaine,beach,Lac: La Jetée (Plage Du Port)
+2023,Hourtin,Gironde,Nouvelle-Aquitaine,beach,Lac: Piqueyrot
+2023,Le Verdon-Sur-Mer,Gironde,Nouvelle-Aquitaine,beach,Plage De La Chambrette
+2023,Le Verdon-Sur-Mer,Gironde,Nouvelle-Aquitaine,beach,Plage Océanne De Saint Nicolas
+2023,Soulac Sur Mer,Gironde,Nouvelle-Aquitaine,beach,L'Amélie
+2023,Soulac Sur Mer,Gironde,Nouvelle-Aquitaine,beach,Plage Des Naïades
+2023,Soulac Sur Mer,Gironde,Nouvelle-Aquitaine,beach,Plage Centrale
+2023,Montrejeau,Haute-Garonne,Occitanie,beach,Lac Montrejeau
+2023,Champagnac Le Vieux,Haute-Loire,Auvergne-Rhône-Alpes,beach,Plage Du Plan D'Eau
+2023,Le Bouchet-Saint-Nicolas,Haute-Loire,Auvergne-Rhône-Alpes,beach,Plage Du Lac Du Bouchet
+2023,Evian Les Bains,Haute-Savoie,Auvergne-Rhône-Alpes,beach,Plage Du Centre Nautique Evian
+2023,Neuvecelle,Haute-Savoie,Auvergne-Rhône-Alpes,beach,Neuvecelle Grande Rive
+2023,Publier,Haute-Savoie,Auvergne-Rhône-Alpes,beach,Plage Municipale Amphion-Les-Bains
+2023,Saint Gingolph,Haute-Savoie,Auvergne-Rhône-Alpes,beach,Plage Municipale De Saint-Gingolph
+2023,Saint Jorioz,Haute-Savoie,Auvergne-Rhône-Alpes,beach,Plage
+2023,Sciez/Leman,Haute-Savoie,Auvergne-Rhône-Alpes,beach,Sciez Municipale
+2023,Thonon Les Bains,Haute-Savoie,Auvergne-Rhône-Alpes,beach,Plage De Saint Disdille
+2023,Thonon Les Bains,Haute-Savoie,Auvergne-Rhône-Alpes,beach,Plage Du Centre Nautique
+2023,Veyrier Du Lac,Haute-Savoie,Auvergne-Rhône-Alpes,beach,Plage La Brune
+2023,Bussière-Galant,Haute-Vienne,Nouvelle-Aquitaine,beach,Espace Hermeline
+2023,Saint Hilaire Les Places,Haute-Vienne,Nouvelle-Aquitaine,beach,Lac Plaisance
+2023,Chorges,Hautes-Alpes,Provence-Alpes-Côte d'Azur,beach,Plage Des Trémouilles
+2023,Chorges,Hautes-Alpes,Provence-Alpes-Côte d'Azur,beach,Plage De La Baie Saint Michel
+2023,Crots,Hautes-Alpes,Provence-Alpes-Côte d'Azur,beach,Plage De Chanterenne
+2023,Embrun,Hautes-Alpes,Provence-Alpes-Côte d'Azur,beach,Plan D'Eau Plage
+2023,Le Sauze Du Lac,Hautes-Alpes,Provence-Alpes-Côte d'Azur,beach,Port Saint Pierre (Plage)
+2023,Rousset,Hautes-Alpes,Provence-Alpes-Côte d'Azur,beach,Bois Vieux
+2023,Savines Le Lac,Hautes-Alpes,Provence-Alpes-Côte d'Azur,beach,Savin'Plage
+2023,Savines Le Lac,Hautes-Alpes,Provence-Alpes-Côte d'Azur,beach,Plage De La Combette
+2023,Agde,Hérault,Occitanie,beach,Grau D'Agde/Saint Vincent
+2023,Agde,Hérault,Occitanie,beach,Le Môle
+2023,Agde,Hérault,Occitanie,beach,Plage Naturiste
+2023,Agde,Hérault,Occitanie,beach,Richelieu
+2023,Agde,Hérault,Occitanie,beach,La Roquille
+2023,Clermont-L'Hérault,Hérault,Occitanie,beach,Lac Du Salagou - Plage Du Camping
+2023,Frontignan La Peyrade,Hérault,Occitanie,beach,L'Entrée
+2023,Frontignan La Peyrade,Hérault,Occitanie,beach,Le Port
+2023,Frontignan La Peyrade,Hérault,Occitanie,beach,La Bergerie
+2023,Frontignan La Peyrade,Hérault,Occitanie,beach,Les Aresquiers
+2023,Frontignan La Peyrade,Hérault,Occitanie,beach,Le Grau
+2023,La Grande Motte,Hérault,Occitanie,beach,Grand Travers
+2023,La Grande Motte,Hérault,Occitanie,beach,Plage Echirolles
+2023,La Grande Motte,Hérault,Occitanie,beach,Plage Du Couchant / Rose Des Sables
+2023,La Grande Motte,Hérault,Occitanie,beach,Saint Clair / Point Zéro
+2023,La Salvetat-Sur-Agoût,Hérault,Occitanie,beach,Plage Lac De La Raviège - Gua Des Brasses
+2023,La Salvetat-Sur-Agoût,Hérault,Occitanie,beach,Lac De La Raviège - Les Bouldouires
+2023,Marseillan,Hérault,Occitanie,beach,Plage D'Honneur
+2023,Marseillan,Hérault,Occitanie,beach,Robinson
+2023,Mauguio Carnon,Hérault,Occitanie,beach,Carnon Centre
+2023,Mauguio Carnon,Hérault,Occitanie,beach,Carnon /Degrasse
+2023,Mauguio Carnon,Hérault,Occitanie,beach,Carnon L'Avranche (De Grasse/Suffren)
+2023,Mauguio Carnon,Hérault,Occitanie,beach,Carnon Les Dunes (Secteur Grand Travers)
+2023,Palavas Les Flots,Hérault,Occitanie,beach,Rive Gauche - Le Grec
+2023,Palavas Les Flots,Hérault,Occitanie,beach,Rive Droite - Saint Pierre
+2023,Palavas Les Flots,Hérault,Occitanie,beach,Rive Gauche - St Maurice
+2023,Palavas Les Flots,Hérault,Occitanie,beach,Rive Gauche - St Roch
+2023,Palavas Les Flots,Hérault,Occitanie,beach,Rive Droite - L'Albatros
+2023,Portiragnes,Hérault,Occitanie,beach,La Redoute (Blockhaus)
+2023,Portiragnes,Hérault,Occitanie,beach,Le Bosquet
+2023,Sète,Hérault,Occitanie,beach,Plage Du Castellas
+2023,Sète,Hérault,Occitanie,beach,Plage Des 3 Digues
+2023,Sète,Hérault,Occitanie,beach,Plage Du Lido
+2023,Sète,Hérault,Occitanie,beach,Plage De La Fontaine
+2023,Sète,Hérault,Occitanie,beach,Plage Du Lazaret
+2023,Sète,Hérault,Occitanie,beach,Plage De La Baleine
+2023,Valras-Plage,Hérault,Occitanie,beach,Les Mouettes
+2023,Valras-Plage,Hérault,Occitanie,beach,Casino
+2023,Valras-Plage,Hérault,Occitanie,beach,Poste De Secours Central
+2023,Valras-Plage,Hérault,Occitanie,beach,De Gaulle
+2023,Vias,Hérault,Occitanie,beach,Farinette
+2023,Villeneuve Les Maguelone,Hérault,Occitanie,beach,Plage Du Pilou
+2023,Villeneuve Les Maguelone,Hérault,Occitanie,beach,Plage Du Prévost
+2023,Iffendic,Ille-et-Vilaine,Bretagne,beach,Lac De Trémelin
+2023,Saint Briac Sur Mer,Ille-et-Vilaine,Bretagne,beach,La Salinette
+2023,Saint Briac Sur Mer,Ille-et-Vilaine,Bretagne,beach,Port Hue
+2023,Eguzon-Chantôme,Indre,Centre-Val de Loire,beach,Chambon A
+2023,Clairvaux-Les-Lacs,Jura,Bourgogne-Franche-Comté,beach,Plage Du Grand Lac De Clairvaux
+2023,Seignosse,Landes,Nouvelle-Aquitaine,beach,Les Estagnots
+2023,Seignosse,Landes,Nouvelle-Aquitaine,beach,Le Penon
+2023,La Baule-Escoublac,Loire-Atlantique,Pays de la Loire,beach,Face À L'Avenue Du Général De Gaulle
+2023,La Baule-Escoublac,Loire-Atlantique,Pays de la Loire,beach,Face À L'Avenue De La Grande Dune
+2023,La Baule-Escoublac,Loire-Atlantique,Pays de la Loire,beach,Face À L'Esplanade Benoit
+2023,La Bernerie En Retz,Loire-Atlantique,Pays de la Loire,beach,Grande Plage
+2023,La Bernerie En Retz,Loire-Atlantique,Pays de la Loire,beach,Plan D'Eau Maurice Giros
+2023,La Turballe,Loire-Atlantique,Pays de la Loire,beach,Les Bretons 1
+2023,La Turballe,Loire-Atlantique,Pays de la Loire,beach,Pen Bron (V.V.F)
+2023,La Turballe,Loire-Atlantique,Pays de la Loire,beach,Ker Élisabeth
+2023,Le Pouliguen,Loire-Atlantique,Pays de la Loire,beach,Le Nau
+2023,Plessé,Loire-Atlantique,Pays de la Loire,beach,Etang De Buhel
+2023,Pornic,Loire-Atlantique,Pays de la Loire,beach,Birochère
+2023,Pornic,Loire-Atlantique,Pays de la Loire,beach,L'Étang
+2023,Pornic,Loire-Atlantique,Pays de la Loire,beach,La Noeveillard
+2023,Pornic,Loire-Atlantique,Pays de la Loire,beach,Le Porteau
+2023,Pornic,Loire-Atlantique,Pays de la Loire,beach,La Source
+2023,Pornichet,Loire-Atlantique,Pays de la Loire,beach,Bonne Source
+2023,Pornichet,Loire-Atlantique,Pays de la Loire,beach,Sainte-Marguerite
+2023,Pornichet,Loire-Atlantique,Pays de la Loire,beach,Les Libraires
+2023,Préfailles,Loire-Atlantique,Pays de la Loire,beach,L'Anse Du Sud
+2023,Préfailles,Loire-Atlantique,Pays de la Loire,beach,Grande Plage
+2023,Préfailles,Loire-Atlantique,Pays de la Loire,beach,Port Meleu
+2023,Saint Brevin Les Pins,Loire-Atlantique,Pays de la Loire,beach,Plage De L'Ermitage
+2023,Saint Brevin Les Pins,Loire-Atlantique,Pays de la Loire,beach,Plage Des Rochelets
+2023,Saint Michel Chef Chef,Loire-Atlantique,Pays de la Loire,beach,Plage De Gohaud
+2023,Saint Michel Chef Chef,Loire-Atlantique,Pays de la Loire,beach,La Grande Plage De Tharon
+2023,Saint Michel Chef Chef,Loire-Atlantique,Pays de la Loire,beach,Plage Du Redois
+2023,Saint Philbert De Grand Lieu,Loire-Atlantique,Pays de la Loire,beach,Plage Du Parc De La Boulogne
+2023,Saint-Nazaire,Loire-Atlantique,Pays de la Loire,beach,Plage De M. Hulot
+2023,Saint-Nazaire,Loire-Atlantique,Pays de la Loire,beach,Plage De La Courance
+2023,Saint-Nazaire,Loire-Atlantique,Pays de la Loire,beach,Plage Des Jaunais
+2023,Chalette Sur Loing,Loiret,Centre-Val de Loire,beach,Plage De Chalette
+2023,Catus,Lot,Occitanie,beach,Plage Lac Vert
+2023,Montcuq En Quercy Blanc,Lot,Occitanie,beach,Plage Saint-Sernin
+2023,Lougratte,Lot-et-Garonne,Nouvelle-Aquitaine,beach,Lac De Lougratte
+2023,Villefort,Lozère,Occitanie,beach,Lac De Villefort
+2023,Barneville Carteret,Manche,Normandie,beach,Plage De La Potinière
+2023,Barneville Carteret,Manche,Normandie,beach,Plage De Barneville
+2023,Bréhal,Manche,Normandie,beach,Rd 592 Plage De St Martin De Bréhal
+2023,Carolles,Manche,Normandie,beach,Carolles Plage
+2023,Donville-Les-Bains,Manche,Normandie,beach,Plage Du Lude 50350
+2023,Granville,Manche,Normandie,beach,Plage Du Plat-Gousset
+2023,Jullouville,Manche,Normandie,beach,Le Casino
+2023,Jullouville,Manche,Normandie,beach,Les Plaisanciers
+2023,Les Pieux,Manche,Normandie,beach,Sciotot
+2023,Saint-Pair-Sur-Mer,Manche,Normandie,beach,Kairon Face Au Cd 373
+2023,Siouville Hague,Manche,Normandie,beach,Plage Cale John Hunter
+2023,Carnac,Morbihan,Bretagne,beach,Saint Colomban
+2023,Carnac,Morbihan,Bretagne,beach,Grande Plage
+2023,Erdeven,Morbihan,Bretagne,beach,Kerouriec
+2023,Erdeven,Morbihan,Bretagne,beach,Kerhillio
+2023,Guidel,Morbihan,Bretagne,beach,La Falaise
+2023,Guidel,Morbihan,Bretagne,beach,Le Loc'H
+2023,Guidel,Morbihan,Bretagne,beach,Pen Er Malo
+2023,Plouhinec,Morbihan,Bretagne,beach,Kervegant
+2023,Plouhinec,Morbihan,Bretagne,beach,Le Magouero
+2023,Montsauche Les Settons,Nièvre,Bourgogne-Franche-Comté,beach,Plage De La Presqu'Ile
+2023,Commune De Fourmies,Nord,Hauts-de-France,beach,Plage Des Etangs Des Moines
+2023,Gravelines,Nord,Hauts-de-France,beach,Petit Fort Philippe
+2023,Berck-Sur-Mer,Pas-de-Calais,Hauts-de-France,beach,Plage Centre
+2023,Bora Bora,Polynésie Française,Collectivités d'Outre-Mer,beach,Plage Snack Matira
+2023,Bora Bora,Polynésie Française,Collectivités d'Outre-Mer,beach,Plage Publique Matira
+2023,Bora Bora,Polynésie Française,Collectivités d'Outre-Mer,beach,Plage Hôtel Intercontinental Moana Beach
+2023,Bora Bora,Polynésie Française,Collectivités d'Outre-Mer,beach,Plage Hôtel Maitai Polynesia
+2023,Bora Bora,Polynésie Française,Collectivités d'Outre-Mer,beach,Plage Hôtel Pearl Beach
+2023,Bora Bora,Polynésie Française,Collectivités d'Outre-Mer,beach,Plage Hôtel Conrad
+2023,Bora Bora,Polynésie Française,Collectivités d'Outre-Mer,beach,Complexe Sportif Teriimaevarua (Salle Omnisport Pago)
+2023,Bora Bora,Polynésie Française,Collectivités d'Outre-Mer,beach,Plage Hôtel Intercontinental Thalasso Resort & Spa
+2023,Bora Bora,Polynésie Française,Collectivités d'Outre-Mer,beach,Plage Hôtel St Régis
+2023,Bora Bora,Polynésie Française,Collectivités d'Outre-Mer,beach,Plage Hôtel Four Seasons
+2023,Aubusson D Auvergne,Puy-de-Dôme,Auvergne-Rhône-Alpes,beach,Plage Du Lac D'Aubusson D'Auvergne
+2023,Aydat,Puy-de-Dôme,Auvergne-Rhône-Alpes,beach,Plage D'Aydat
+2023,Chambon Sur Lac,Puy-de-Dôme,Auvergne-Rhône-Alpes,beach,Plage Chambon
+2023,Cournon D'Auvergne,Puy-de-Dôme,Auvergne-Rhône-Alpes,beach,Plan D'Eau De Cournon D'Auvergne
+2023,Murol,Puy-de-Dôme,Auvergne-Rhône-Alpes,beach,Grande Plage Du Lac Chambon De Murol
+2023,Saint-Remy-Sur-Durolle,Puy-de-Dôme,Auvergne-Rhône-Alpes,beach,"Plage Côté Bars, Plan D'Eau Des Prades"
+2023,Thiers,Puy-de-Dôme,Auvergne-Rhône-Alpes,beach,Plan D'Eau D'Iloa
+2023,Anglet,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,Petite Chambre D'Amour
+2023,Anglet,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,Les Sables D'Or
+2023,Anglet,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,Marinella
+2023,Anglet,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,Les Corsaires
+2023,Anglet,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,La Madrague
+2023,Anglet,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,L'Ocean
+2023,Anglet,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,Les Cavaliers
+2023,Anglet,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,La Barre
+2023,Biarritz,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,Milady
+2023,Biarritz,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,Marbella
+2023,Biarritz,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,Côte Des Basques
+2023,Biarritz,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,Port Vieux
+2023,Biarritz,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,Grande Plage
+2023,Biarritz,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,Miramar
+2023,Bidart,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,Ilbarritz
+2023,Bidart,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,Pavillon Royal
+2023,Bidart,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,Erretegia
+2023,Bidart,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,Bidart Centre
+2023,Bidart,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,Parlementia
+2023,Hendaye,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,Grande Plage
+2023,Hendaye,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,Plage Des Deux Jumeaux
+2023,Argelès Sur Mer,Pyrénées-Orientales,Occitanie,beach,Plage De La Marenda-Tamariguer
+2023,Argelès Sur Mer,Pyrénées-Orientales,Occitanie,beach,Plage Centre-Pins
+2023,Argelès Sur Mer,Pyrénées-Orientales,Occitanie,beach,Plage Sud
+2023,Argelès Sur Mer,Pyrénées-Orientales,Occitanie,beach,Plage Du Racou
+2023,Banyuls Sur Mer,Pyrénées-Orientales,Occitanie,beach,Plage Centrale
+2023,Canet En Roussillon,Pyrénées-Orientales,Occitanie,beach,Port-Gcu
+2023,Canet En Roussillon,Pyrénées-Orientales,Occitanie,beach,Plage Du Roussillon
+2023,Canet En Roussillon,Pyrénées-Orientales,Occitanie,beach,Plage Centrale
+2023,Canet En Roussillon,Pyrénées-Orientales,Occitanie,beach,Plage Du Grand Large
+2023,Canet En Roussillon,Pyrénées-Orientales,Occitanie,beach,Plage De La Marenda
+2023,Canet En Roussillon,Pyrénées-Orientales,Occitanie,beach,Plage Du Mar Estang
+2023,Cerbere,Pyrénées-Orientales,Occitanie,beach,Cerbere
+2023,Port Barcarès,Pyrénées-Orientales,Occitanie,beach,Plage Du Lydia
+2023,Port Barcarès,Pyrénées-Orientales,Occitanie,beach,Plage Digue Sud Du Port
+2023,Port Barcarès,Pyrénées-Orientales,Occitanie,beach,Plage Du Village
+2023,Port-Vendres,Pyrénées-Orientales,Occitanie,beach,Plage Bernardi
+2023,Port-Vendres,Pyrénées-Orientales,Occitanie,beach,Plage De L'Usine
+2023,Saint Cyprien,Pyrénées-Orientales,Occitanie,beach,Plage De L'Art Ps1
+2023,Saint Cyprien,Pyrénées-Orientales,Occitanie,beach,Plage De L'Art Ps2
+2023,Saint Cyprien,Pyrénées-Orientales,Occitanie,beach,Plage Du Port
+2023,Saint Cyprien,Pyrénées-Orientales,Occitanie,beach,Plage Des Capellans
+2023,Saint Cyprien,Pyrénées-Orientales,Occitanie,beach,Plage De La Lagune
+2023,Sainte Marie La Mer,Pyrénées-Orientales,Occitanie,beach,Plage Du Camping Municipal
+2023,Sainte Marie La Mer,Pyrénées-Orientales,Occitanie,beach,Plage Du 4Ème Epi - 600M Entre Tous Les Épis
+2023,Sainte Marie La Mer,Pyrénées-Orientales,Occitanie,beach,Plage Du 3Ème Epi - 600M Entre Tous Les Épis
+2023,Sainte Marie La Mer,Pyrénées-Orientales,Occitanie,beach,Plage Du 2Ème Epi - 600M Entre Tous Les Épis
+2023,Sainte Marie La Mer,Pyrénées-Orientales,Occitanie,beach,Plage Du 1Er Epi - 600M Entre Tous Les Épis
+2023,Sainte Marie La Mer,Pyrénées-Orientales,Occitanie,beach,Plage Centrale
+2023,Torreilles,Pyrénées-Orientales,Occitanie,beach,Plage Centre
+2023,Torreilles,Pyrénées-Orientales,Occitanie,beach,Plage Nord
+2023,Torreilles,Pyrénées-Orientales,Occitanie,beach,Plage Sud
+2023,Saint Leu,Réunion,La Réunion,beach,Plage Centre Poste Mns
+2023,Saint Paul,Réunion,La Réunion,beach,Plage Boucan Canot (Piscine)
+2023,Saint Paul,Réunion,La Réunion,beach,Plage Boucan Canot
+2023,Saint Paul,Réunion,La Réunion,beach,Plage Roches Noires
+2023,Saint Paul,Réunion,La Réunion,beach,Plage Ermitage Centre La Passe
+2023,La Flèche,Sarthe,Pays de la Loire,beach,Plage De La Monnerie
+2023,Grésy Sur Isère,Savoie,Auvergne-Rhône-Alpes,beach,Base De Loisirs De Grésy-Sur-Isère
+2023,Saint Pierre D'Albigny,Savoie,Auvergne-Rhône-Alpes,beach,Plage Du Lac De Carouge
+2023,Souppes-Sur-Loing,Seine-et-Marne,Île-de-France,beach,Baignade De Souppes Sur Loing
+2023,Dieppe,Seine-Maritime,Normandie,beach,Plage De Dieppe
+2023,Dieppe,Seine-Maritime,Normandie,beach,Plage De Puys
+2023,Fécamp,Seine-Maritime,Normandie,beach,Plage De Fécamp
+2023,Le Havre,Seine-Maritime,Normandie,beach,Plage Du Havre
+2023,Saint Jouin Bruneval,Seine-Maritime,Normandie,beach,Saint Jouin Plage
+2023,Cayeux Sur Mer,Somme,Hauts-de-France,beach,Plage De La Ville
+2023,Blaye Les Mines,Tarn,Occitanie,beach,Plage Sainte Marie
+2023,Nages,Tarn,Occitanie,beach,Plage De Rieu-Montagné
+2023,Rivières,Tarn,Occitanie,beach,Baignade De Rivières - Aiguelèze
+2023,Trebas Les Bains,Tarn,Occitanie,beach,Base De Loisirs De Trébas
+2023,Molières,Tarn-et-Garonne,Occitanie,beach,Lac Plage Sable
+2023,Monclar De Quercy,Tarn-et-Garonne,Occitanie,beach,Lac Plage Coté Toboggan
+2023,Bandol,Var,Provence-Alpes-Côte d'Azur,beach,Plage Du Grand Vallat
+2023,Bandol,Var,Provence-Alpes-Côte d'Azur,beach,Plage Du Casino
+2023,Bandol,Var,Provence-Alpes-Côte d'Azur,beach,Plage Centrale
+2023,Bandol,Var,Provence-Alpes-Côte d'Azur,beach,Plage Renécros
+2023,Hyères,Var,Provence-Alpes-Côte d'Azur,beach,Ayguade
+2023,Hyères,Var,Provence-Alpes-Côte d'Azur,beach,Almanarre Nord
+2023,Hyères,Var,Provence-Alpes-Côte d'Azur,beach,La Bergerie
+2023,Hyères,Var,Provence-Alpes-Côte d'Azur,beach,Les Salins
+2023,La Croix Valmer,Var,Provence-Alpes-Côte d'Azur,beach,Gigaro
+2023,La Croix Valmer,Var,Provence-Alpes-Côte d'Azur,beach,La Douane Le Débarquement
+2023,La Londe Les Maures,Var,Provence-Alpes-Côte d'Azur,beach,L'Argentière
+2023,La Londe Les Maures,Var,Provence-Alpes-Côte d'Azur,beach,Miramar
+2023,La Londe Les Maures,Var,Provence-Alpes-Côte d'Azur,beach,Tamaris
+2023,La Seyne-Sur-Mer,Var,Provence-Alpes-Côte d'Azur,beach,Sablettes Centre
+2023,La Seyne-Sur-Mer,Var,Provence-Alpes-Côte d'Azur,beach,Sablettes Est
+2023,Le Lavandou,Var,Provence-Alpes-Côte d'Azur,beach,Anglade
+2023,Le Lavandou,Var,Provence-Alpes-Côte d'Azur,beach,Lavandou Ville
+2023,Le Lavandou,Var,Provence-Alpes-Côte d'Azur,beach,Saint Clair
+2023,Le Lavandou,Var,Provence-Alpes-Côte d'Azur,beach,La Fossette
+2023,Le Lavandou,Var,Provence-Alpes-Côte d'Azur,beach,Aiguebelle
+2023,Le Lavandou,Var,Provence-Alpes-Côte d'Azur,beach,Cavalière
+2023,Le Lavandou,Var,Provence-Alpes-Côte d'Azur,beach,Pramousquier
+2023,Le Pradet,Var,Provence-Alpes-Côte d'Azur,beach,Les Bonnettes
+2023,Le Pradet,Var,Provence-Alpes-Côte d'Azur,beach,La Garonne
+2023,Le Pradet,Var,Provence-Alpes-Côte d'Azur,beach,Le Monaco
+2023,Le Pradet,Var,Provence-Alpes-Côte d'Azur,beach,Les Oursinières
+2023,Le Pradet,Var,Provence-Alpes-Côte d'Azur,beach,Le Pin De Galle
+2023,Roquebrune Sur Argens,Var,Provence-Alpes-Côte d'Azur,beach,San Peire
+2023,Roquebrune Sur Argens,Var,Provence-Alpes-Côte d'Azur,beach,Gaillarde
+2023,Saint-Mandrier Sur Mer,Var,Provence-Alpes-Côte d'Azur,beach,La Coudoulière
+2023,Saint-Mandrier Sur Mer,Var,Provence-Alpes-Côte d'Azur,beach,La Vieille
+2023,Saint-Mandrier Sur Mer,Var,Provence-Alpes-Côte d'Azur,beach,Saint-Asile
+2023,Saint-Mandrier Sur Mer,Var,Provence-Alpes-Côte d'Azur,beach,Touring
+2023,Saint-Mandrier Sur Mer,Var,Provence-Alpes-Côte d'Azur,beach,Le Canon
+2023,Saint-Raphaël,Var,Provence-Alpes-Côte d'Azur,beach,Péguière
+2023,Saint-Raphaël,Var,Provence-Alpes-Côte d'Azur,beach,Veillat
+2023,Saint-Raphaël,Var,Provence-Alpes-Côte d'Azur,beach,Boulouris
+2023,Saint-Raphaël,Var,Provence-Alpes-Côte d'Azur,beach,Dramont
+2023,Saint-Raphaël,Var,Provence-Alpes-Côte d'Azur,beach,Camp Long
+2023,Saint-Raphaël,Var,Provence-Alpes-Côte d'Azur,beach,Agay
+2023,Saint-Raphaël,Var,Provence-Alpes-Côte d'Azur,beach,Pourousset
+2023,Saint-Raphaël,Var,Provence-Alpes-Côte d'Azur,beach,Baumette
+2023,Saint-Raphaël,Var,Provence-Alpes-Côte d'Azur,beach,Anthéor
+2023,Sainte Maxime,Var,Provence-Alpes-Côte d'Azur,beach,Garonnette
+2023,Sainte Maxime,Var,Provence-Alpes-Côte d'Azur,beach,La Croisette
+2023,Sainte Maxime,Var,Provence-Alpes-Côte d'Azur,beach,La Nartelle
+2023,Sainte Maxime,Var,Provence-Alpes-Côte d'Azur,beach,Centre-Ville
+2023,Six Fours Les Plages,Var,Provence-Alpes-Côte d'Azur,beach,La Coudouliere
+2023,Six Fours Les Plages,Var,Provence-Alpes-Côte d'Azur,beach,Les Roches Brunes
+2023,Toulon,Var,Provence-Alpes-Côte d'Azur,beach,Plage Mistral
+2023,Toulon,Var,Provence-Alpes-Côte d'Azur,beach,Plage Du Lido
+2023,Toulon,Var,Provence-Alpes-Côte d'Azur,beach,Plage De La Source
+2023,Jard Sur Mer,Vendée,Pays de la Loire,beach,Boisvinet
+2023,Jard Sur Mer,Vendée,Pays de la Loire,beach,La Mine
+2023,L'Aiguillon-La-Presqu'Île,Vendée,Pays de la Loire,beach,Grand'Plage
+2023,L'Aiguillon-La-Presqu'Île,Vendée,Pays de la Loire,beach,Plage De La Barrique
+2023,L'Aiguillon-La-Presqu'Île,Vendée,Pays de la Loire,beach,Plan D'Eau
+2023,La Tranche Sur Mer,Vendée,Pays de la Loire,beach,La Terrière
+2023,La Tranche Sur Mer,Vendée,Pays de la Loire,beach,Les Generelles
+2023,La Tranche Sur Mer,Vendée,Pays de la Loire,beach,Plage Centrale
+2023,La Tranche Sur Mer,Vendée,Pays de la Loire,beach,La Grière
+2023,La Tranche Sur Mer,Vendée,Pays de la Loire,beach,Sainte Anne
+2023,La Tranche Sur Mer,Vendée,Pays de la Loire,beach,La Porte Des Iles
+2023,La Tranche Sur Mer,Vendée,Pays de la Loire,beach,Corps De Garde
+2023,La Tranche Sur Mer,Vendée,Pays de la Loire,beach,Flandre Dunkerque
+2023,Notre Dame De Monts,Vendée,Pays de la Loire,beach,Plage Centrale
+2023,Talmont Saint Hilaire,Vendée,Pays de la Loire,beach,Le Veillon
+2023,Beaumont Saint Cyr,Vienne,Nouvelle-Aquitaine,beach,Parc De Saint Cyr
