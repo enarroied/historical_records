@@ -1,5 +1,5 @@
 year,commune,department,region,type_of_flag,places
-2020,AGDE,Hérault (34),Occitanie,beach,"Grau d’Agde, Saint Vincent, La Tamarissière, Le Môle, Les Battuts, Plage Naturiste, Richelieu, Rochelongue, La Roquille, La Plagette"
+2020,AGDE,Hérault (34),Occitanie,beach,"Grau d'Agde, Saint Vincent, La Tamarissière, Le Môle, Les Battuts, Plage Naturiste, Richelieu, Rochelongue, La Roquille, La Plagette"
 2020,AGON COUTAINVILLE,Manche (50),Normandie,beach,Plage du Centre
 2020,AIGNAN,Gers (32),Occitanie,beach,Base de loisirs du lac
 2020,AJACCIO,Corse-Du-Sud (2A),Corse,beach,"Trottel, Terre sacrée"
@@ -8,9 +8,9 @@ year,commune,department,region,type_of_flag,places
 2020,ANTIBES,Alpes-Maritimes (6),Provence-Alpes-Côtes d'Azur,beach,"Les Groules, Fontonne Est, Fontonne Ouest, Antibes-les-Pins Est, Antibes-les-Pins Ouest, Marineland, Fort Carré"
 2020,ARGELÈS-SUR-MER,Pyrénées-Orientales (66),Occitanie,beach,"Plage Centre-Pins, Plage de la Marenda-Tamariguer,Plage du Racou, Plage Sud"
 2020,ARNAGE,Sarthe (72),Pays de la Loire,beach,Plage Gèmerie
-2020,ARNAY-LE-DUC,Côte-D’Or (21),Bourgogne-Franche-Comté,beach,Fouché
-2020,AUBUSSON D’AUVERGNE,Puy-De-Dôme (63),Auvergne-Rhône-Alpes,beach,Plage du lac d’Aubusson d’Auvergne
-2020,AYDAT,Puy-De-Dôme (63),Auvergne-Rhône-Alpes,beach,Plage d’Aydat
+2020,ARNAY-LE-DUC,Côte-D'Or (21),Bourgogne-Franche-Comté,beach,Fouché
+2020,AUBUSSON D'AUVERGNE,Puy-De-Dôme (63),Auvergne-Rhône-Alpes,beach,Plage du lac d'Aubusson d'Auvergne
+2020,AYDAT,Puy-De-Dôme (63),Auvergne-Rhône-Alpes,beach,Plage d'Aydat
 2020,BANYULS-SUR-MER,Pyrénées-Orientales (66),Occitanie,beach,Plage Centrale
 2020,BARNEVILLE-CARTERET,Manche (50),Normandie,beach,"Plage de la Potinière, Plage de Barneville"
 2020,BEAUMONT SAINT-CYR,Vienne (86),Nouvelle-Aquitaine,beach,Parc de Saint-Cyr
@@ -26,32 +26,32 @@ year,commune,department,region,type_of_flag,places
 2020,CASTÉRA-VERDUZAN,Gers (32),Occitanie,beach,Base de loisirs
 2020,CAYEUX-SUR-MER,Somme (80),Hauts-De-France,beach,Plage de la Ville
 2020,CHAMBON-SUR-LAC,Puy-De-Dôme (63),Auvergne-Rhône-Alpes,beach,Plage Chambon
-2020,CHAMPAGNAC-LE-VIEUX,Haute-Loire (43),Auvergne-Rhône-Alpes,beach,Plage du Plan d’eau
+2020,CHAMPAGNAC-LE-VIEUX,Haute-Loire (43),Auvergne-Rhône-Alpes,beach,Plage du Plan d'eau
 2020,CHORGES,Hautes-Alpes (5),Provence-Alpes-Côtes d'Azur,beach,"Plage des Trémouilles, Plage de la Baie, Saint-Michel"
 2020,CHÂLETTE-SUR-LOING,Loiret (45),Centre-Val De Loire,beach,Plage de Châlette
 2020,CLAIRVAUX-LES-LACS,Jura (39),Bourgogne-Franche-Comté,beach,Plage du Grand Lac de Clairvaux
-2020,CLERMONT-L’HÉRAULT,Hérault (34),Occitanie,beach,Lac du Salagou - plage du camping
+2020,CLERMONT-L'HÉRAULT,Hérault (34),Occitanie,beach,Lac du Salagou - plage du camping
 2020,CLOHARS-CARNOËT,Finistère (29),Bretagne,beach,"Bellangenet, Grands Sables, Kerrou"
 2020,COLLEVILLE-MONTGOMERY,Calvados (14),Normandie,beach,Colleville plage
 2020,CROTS,Hautes-Alpes (5),Provence-Alpes-Côtes d'Azur,beach,Plage de Chanterenne
 2020,DIEPPE,Seine-Maritime (76),Normandie,beach,"Plage de Dieppe, Plage de Puys"
 2020,DONVILLE-LES-BAINS,Manche (50),Normandie,beach,Lude
 2020,EGUZON-CHANTÔME,Indre (36),Centre-Val De Loire,beach,Plage de Chambon
-2020,EMBRUN,Hautes-Alpes (5),Provence-Alpes-Côtes d'Azur,beach,Plan d’eau plage
+2020,EMBRUN,Hautes-Alpes (5),Provence-Alpes-Côtes d'Azur,beach,Plan d'eau plage
 2020,EVIAN-LES-BAINS,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Plage du Centre Nautique Evian
 2020,EXCENEVEX,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Plage principale Excenevex
-2020,FLEURY D’AUDE,Aude (11),Occitanie,beach,"Les Cabanes de Fleury, Saint-Pierre-La-Mer"
+2020,FLEURY D'AUDE,Aude (11),Occitanie,beach,"Les Cabanes de Fleury, Saint-Pierre-La-Mer"
 2020,FOS-SUR-MER,Bouches-du-Rhône (13),Provence-Alpes-Côtes d'Azur,beach,"Cavaou, Grande Plage"
 2020,FOUESNANT-LES GLÉNAN,Finistère (29),Bretagne,beach,"Kerler, Maner Coat Clevarec, Kerambigorn, Cap-Coz, Glénan Saint-Nicolas"
-2020,FRONTIGNAN LA PEYRADE,Hérault (34),Occitanie,beach,"L’entrée, Le Port, La Bergerie, Les Aresquiers, Le Grau"
+2020,FRONTIGNAN LA PEYRADE,Hérault (34),Occitanie,beach,"L'entrée, Le Port, La Bergerie, Les Aresquiers, Le Grau"
 2020,FÉCAMP,Seine-Maritime (76),Normandie,beach,Plage de Fécamp
 2020,GOUVILLE-SUR-MER,Manche (50),Normandie,beach,Plage Gouville sur Mer face au CD 268
 2020,GRANVILLE,Manche (50),Normandie,beach,Plage du Plat-Gousset
 2020,GRAVELINES,Nord (59),Hauts-De-France,beach,Petit Fort Philippe
-2020,GRAYAN ET L’HÔPITAL,Gironde (33),Nouvelle-Aquitaine,beach,"Le Gurp, Euronat"
+2020,GRAYAN ET L'HÔPITAL,Gironde (33),Nouvelle-Aquitaine,beach,"Le Gurp, Euronat"
 2020,GRUISSAN,Aude (11),Occitanie,beach,"Grazel, Les Chalets, Mateille-Ayguades"
 2020,GRÉSY-SUR-ISÈRE,Savoie (73),Auvergne-Rhône-Alpes,beach,Base de loisirs de Grésy-sur-Isère
-2020,GUIDEL,Morbihan (56),Bretagne,beach,"La Falaise, Le Loc’h, Pen er Malo"
+2020,GUIDEL,Morbihan (56),Bretagne,beach,"La Falaise, Le Loc'h, Pen er Malo"
 2020,HONFLEUR,Calvados (14),Normandie,beach,Plage du Butin
 2020,HOURTIN,Gironde (33),Nouvelle-Aquitaine,beach,"Hourtin Océan, Lac La Jetée (Plage du port), Lac Piqueyrot"
 2020,HYÈRES,Var (83),Provence-Alpes-Côtes d'Azur,beach,"Ayguade, Almanarre Nord, La Bergerie, Les Salins"
@@ -59,16 +59,16 @@ year,commune,department,region,type_of_flag,places
 2020,JOUÉ-LES-TOURS,Indre-Et-Loire (37),Centre-Val De Loire,beach,La baignade des Bretonnières
 2020,JULLOUVILLE,Manche (50),Normandie,beach,"Le Casino, Les Plaisanciers"
 2020,LA BARRE-DE-MONTS,Vendée (85),Pays de la Loire,beach,"Fromentine, La Bergère/La Grande Côte"
-2020,LA BAULE-ESCOUBLAC,Loire-Atlantique (44),Pays de la Loire,beach,"Face à l’Avenue du Général de Gaulle, Face à l’Avenue de la Grande Dune, Face à l’Esplanade Benoît"
-2020,LA BERNERIE-EN-RETZ,Loire-Atlantique (44),Pays de la Loire,beach,Plan d’eau Maurice Giros
+2020,LA BAULE-ESCOUBLAC,Loire-Atlantique (44),Pays de la Loire,beach,"Face à l'Avenue du Général de Gaulle, Face à l'Avenue de la Grande Dune, Face à l'Esplanade Benoît"
+2020,LA BERNERIE-EN-RETZ,Loire-Atlantique (44),Pays de la Loire,beach,Plan d'eau Maurice Giros
 2020,LA CROIX-VALMER,Var (83),Provence-Alpes-Côtes d'Azur,beach,"Gigaro, La Douane Le Débarquement"
-2020,LA FAUTE-SUR-MER,Vendée (85),Pays de la Loire,beach,"Grand’Plage, Plage de la Barrique"
+2020,LA FAUTE-SUR-MER,Vendée (85),Pays de la Loire,beach,"Grand'Plage, Plage de la Barrique"
 2020,LA FLÈCHE,Sarthe (72),Pays de la Loire,beach,Plage de la Monnerie
 2020,LA GRANDE MOTTE,Hérault (34),Occitanie,beach,"Grand Travers, Plage Echirolles, Plage du Couchant / Rose des Sables, Saint Clair / Point Zéro"
 2020,LA JEMAYE-PONTEYRAUD,Dordogne (24),Nouvelle-Aquitaine,beach,Plage du Grand Etang
-2020,LA LONDELES-MAURES,Var (83),Provence-Alpes-Côtes d'Azur,beach,"L’Argentière, Miramar, Tamaris"
+2020,LA LONDELES-MAURES,Var (83),Provence-Alpes-Côtes d'Azur,beach,"L'Argentière, Miramar, Tamaris"
 2020,LA ROCHELLE,Charente-Maritime (17),Nouvelle-Aquitaine,beach,"Chef de Baie, La Concurrence, Les Minimes"
-2020,LA TOUR D’AUVERGNE,Puy-De-Dôme (63),Auvergne-Rhône-Alpes,beach,Plage du Plan d’eau
+2020,LA TOUR D'AUVERGNE,Puy-De-Dôme (63),Auvergne-Rhône-Alpes,beach,Plage du Plan d'eau
 2020,LA TURBALLE,Loire-Atlantique (44),Pays de la Loire,beach,"Les Bretons 1, Pen Bron (V.V.F), Ker Élisabeth"
 2020,LA-SEYNE-SUR-MER,Var (83),Provence-Alpes-Côtes d'Azur,beach,"Sablettes, Sablettes Est"
 2020,LA-TRANCHE-SUR-MER,Vendée (85),Pays de la Loire,beach,"La Terrière, Les Generelles, plage centrale, La Grière, Sainte Anne, La Porte des Iles, Corps de garde"
@@ -81,74 +81,74 @@ year,commune,department,region,type_of_flag,places
 2020,LE PRADET,Var (83),Provence-Alpes-Côtes d'Azur,beach,"Les Bonnettes, La Garonne, Le Monaco, Les Oursinières"
 2020,LE VERDON-SUR-MER,Gironde (33),Nouvelle-Aquitaine,beach,Plage océanne de Saint-Nicolas
 2020,LE-GRAND-VILLAGE-PLAGE,Charente-Maritime (17),Nouvelle-Aquitaine,beach,Plage de la Giraudière
-2020,LE-GRAU-DU-ROI,Gard (30),Occitanie,beach,"Le Boucanet, Rive Droite, Rive Gauche, Port Camargue Nord, Port Camargue Sud, Pointe de l’Espiguette"
+2020,LE-GRAU-DU-ROI,Gard (30),Occitanie,beach,"Le Boucanet, Rive Droite, Rive Gauche, Port Camargue Nord, Port Camargue Sud, Pointe de l'Espiguette"
 2020,LES PIEUX,Manche (50),Normandie,beach,Sciotot
 2020,LEUCATE,Aude (11),Occitanie,beach,"La Franqui, Leucate Plage, Naturistes (Port Leucate), Le Kyklos, Copacabana (Port Leucate)"
 2020,LONGEVILLE-SUR-MER,Vendée (85),Pays de la Loire,beach,"Le Petit Rocher, Les Conches"
 2020,LOUGRATTE,Lot-Et-Garonne (47),Nouvelle-Aquitaine,beach,Lac de Lougratte
 2020,LUZECH,Lot (46),Occitanie,beach,Plage de Caïx
-2020,MACOT-LA-PLAGNE,Savoie (73),Auvergne-Rhône-Alpes,beach,"La Plagne Tarentaise, Base de loisirs des Versants d’Aime"
+2020,MACOT-LA-PLAGNE,Savoie (73),Auvergne-Rhône-Alpes,beach,"La Plagne Tarentaise, Base de loisirs des Versants d'Aime"
 2020,MALAFRETAZ,Ain (01),Auvergne-Rhône-Alpes,beach,Plage principale
-2020,MANDELIEU- LA-NAPOULE,Alpes-Maritimes (6),Provence-Alpes-Côtes d'Azur,beach,Plage du Sable d’Or
+2020,MANDELIEU- LA-NAPOULE,Alpes-Maritimes (6),Provence-Alpes-Côtes d'Azur,beach,Plage du Sable d'Or
 2020,MARIGNANE,Bouches-du-Rhône (13),Provence-Alpes-Côtes d'Azur,beach,Plage du Jaï Nord
-2020,MASSERET,Corrèze (19),Nouvelle-Aquitaine,beach,"Plan d’eau Masseret, Lamongerie"
-2020,MAUGUIO-CARNON,Hérault (34),Occitanie,beach,"Carnon Centre, Carnon / Degrasse, Carnon l’Avranche (De Grasse/ Suffren), Carnon les Dunes (secteur grand travers)"
+2020,MASSERET,Corrèze (19),Nouvelle-Aquitaine,beach,"Plan d'eau Masseret, Lamongerie"
+2020,MAUGUIO-CARNON,Hérault (34),Occitanie,beach,"Carnon Centre, Carnon / Degrasse, Carnon l'Avranche (De Grasse/ Suffren), Carnon les Dunes (secteur grand travers)"
 2020,MOLIÈRES,Tarn-et-Garonne (82),Occitanie,beach,Lac Plage Sable
-2020,MONAMPTEUIL,Aisne (02),Hauts-De-France,beach,Axo’Plage
+2020,MONAMPTEUIL,Aisne (02),Hauts-De-France,beach,Axo'Plage
 2020,MONCLARDE-QUERCY,Tarn-et-Garonne (82),Occitanie,beach,Lac Plage coté Toboggan
 2020,MONTCUQ EN QUERCY BLANC,Lot (46),Occitanie,beach,Plage de Saint-Sernin
 2020,MONTRÉJEAU,Haute-Garonne (31),Occitanie,beach,Lac Montréjeau
-2020,MONTSAUCHE-LES-SETTONS,Nièvre (58),Bourgogne-Franche-Comté,beach,Plage de la Presqu’île
+2020,MONTSAUCHE-LES-SETTONS,Nièvre (58),Bourgogne-Franche-Comté,beach,Plage de la Presqu'île
 2020,MOËLAN-SUR-MER,Finistère (29),Bretagne,beach,"Kerfany, Trenez"
 2020,MUROL,Puy-De-Dôme (63),Auvergne-Rhône-Alpes,beach,Grande plage du lac Chambon de Murol
 2020,NARBONNE-PLAGE,Aude (11),Occitanie,beach,"Plage du Centre, Plage des Karantes, Plage du Languedoc, Plage du Créneau Nature"
-2020,NEUVIC D’USSEL,Corrèze (19),Nouvelle-Aquitaine,beach,La Plage
+2020,NEUVIC D'USSEL,Corrèze (19),Nouvelle-Aquitaine,beach,La Plage
 2020,NICE,Alpes-Maritimes (6),Provence-Alpes-Côtes d'Azur,beach,"Carras, Castel, Magnan, Saint Hélène"
 2020,NOTRE-DAME-DE-MONTS,Vendée (85),Pays de la Loire,beach,Plage Centrale
 2020,NÉVEZ,Finistère (29),Bretagne,beach,"Dourveil, Tahiti, Rospico, Saint-Nicolas"
-2020,PALAVAS-LES-FLOTS,Hérault (34),Occitanie,beach,"Rive Gauche - Le Grec, Rive Droite - Saint Pierre, Rive Gauche - St Maurice, Rive Gauche - St Roch, Rive Droite - L’Albatros"
+2020,PALAVAS-LES-FLOTS,Hérault (34),Occitanie,beach,"Rive Gauche - Le Grec, Rive Droite - Saint Pierre, Rive Gauche - St Maurice, Rive Gauche - St Roch, Rive Droite - L'Albatros"
 2020,PIETROSELLA,Corse-Du-Sud (2A),Corse,beach,Plage du Ruppione
 2020,PLESSÉ,Loire-Atlantique (44),Pays de la Loire,beach,Etang de Buhel
 2020,PLOUGASNOU,Finistère (29),Bretagne,beach,"Primel, Tregastel"
-2020,PLOUHA,Côtes-D’Armor (22),Bretagne,beach,"Bréhec Plage Vieux-Bréhec, Pors Moguer"
+2020,PLOUHA,Côtes-D'Armor (22),Bretagne,beach,"Bréhec Plage Vieux-Bréhec, Pors Moguer"
 2020,PLOUHINEC,Morbihan (56),Bretagne,beach,"Kervegant, Le Magouero"
 2020,PLOUHINEC,Finistère (29),Bretagne,beach,"Gwendrez, Mesperleuc"
-2020,PONT-L’ÉVÊQUE,Calvados (14),Normandie,beach,Lac de Pont-l’Évêque
-2020,PORNIC,Loire-Atlantique (44),Pays de la Loire,beach,"Birochère, L’étang, La Noeveillard, Le Porteau, Portmain"
+2020,PONT-L'ÉVÊQUE,Calvados (14),Normandie,beach,Lac de Pont-l'Évêque
+2020,PORNIC,Loire-Atlantique (44),Pays de la Loire,beach,"Birochère, L'étang, La Noeveillard, Le Porteau, Portmain"
 2020,PORNICHET,Loire-Atlantique (44),Pays de la Loire,beach,"Bonne Source, Sainte-Marguerite, Les Libraires"
 2020,PORT-BARCARÈS,Pyrénées-Orientales (66),Occitanie,beach,"Plage du Lydia, Plage Digue Sud du Port, Plage du Village"
 2020,PORT-DE-BOUC,Bouches-du-Rhône (13),Provence-Alpes-Côtes d'Azur,beach,Bottai
 2020,PORT-LA-NOUVELLE,Aude (11),Occitanie,beach,Plage du Front de Mer
-2020,PORT-VENDRES,Pyrénées-Orientales (66),Occitanie,beach,"Plage Bernardi, Plage de l’Usine"
+2020,PORT-VENDRES,Pyrénées-Orientales (66),Occitanie,beach,"Plage Bernardi, Plage de l'Usine"
 2020,PORTBAIL,Manche (50),Normandie,beach,Sémaphore
 2020,PORTIRAGNES,Hérault (34),Occitanie,beach,"La Redoute (Blockhaus), Le Bosquet"
 2020,POULDREUZIC,Finistère (29),Bretagne,beach,Penhors
-2020,PRÉFAILLES,Loire-Atlantique (44),Pays de la Loire,beach,"L’Anse du Sud, Port Meleu"
+2020,PRÉFAILLES,Loire-Atlantique (44),Pays de la Loire,beach,"L'Anse du Sud, Port Meleu"
 2020,PUBLIER,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Plage municipale Amphion-les-bains
 2020,RAYOL CANADEL-SUR-MER,Var (83),Provence-Alpes-Côtes d'Azur,beach,"Canadel, Plage Pramousquier Est, Rayol"
 2020,RIVIÈRES,Tarn (81),Occitanie,beach,Aiguelèze
-2020,ROSCOFF,Finistère (29),Bretagne,beach,Saint-Luc (Roc’h-Kroum)
+2020,ROSCOFF,Finistère (29),Bretagne,beach,Saint-Luc (Roc'h-Kroum)
 2020,ROUSSET,Hautes-Alpes (5),Provence-Alpes-Côtes d'Azur,beach,Bois Vieux
 2020,ROYAN,Charente-Maritime (17),Nouvelle-Aquitaine,beach,Le Chay
 2020,SAINT HILAIRE LES PLACES,Haute-Vienne (87),Nouvelle-Aquitaine,beach,Lac plaisance
-2020,SAINT-BREVIN-LES-PINS,Loire-Atlantique (44),Pays de la Loire,beach,"Plage de l’Ermitage, Plage des Rochelets, Plage de l’Océan"
+2020,SAINT-BREVIN-LES-PINS,Loire-Atlantique (44),Pays de la Loire,beach,"Plage de l'Ermitage, Plage des Rochelets, Plage de l'Océan"
 2020,SAINT-BRIAC-SUR-MER,Ille-Et-Vilaine (35),Bretagne,beach,"La Salinette, Port Hue"
-2020,SAINT-CYPRIEN,Pyrénées-Orientales (66),Occitanie,beach,"Plage de l’Art PS1, Plage de l’Art PS2, Plage du Port, Plage des Capellans, Plage de la Lagune"
+2020,SAINT-CYPRIEN,Pyrénées-Orientales (66),Occitanie,beach,"Plage de l'Art PS1, Plage de l'Art PS2, Plage du Port, Plage des Capellans, Plage de la Lagune"
 2020,SAINT-CYR-SUR-MER,Var (83),Provence-Alpes-Côtes d'Azur,beach,"La Madrague, Les Lecques Saint Come Ouest"
 2020,SAINT-ESTÈPHE,Dordogne (24),Nouvelle-Aquitaine,beach,Plage du Grand Etang
-2020,SAINT-GEORGES D’OLÉRON,Charente-Maritime (17),Nouvelle-Aquitaine,beach,"Plage de Boyardville, Plage de La Gautrelle, Plage de Plaisance, Plage des Sables Vignie"
+2020,SAINT-GEORGES D'OLÉRON,Charente-Maritime (17),Nouvelle-Aquitaine,beach,"Plage de Boyardville, Plage de La Gautrelle, Plage de Plaisance, Plage des Sables Vignie"
 2020,SAINT-GINGOLPH,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Plage municipale de Saint-Gingolph
 2020,SAINT-JEAN-DE-MONTS,Vendée (85),Pays de la Loire,beach,La Grande Plage
 2020,SAINT-JORIOZ,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Plage municipale
 2020,SAINT-JOUIN-BRUNEVAL,Seine-Maritime (76),Normandie,beach,Saint-Jouin Plage
-2020,SAINT-JUST D’ARDÈCHE,Ardèche (07),Auvergne-Rhône-Alpes,beach,Plage de Saint-Just d’Ardèche
+2020,SAINT-JUST D'ARDÈCHE,Ardèche (07),Auvergne-Rhône-Alpes,beach,Plage de Saint-Just d'Ardèche
 2020,SAINT-MANDRIER-SUR-MER,Var (83),Provence-Alpes-Côtes d'Azur,beach,"La Coudoulière, La Vieille, Touring, Le Canon"
-2020,SAINT-MARTIN D’ARDÈCHE,Ardèche (07),Auvergne-Rhône-Alpes,beach,"Plage de Sauze, Plage du Grain de sel"
+2020,SAINT-MARTIN D'ARDÈCHE,Ardèche (07),Auvergne-Rhône-Alpes,beach,"Plage de Sauze, Plage du Grain de sel"
 2020,SAINT-MICHEL-CHEF-CHEF,Loire-Atlantique (44),Pays de la Loire,beach,"Plage de Gohaud, La grande plage de Tharon, Plage du Redois"
 2020,SAINT-NAZAIRE,Loire-Atlantique (44),Pays de la Loire,beach,"Plage de M. Hulot, Plage de la Courance, Plage des Jaunais"
 2020,SAINT-PAIR-SUR-MER,Manche (50),Normandie,beach,Kairon face au CD 373
 2020,SAINT-PHILBERT-DE-GRAND-LIEU,Loire-Atlantique (44),Pays de la Loire,beach,Plage du parc de la boulogne
-2020,SAINT-PIERRE D’ALBIGNY,Savoie (73),Auvergne-Rhône-Alpes,beach,Plage du lac de Carouge
+2020,SAINT-PIERRE D'ALBIGNY,Savoie (73),Auvergne-Rhône-Alpes,beach,Plage du lac de Carouge
 2020,SAINT-POL-DE-LÉON,Finistère (29),Bretagne,beach,Sainte Anne
 2020,SAINT-RAPHAËL,Var (83),Provence-Alpes-Côtes d'Azur,beach,"Péguière, Veillat, Arène Grosse, Boulouris, Dramont, Camp Long, Agay, Pourousset, Baumette, Anthéor"
 2020,SAINT-TROJAN-LES-BAINS,Charente-Maritime (17),Nouvelle-Aquitaine,beach,"La grande plage, Gatseau"
@@ -157,11 +157,11 @@ year,commune,department,region,type_of_flag,places
 2020,SALLES-CURAN,Aveyron (12),Occitanie,beach,"Plage des Vernhes 1, Plage des Vernhes 2"
 2020,SAUSSETLES-PINS,Bouches-du-Rhône (13),Provence-Alpes-Côtes d'Azur,beach,Corniche
 2020,SAUZE-DU-LAC,Hautes-Alpes (5),Provence-Alpes-Côtes d'Azur,beach,Port Saint Pierre (plage)
-2020,SAVINES-LE-LAC,Hautes-Alpes (5),Provence-Alpes-Côtes d'Azur,beach,"Savin’Plage, Plage de la Combette"
+2020,SAVINES-LE-LAC,Hautes-Alpes (5),Provence-Alpes-Côtes d'Azur,beach,"Savin'Plage, Plage de la Combette"
 2020,SEIGNOSSE LES ESTAGNOTS,Landes (40),Nouvelle-Aquitaine,beach,Le Penon
 2020,SIOUVILLE-HAGUE,Manche (50),Normandie,beach,Plage Cale John Hunter
 2020,SIX-FOURS-LES-PLAGES,Var (83),Provence-Alpes-Côtes d'Azur,beach,"Bonnegrace Kennedy, Bonnegrace Centre poste de secours, Le Cros, La Coudouliere, Les Roches Brunes"
-2020,SOULAC-SUR-MER,Gironde (33),Nouvelle-Aquitaine,beach,"L’Amélie, Plage Centrale, Plage des Naïades"
+2020,SOULAC-SUR-MER,Gironde (33),Nouvelle-Aquitaine,beach,"L'Amélie, Plage Centrale, Plage des Naïades"
 2020,SOUPPES-SUR-LOING,Seine-Et-Marne (77),Île-De-France,beach,Baignade de Souppes-sur-Loing
 2020,SÈTE,Hérault (34),Occitanie,beach,"Plage des 3 Digues, Castellas, Lazaret, Plage de la Baleine, Plage de la Fontaine, Plage du Lido"
 2020,SÉRIGNAN,Hérault (34),Occitanie,beach,Sérignan Plage
@@ -171,7 +171,7 @@ year,commune,department,region,type_of_flag,places
 2020,TORREILLES,Pyrénées-Orientales (66),Occitanie,beach,"Plage Centre, Plage Nord, Plage Sud"
 2020,TOULON,Var (83),Provence-Alpes-Côtes d'Azur,beach,"Mistral, Plage des Pins, Plage du Lido, Plage de la Source"
 2020,TREIGNAC,Corrèze (19),Nouvelle-Aquitaine,beach,Plage des Bariousses
-2020,TREVOU-TRÉGUIGNEC,Côtes-D’Armor (22),Bretagne,beach,Trestel
+2020,TREVOU-TRÉGUIGNEC,Côtes-D'Armor (22),Bretagne,beach,Trestel
 2020,TRÉBAS-LES-BAINS,Tarn (81),Occitanie,beach,Base de loisirs de Trébas
 2020,TRÉMOUILLE,Cantal (15),Auvergne-Rhône-Alpes,beach,Lastioulles
 2020,UBAYE-SERRE-PONÇON,Alpes-de-Haute-Provence (4),Provence-Alpes-Côtes d'Azur,beach,Plage de Saint Vincent les forts
@@ -179,11 +179,11 @@ year,commune,department,region,type_of_flag,places
 2020,VALRAS-PLAGE,Hérault (34),Occitanie,beach,"Casino, De Gaulle, Les Mouettes, Poste de secours central"
 2020,VEYRIER-DU-LAC,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Plage La Brune
 2020,VIAS,Hérault (34),Occitanie,beach,Farinette
-2020,VIEURE,Allier (03),Auvergne-Rhône-Alpes,beach,Plage du plan d’eau de Vieure
+2020,VIEURE,Allier (03),Auvergne-Rhône-Alpes,beach,Plage du plan d'eau de Vieure
 2020,VILLEFORT,Lozère (48),Occitanie,beach,Lac de Villefort
 2020,VILLENEUVE-LÈS-MAGUELONE,Hérault (34),Occitanie,beach,"Plage du Pilou, Plage du Prévost"
-2020,VILLIERS-SUR-LOIR,Loir-Et-Cher (41),Centre-Val De Loire,beach,"Plage de la base de loisirs, plan d’eau de Villiers-sur-Loir"
-2020,XANTON-CHASSENON,Vendée (85),Pays de la Loire,beach,Lac d’Albert
+2020,VILLIERS-SUR-LOIR,Loir-Et-Cher (41),Centre-Val De Loire,beach,"Plage de la base de loisirs, plan d'eau de Villiers-sur-Loir"
+2020,XANTON-CHASSENON,Vendée (85),Pays de la Loire,beach,Lac d'Albert
 2023,Agde,Hérault,Occitanie,beach,Grau D'Agde/Saint Vincent
 2023,Agde,Hérault,Occitanie,beach,Le Môle
 2023,Agde,Hérault,Occitanie,beach,Plage Naturiste
