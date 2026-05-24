@@ -5,18 +5,16 @@ year,commune,department_name,department_number,region,beach_flag,port_flag,place
 2024,TRÉMOUILLE,CANTAL,15,AUVERGNE-RHÔNE-ALPES,1,0,Lastioulles
 2024,CHAMPAGNAC-LE-VIEUX,HAUTE-LOIRE,43,AUVERGNE-RHÔNE-ALPES,1,0,Plage du Plan d'eau
 2024,LE BOUCHET-SAINT-NICOLAS,HAUTE-LOIRE,43,AUVERGNE-RHÔNE-ALPES,1,0,Plage du lac du Bouchet
-2024,EVIAN-LES-BAINS,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,0,Plage du Centre Nautique Evian
-2024,MOUETTES,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,0,1,PORT des Mouettes
-2024,NERNIER,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,0,1,PORT de Nernier
+2024,EVIAN-LES-BAINS,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,1,"Plage du Centre Nautique Evian, PORT des Mouettes"
 2024,NEUVECELLE,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,0,Grande Rive
 2024,PUBLIER,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,0,Plage municipale Amphion-les-bains
-2024,RIVES,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,0,1,PORT de plaisance de Rives
 2024,SAINT-GINGOLPH,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,0,Plage municipale
 2024,SAINT-JORIOZ,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,0,Plage municipale
-2024,SCIEZ,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,0,1,PORT de Sciez
 2024,SCIEZ-SUR-LEMAN,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,0,Sciez Municipale
-2024,THONON-LES-BAINS,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,0,"Plage de Saint-Disdille, Plage du Centre Nautique"
+2024,SCIEZ,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,0,1,Port de Sciez
+2024,THONON-LES-BAINS,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,1,"Plage de Saint-Disdille, Plage du Centre Nautique, Port de plaisance de Rives"
 2024,VEYRIER-DU-LAC,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,0,Plage La Brune
+2024,YVOIRE,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,0,1,Port de Nernier
 2024,AUBUSSON D'AUVERGNE,PUY-DE-DÔME,63,AUVERGNE-RHÔNE-ALPES,1,0,Plage du lac d'Aubusson d'Auvergne
 2024,AYDAT,PUY-DE-DÔME,63,AUVERGNE-RHÔNE-ALPES,1,0,Plage d'Aydat
 2024,CHAMBON-SUR-LAC,PUY-DE-DÔME,63,AUVERGNE-RHÔNE-ALPES,1,0,Plage de Chambon
@@ -25,19 +23,19 @@ year,commune,department_name,department_number,region,beach_flag,port_flag,place
 2024,SAINT-RÉMY-SUR-DUROLLE,PUY-DE-DÔME,63,AUVERGNE-RHÔNE-ALPES,1,0,Plan d'eau des Prades
 2024,THIERS,PUY-DE-DÔME,63,AUVERGNE-RHÔNE-ALPES,1,0,Plan d'eau d'Iloa
 2024,GRÉSY-SUR-ISÈRE,SAVOIE,73,AUVERGNE-RHÔNE-ALPES,1,0,Base de loisirs de Grésy-sur-Isère
-2024,BESANÇON,DOUBS,25,BOURGOGNE-FRANCHE-COMTÉ,0,1,HALTE de Besançon (Moulin St Paul)
-2024,DELUZ,DOUBS,25,BOURGOGNE-FRANCHE-COMTÉ,0,1,HALTE de Deluz
 2024,CLAIRVAUX-LES-LACS,JURA,39,BOURGOGNE-FRANCHE-COMTÉ,1,0,Plage du Grand Lac de Clairvaux
-2024,DECIZE,NIÈVRE,58,BOURGOGNE-FRANCHE-COMTÉ,0,1,PORT de Decize
-2024,MAILLOTINS,NIÈVRE,58,BOURGOGNE-FRANCHE-COMTÉ,0,1,PORT des Maillotins
 2024,MONTSAUCHE-LES-SETTONS,NIÈVRE,58,BOURGOGNE-FRANCHE-COMTÉ,1,0,Plage de la Presqu'île
-2024,CHALON-SUR-SAÔNE,SAÔNE-ET-LOIRE,71,BOURGOGNE-FRANCHE-COMTÉ,0,1,PORT de Chalon-sur-Saône
-2024,LA VAUVELLE,SAÔNE-ET-LOIRE,71,BOURGOGNE-FRANCHE-COMTÉ,0,1,PORT de la Vauvelle
-2024,MÂCON,SAÔNE-ET-LOIRE,71,BOURGOGNE-FRANCHE-COMTÉ,0,1,PORT de plaisance de Mâcon
+2024,DELUZ,DOUBS,25,BOURGOGNE-FRANCHE-COMTÉ,0,1,Halte de Deluz
+2024,BESANÇON,DOUBS,25,BOURGOGNE-FRANCHE-COMTÉ,0,1,Halte de Besançon (Moulin St Paul)
+2024,DECIZE,NIÈVRE,58,BOURGOGNE-FRANCHE-COMTÉ,0,1,Port de Decize
+2024,CORBIGNY,NIÈVRE,58,BOURGOGNE-FRANCHE-COMTÉ,0,1,Port de la Vauvelle
+2024,MÂCON,SAÔNE-ET-LOIRE,71,BOURGOGNE-FRANCHE-COMTÉ,0,1,Port de plaisance de Mâcon
+2024,CHALON-SUR-SAÔNE,SAÔNE-ET-LOIRE,71,BOURGOGNE-FRANCHE-COMTÉ,0,1,Port de Chalon-sur-Saône
+2024,AUX MAILLOTINS,NIÈVRE,58,BOURGOGNE-FRANCHE-COMTÉ,0,1,Port des Maillotins
 2024,AUDIERNE,FINISTÈRE,29,BRETAGNE,1,0,"Plage de Trescadec, Plage de Trez Goarem"
 2024,BÉNODET,FINISTÈRE,29,BRETAGNE,1,0,Plage du Trez
 2024,CLOHARS-CARNOËT,FINISTÈRE,29,BRETAGNE,1,0,"Bellangenet, Kerrou"
-2024,FOUESNANT-LES,FINISTÈRE,29,BRETAGNE,1,0,"Glénan Kerler, Maner Coat Clevarec, Kerambigorn, Cap-Coz, Glénan Saint-Nicolas"
+2024,FOUESNANT,FINISTÈRE,29,BRETAGNE,1,0,"Glénan Kerler, Maner Coat Clevarec, Kerambigorn, Cap-Coz, Glénan Saint-Nicolas"
 2024,LE CONQUET,FINISTÈRE,29,BRETAGNE,1,0,"Blancs Sablons, Portez, Pors Liogan"
 2024,PLOUARZEL,FINISTÈRE,29,BRETAGNE,1,0,Porsman
 2024,PLOUHINEC,FINISTÈRE,29,BRETAGNE,1,0,"Gwendrez, Mesperleuc"
@@ -46,33 +44,33 @@ year,commune,department_name,department_number,region,beach_flag,port_flag,place
 2024,SAINT-POL-DE-LÉON,FINISTÈRE,29,BRETAGNE,1,0,Sainte-Anne
 2024,IFFENDIC,ILLE-ET-VILAINE,35,BRETAGNE,1,0,Lac de Trémelin
 2024,SAINT-BRIAC-SUR-MER,ILLE-ET-VILAINE,35,BRETAGNE,1,0,"La Salinette, Port Hue"
+2024,SAINT-MARTIN-SUR-OUST,MORBIHAN,56,BRETAGNE,0,1,Halte Fluviale Saint-Martin-sur-Oust
 2024,CARNAC,MORBIHAN,56,BRETAGNE,1,0,"Saint-Colomban, Grande Plage"
 2024,ERDEVEN,MORBIHAN,56,BRETAGNE,1,0,"Kerouriec, Kerhillio"
 2024,GUIDEL,MORBIHAN,56,BRETAGNE,1,0,"La Falaise, Le Loc'h, Pen er Malo"
 2024,PLOUHINEC,MORBIHAN,56,BRETAGNE,1,0,"Kervegant, Le Magouero"
-2024,SAINT-MARTIN-SUR-OUST,MORBIHAN,56,BRETAGNE,0,1,HALTE Fluviale Saint-Martin-Sur-Oust
 2024,EGUZON-CHANTÔME,INDRE,36,CENTRE-VAL DE LOIRE,1,0,Chambon
-2024,BASE,LOIRET,45,CENTRE-VAL DE LOIRE,1,0,Fluviale des Prés Gris
 2024,CHÂLETTE-SUR-LOING,LOIRET,45,CENTRE-VAL DE LOIRE,1,0,Plage de Châlette
-2024,AJACCIO,CORSE-DU-SUD,2A,CORSE,1,1,"Trottel, Terre sacrée, PORT de Charles Ornano, PORT de plaisance Ajaccio Tino Rossi"
-2024,BONIFACIO,CORSE-DU-SUD,2A,CORSE,0,1,Marina
+2024,BRIARE,LOIRET,45,CENTRE-VAL DE LOIRE,1,0,Base Fluviale des Prés Gris
+2024,AJACCIO,CORSE-DU-SUD,2A,CORSE,1,1,"Trottel, Terre sacrée, Port de Charles Ornano, Port de plaisance Ajaccio Tino Rossi"
 2024,GROSSETO-PRUGNA,CORSE-DU-SUD,2A,CORSE,1,0,Plage des Tamaris
 2024,PIETROSELLA,CORSE-DU-SUD,2A,CORSE,1,0,Plage du Ruppione
 2024,SERRA,CORSE-DU-SUD,2A,CORSE,1,0,di Ferro Porto Pollo
-2024,BASTIA,HAUTE,2B,CORSE,0,1,PORT Jean-Baptiste Tomi
-2024,L'ANSE DU JARD,ARDENNES,8,GRAND EST,0,1,RELAIS nautique de l'anse du Jard
+2024,BONIFACIO,CORSE-DU-SUD,2A,CORSE,0,1,Marina
+2024,BASTIA,HAUTE-CORSE,2B,CORSE,0,1,Port Jean-Baptiste Tomi
 2024,LE CHESNE,ARDENNES,8,GRAND EST,1,0,Le Chesne Bairon et ses environs
-2024,MONTHERMÉ,ARDENNES,8,GRAND EST,0,1,PORT de plaisance Intercommunal de Monthermé
-2024,REVIN,ARDENNES,8,GRAND EST,0,1,HALTE Fluviale de Revin
-2024,SAVERNE,BAS-RHIN,67,GRAND EST,0,1,PORT de plaisance de Saverne
-2024,NANCY,MEURTHE-ET-MOSELLE,54,GRAND EST,0,1,"PORT Saint-Georges de Nancy, PORT de France"
-2024,LANEUVILLE-SUR-MEUSE,MEUSE,55,GRAND EST,0,1,PORT de plaisance Michel Roth
-2024,METZ,MOSELLE,57,GRAND EST,0,1,PORT de plaisance Metz
-2024,NONSARD,MOSELLE,57,GRAND EST,0,1,PORT de Nonsard
-2024,SARREGUEMINES,MOSELLE,57,GRAND EST,0,1,PORT de Sarreguemines
-2024,BERCK-SUR-MER,NORD,59,HAUTS-DE-FRANCE,1,0,Plage centre
+2024,REVIN,ARDENNES,8,GRAND EST,0,1,Halte Fluviale de Revin
+2024,MONTHERMÉ,ARDENNES,8,GRAND EST,0,1,Port de plaisance Intercommunal de Monthermé
+2024,SAVERNE,BAS-RHIN,67,GRAND EST,0,1,Port de plaisance de Saverne
+2024,CHÂLONS-EN-CHAMPAGNE,MARNE,51,GRAND EST,0,1,Relais nautique de l'anse du Jard
+2024,NANCY,MEURTHE-ET-MOSELLE,54,GRAND EST,0,1,"Port Saint-Georges de Nancy, Port de France"
+2024,PONT-À-MOUSSON,MEURTHE-ET-MOSELLE,54,GRAND EST,0,1,Port de plaisance Michel Roth
+2024,NONSARD-LAMARCHE,MEUSE,55,GRAND EST,0,1,Port de Nonsard
+2024,METZ,MOSELLE,57,GRAND EST,0,1,Port de plaisance Metz
+2024,SARREGUEMINES,MOSELLE,57,GRAND EST,0,1,Port de Sarreguemines
 2024,FOURMIES,NORD,59,HAUTS-DE-FRANCE,1,0,Plage des Etangs des moines
-2024,GRAVELINES,NORD,59,HAUTS-DE-FRANCE,1,0,Petit Fort Philippe. PAS-DE-CALAIS
+2024,GRAVELINES,NORD,59,HAUTS-DE-FRANCE,1,0,Petit Fort Philippe
+2024,BERCK-SUR-MER,PAS-DE-CALAIS,62,HAUTS-DE-FRANCE,1,0,Plage centre
 2024,CAYEUX-SUR-MER,SOMME,80,HAUTS-DE-FRANCE,1,0,Plage de la Ville
 2024,SOUPPES-SUR-LOING,SEINE-ET-MARNE,77,ÎLE-DE-FRANCE,1,0,Baignade de Souppes-sur-Loing
 2024,COLLEVILLE-MONTGOMERY,CALVADOS,14,NORMANDIE,1,0,Colleville plage
@@ -86,10 +84,10 @@ year,commune,department_name,department_number,region,beach_flag,port_flag,place
 2024,JULLOUVILLE,MANCHE,50,NORMANDIE,1,0,"Le Casino, Les Plaisanciers"
 2024,SAINT-PAIR-SUR-MER,MANCHE,50,NORMANDIE,1,0,plage de Kairon
 2024,SIOUVILLE-HAGUE,MANCHE,50,NORMANDIE,1,0,Plage Cale John Hunter
+2024,JUMIÈGES,SEINE-MARITIME,76,NORMANDIE,1,0,Base de loisirs de Jumièges
 2024,DIEPPE,SEINE-MARITIME,76,NORMANDIE,1,0,"Plage de Dieppe, Plage de Puys"
 2024,FÉCAMP,SEINE-MARITIME,76,NORMANDIE,1,0,Plage de Fécamp
 2024,LE HAVRE,SEINE-MARITIME,76,NORMANDIE,1,0,Plage du Havre
-2024,LE MESNIL-SOUS-JUMIÈGES,SEINE-MARITIME,76,NORMANDIE,1,0,Base de loisirs de Jumièges
 2024,LA ROCHELLE,CHARENTE-MARITIME,17,NOUVELLE-AQUITAINE,1,0,Chef de Baie
 2024,LE-BOIS-PLAGE-EN-RÉ,CHARENTE-MARITIME,17,NOUVELLE-AQUITAINE,1,0,"Gros-Jonc, Les Gollandières"
 2024,LE-GRAND-VILLAGE-PLAGE,CHARENTE-MARITIME,17,NOUVELLE-AQUITAINE,1,0,Plage de la Giraudière
@@ -110,21 +108,21 @@ year,commune,department_name,department_number,region,beach_flag,port_flag,place
 2024,SOULAC-SUR-MER,GIRONDE,33,NOUVELLE-AQUITAINE,1,0,"L'Amélie, Plage Centrale, Plage des Naïades"
 2024,BUSSIÈRE-GALANT,HAUTE-VIENNE,87,NOUVELLE-AQUITAINE,1,0,Espace Hermeline
 2024,SAINT HILAIRE LES PLACES,HAUTE-VIENNE,87,NOUVELLE-AQUITAINE,1,0,Lac plaisance
-2024,LOUGRATTE,LANDES,40,NOUVELLE-AQUITAINE,1,0,Lac de Lougratte Légende : retrouvez en italique et en bleu clair les nouvelles plages labellisées
-2024,SEIGNOSSE,LANDES,40,NOUVELLE-AQUITAINE,1,0,"Les Estagnots, Le Penon. LOT-ET-GARONNE"
+2024,SEIGNOSSE,LANDES,40,NOUVELLE-AQUITAINE,1,0,"Les Estagnots, Le Penon"
+2024,LOUGRATTE,LOT-ET-GARONNE,47,NOUVELLE-AQUITAINE,1,0,Lac de Lougratte
 2024,ANGLET,PYRÉNÉES-ATLANTIQUES,64,NOUVELLE-AQUITAINE,1,0,"Petite Chambre d'Amour, Les sables d'or, Marinella, Les Corsaires, La Madrague, L'Océan, Les cavaliers, La Barre"
-2024,BEAUMONT,PYRÉNÉES-ATLANTIQUES,64,NOUVELLE-AQUITAINE,1,0,Saint-Cyr Parc de Saint-Cyr
 2024,BIARRITZ,PYRÉNÉES-ATLANTIQUES,64,NOUVELLE-AQUITAINE,1,0,"Milady, Marbella, Côte des basques, Port Vieux, Grande Plage, Miramar"
 2024,BIDART,PYRÉNÉES-ATLANTIQUES,64,NOUVELLE-AQUITAINE,1,0,"Ilbarritz, Pavillon Royal, Erretegia, Bidart centre, Parlementia"
-2024,HENDAYE,PYRÉNÉES-ATLANTIQUES,64,NOUVELLE-AQUITAINE,1,0,"Grande plage, Plage des deux jumeaux. VIENNE"
+2024,HENDAYE,PYRÉNÉES-ATLANTIQUES,64,NOUVELLE-AQUITAINE,1,0,"Grande plage, Plage des deux jumeaux"
+2024,BEAUMONT,VIENNE,86,NOUVELLE-AQUITAINE,1,0,Saint-Cyr Parc de Saint-Cyr
 2024,FLEURY,AUDE,11,OCCITANIE,1,0,"d'Aude Les Cabanes de Fleury, Saint-Pierre-La-Mer"
 2024,GRUISSAN,AUDE,11,OCCITANIE,1,0,"Grazel, Les Ayguades, Les Chalets"
 2024,LEUCATE,AUDE,11,OCCITANIE,1,0,"La Franqui, Leucate Plage, Naturistes (Port Leucate), Le Kyklos, Copacabana (Port Leucate)"
 2024,NARBONNE-PLAGE,AUDE,11,OCCITANIE,1,0,"Plage du Centre, Plage des Karantes, Plage du Languedoc"
 2024,PORT-LA-NOUVELLE,AUDE,11,OCCITANIE,1,0,Plage du Front de Mer
 2024,SALLES-CURAN,AVEYRON,12,OCCITANIE,1,0,"Plage des Vernhes 1, Plage des Vernhes 2"
-2024,CASTERA VERDUZAN,GARD,30,OCCITANIE,1,0,Base de loisirs
-2024,LE-GRAU-DU-ROI,GARD,30,OCCITANIE,1,0,"Le Boucanet, Rive Droite, Rive Gauche, Port Camargue Nord, Port Camargue Sud, Pointe de l'Espiguette32. GERS"
+2024,LE-GRAU-DU-ROI,GARD,30,OCCITANIE,1,0,"Le Boucanet, Rive Droite, Rive Gauche, Port Camargue Nord, Port Camargue Sud, Pointe de l'Espiguette"
+2024,CASTERA VERDUZAN,GERS,32,OCCITANIE,1,0,Base de loisirs
 2024,MONTRÉJEAU,HAUTE-GARONNE,31,OCCITANIE,1,0,Lac Montréjeau
 2024,AGDE,HÉRAULT,34,OCCITANIE,1,0,"Grau d'Agde / Saint Vincent, Le Môle, Plage Naturiste, Richelieu, La Roquille"
 2024,CLERMONT-L'HÉRAULT,HÉRAULT,34,OCCITANIE,1,0,Lac du Salagou - plage du camping
@@ -149,7 +147,7 @@ year,commune,department_name,department_number,region,beach_flag,port_flag,place
 2024,PORT-BARCARÈS,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,0,"Plage du Lydia, Plage Digue Sud du Port, Plage du Village"
 2024,PORT-VENDRES,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,0,"Plage Bernardi, Plage de l'Usine"
 2024,SAINT-CYPRIEN,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,0,"Plage de l'Art PS1, Plage de l'Art PS2, Plage du Port, Plage des Capellans, Plage de la Lagune"
-2024,SAINTE-MARIE-LA-MER,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,0,"Plage du camping municipal, Plage du 1 er Epi, Plage du 2 ème Epi, Plage du 3ème Epi, Plage du 4 ème Epi, Plage Centrale"
+2024,SAINTE-MARIE-LA-MER,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,0,"Plage du camping municipal, Plage du 1er Epi, Plage du 2ème Epi, Plage du 3ème Epi, Plage du 4ème Epi, Plage Centrale"
 2024,TORREILLES,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,0,"Plage Centre, Plage Nord, Plage Sud"
 2024,BLAYE-LES-MINES,TARN,81,OCCITANIE,1,0,Plage sainte marie
 2024,NAGES,TARN,81,OCCITANIE,1,0,Plage de Rieu-Montagné
@@ -157,9 +155,9 @@ year,commune,department_name,department_number,region,beach_flag,port_flag,place
 2024,TRÉBAS-LES-BAINS,TARN,81,OCCITANIE,1,0,Base de loisirs de Trébas
 2024,MOLIÈRES,TARN-ET-GARONNE,82,OCCITANIE,1,0,Lac Plage Sable
 2024,MONCLAR-DE-QUERCY,TARN-ET-GARONNE,82,OCCITANIE,1,0,Lac Plage coté Toboggan
-2024,SAINT-LEU,LA RÉUNION,97,OUTRE-MER,1,0,Plage centre Poste MNS
-2024,SAINT-PAUL,LA RÉUNION,97,OUTRE-MER,1,0,"Plage Boucan Canot, Plage Roches Noires, Plage Ermitage Centre La Passe"
-2024,BORA,POLYNÉSIE FRANÇAISE,98,OUTRE-MER,1,0,"Bora Plage publique Matira, Plage Hôtel Maitai Polynesia, Complexe sportif Teriimaevarua (Salle Omnisport Pago), Plage Hôtel Intercontinental Thalasso Resort & Spa, Plage Hôtel St Régis, Plage Hôtel Four Seasons, Plage snack Matira, Plage Hôtel Intercontinental Moana Beach, Plage Hôtel Pearl Beach, Plage Hôtel Conrad"
+2024,SAINT-LEU,LA RÉUNION,974,OUTRE-MER,1,0,Plage centre Poste MNS
+2024,SAINT-PAUL,LA RÉUNION,974,OUTRE-MER,1,0,"Plage Boucan Canot, Plage Roches Noires, Plage Ermitage Centre La Passe"
+2024,BORA,POLYNÉSIE FRANÇAISE,987,OUTRE-MER,1,0,"Bora Plage publique Matira, Plage Hôtel Maitai Polynesia, Complexe sportif Teriimaevarua (Salle Omnisport Pago), Plage Hôtel Intercontinental Thalasso Resort & Spa, Plage Hôtel St Régis, Plage Hôtel Four Seasons, Plage snack Matira, Plage Hôtel Intercontinental Moana Beach, Plage Hôtel Pearl Beach, Plage Hôtel Conrad"
 2024,LA BAULE-ESCOUBLAC,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"Face à l'Avenue de la Grande Dune, Face à l'Esplanade Benoît"
 2024,LA BERNERIE-EN-RETZ,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"Grande Plage, Plan d'eau Maurice Giros"
 2024,LA TURBALLE,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"Les Bretons 1, Pen Bron (V.V.F), Ker Élisabeth"
@@ -170,14 +168,14 @@ year,commune,department_name,department_number,region,beach_flag,port_flag,place
 2024,PRÉFAILLES,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"L'Anse du Sud, Port Meleu, Grande Plage"
 2024,SAINT-BREVIN-LES-PINS,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,Plage de l'Ermitage
 2024,SAINT-MICHEL-CHEF-CHEF,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"Plage de Gohaud, La grande plage de Tharon, Plage du Redois"
-2024,SAINT-NAZAIRE,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"Plage de M. Hulot, Plage de la Courance, Plage des Jaunais"
 2024,SAINT-PHILBERT-DE-GRAND-LIEU,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,Plage du parc de la boulogne
+2024,SAINT-NAZAIRE,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"Plage de M. Hulot, Plage de la Courance, Plage des Jaunais"
 2024,LA FLÈCHE,SARTHE,72,PAYS DE LA LOIRE,1,0,Plage de La Monnerie
-2024,JARD-SUR-MER,VENDÉE,85,PAYS DE LA LOIRE,1,0,"Boisvinet, La Mine"
 2024,L'AIGUILLON-LA-PRESQU'ÎLE,VENDÉE,85,PAYS DE LA LOIRE,1,0,"Grand'Plage, Plage de la Barrique, Plan d'eau"
+2024,JARD-SUR-MER,VENDÉE,85,PAYS DE LA LOIRE,1,0,"Boisvinet, La Mine"
 2024,LA TRANCHE-SUR-MER,VENDÉE,85,PAYS DE LA LOIRE,1,0,"La Terrière, Les Generelles, Plage centrale, La Grière, Sainte Anne, La Porte des Iles, Corps de garde, Flandre Dunkerque"
 2024,NOTRE-DAME-DE-MONTS,VENDÉE,85,PAYS DE LA LOIRE,1,0,Plage Centrale
-2024,TALMONT-SAINT-HILAIRE,VENDÉE,85,PAYS DE LA LOIRE,1,0,Le VeillonPROVENCE-ALPES-CÔTE D'AZUR (+9 nouvelles)
+2024,TALMONT-SAINT-HILAIRE,VENDÉE,85,PAYS DE LA LOIRE,1,0,Le Veillon
 2024,UBAYE SERRE-PONÇON,ALPES-DE-HAUTE-PROVENCE,4,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Plage de Saint Vincent les forts
 2024,ANTIBES,ALPES-MARITIMES,6,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Antibes-les-Pins Est, Antibes-les-Pins Ouest, Fontonne Est, Fontonne Ouest, Fort Carré, Grande plage Juan-les-Pins, Les Groules, Marineland"
 2024,CANNES,ALPES-MARITIMES,6,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Chantiers navals, Font de Veyre, Gare Marchandise, Ile Sainte Marguerite Est, Ile Sainte Marguerite Ouest, Midi, Riou, Rochers de la Bocca, Saint Georges, Trou (Roubine)"
@@ -189,21 +187,21 @@ year,commune,department_name,department_number,region,beach_flag,port_flag,place
 2024,PORT-DE-BOUC,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Bottai
 2024,SAINT CHAMAS,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Plage des cabassons
 2024,SAUSSET-LES-PINS,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Corniche
-2024,BANDOL,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Plage du Grand Vallat, Plage du Casino, Plage Centrale, Plage Renécros"
 2024,CHORGES,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Plage des Trémouilles, Plage de la Baie Saint-Michel"
 2024,CROTS,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Plage de Chanterenne
 2024,EMBRUN,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Plan d'eau plage
-2024,HYÈRES,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Ayguade, Almanarre Nord, La Bergerie, Les Salins"
-2024,LA CROIX-VALMER,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Gigaro, La Douane Le Débarquement"
-2024,LA LONDE-LES-MAURES,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"L'Argentière, Miramar, Tamaris"
-2024,LA-SEYNE-SUR-MER,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Sablettes Centre, Sablettes Est"
-2024,LE LAVANDOU,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Anglade, Cavalière, la Fossette, Lavandou ville, Pramousquier, Saint Clair, Aiguebelle"
-2024,LE PRADET,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Les Bonnettes, La Garonne, Le Pin de Galle, Le Monaco, Les Oursinières"
-2024,LE SAUZE-DU-LAC,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Port Saint Pierre (plage)
-2024,ROQUEBRUNE-SUR-ARGENS,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Gaillarde, San peire"
 2024,ROUSSET,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Bois Vieux
-2024,SAINT-MANDRIER-SUR-MER,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"La Coudoulière, La Vieille, Touring, Le Canon"
-2024,SAINT-RAPHAËL,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Péguière, Veillat, Boulouris, Dramont, Camp Long, Agay, Pourousset, Baumette, Anthéor"
-2024,SAINTE-MAXIME,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Garonnette, La Croisette, La Nartelle, Centre-ville"
-2024,SAVINES-LE-LAC,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Savin'Plage, Plage de la Combette83. VAR"
-2024,TOULON,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Mistral, Plage du Lido"
+2024,LE SAUZE-DU-LAC,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Port Saint Pierre (plage)
+2024,SAVINES-LE-LAC,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Savin'Plage, Plage de la Combette"
+2024,BANDOL,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Plage du Grand Vallat, Plage du Casino, Plage Centrale, Plage Renécros"
+2024,HYÈRES,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Ayguade, Almanarre Nord, La Bergerie, Les Salins"
+2024,LA CROIX-VALMER,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Gigaro, La Douane Le Débarquement"
+2024,LA LONDE-LES-MAURES,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"L'Argentière, Miramar, Tamaris"
+2024,LA-SEYNE-SUR-MER,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Sablettes Centre, Sablettes Est"
+2024,LE LAVANDOU,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Anglade, Cavalière, la Fossette, Lavandou ville, Pramousquier, Saint Clair, Aiguebelle"
+2024,LE PRADET,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Les Bonnettes, La Garonne, Le Pin de Galle, Le Monaco, Les Oursinières"
+2024,ROQUEBRUNE-SUR-ARGENS,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Gaillarde, San peire"
+2024,SAINT-MANDRIER-SUR-MER,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"La Coudoulière, La Vieille, Touring, Le Canon"
+2024,SAINT-RAPHAËL,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Péguière, Veillat, Boulouris, Dramont, Camp Long, Agay, Pourousset, Baumette, Anthéor"
+2024,SAINTE-MAXIME,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Garonnette, La Croisette, La Nartelle, Centre-ville"
+2024,TOULON,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Mistral, Plage du Lido"
