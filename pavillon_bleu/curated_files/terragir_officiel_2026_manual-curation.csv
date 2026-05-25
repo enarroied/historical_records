@@ -1,0 +1,245 @@
+year,commune,department_name,department_number,region,beach_flag,port_flag,places
+2026,MALAFRETAZ,AIN,1,AUVERGNE-RHÔNE-ALPES,1,0,Plage principale
+2026,VIEURE,ALLIER,3,AUVERGNE-RHÔNE-ALPES,1,0,Plage du plan d'eau de Vieure
+2026,SAINT JUST D'ARDÈCHE,ARDÈCHE,7,AUVERGNE-RHÔNE-ALPES,1,0,Plage de Saint Just d'Ardèche
+2026,SAINT MARTIN D'ARDÈCHE,ARDÈCHE,7,AUVERGNE-RHÔNE-ALPES,1,0,"Plage du Grain de sel, Plage de Sauze"
+2026,TRÉMOUILLE,CANTAL,15,AUVERGNE-RHÔNE-ALPES,1,0,Lastioulles
+2026,VALENCE,DRÔME,26,AUVERGNE-RHÔNE-ALPES,0,1,Port de l'Épervière
+2026,CHAMPAGNAC LE VIEUX,HAUTE-LOIRE,43,AUVERGNE-RHÔNE-ALPES,1,0,Plage du Plan d'eau
+2026,LE BOUCHET-SAINT-NICOLAS,HAUTE-LOIRE,43,AUVERGNE-RHÔNE-ALPES,1,0,Plage du lac du Bouchet
+2026,EVIAN-LES-BAINS,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,1,"Plage du Centre Nautique Evian, Port des Mouettes"
+2026,PUBLIER,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,0,Plage municipale Amphion-les-bains
+2026,SAINT GINGOLPH,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,0,Plage municipale de Saint-Gingolph
+2026,SCIEZ,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,1,"Sciez Municipale, Port de Sciez"
+2026,THONON-LES-BAINS,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,1,"Plage de Saint Disdille, Plage du centre nautique, Port de plaisance de Rives"
+2026,VEYRIER DU LAC,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,0,Plage La Brune
+2026,YVOIRE,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,0,1,Nernier
+2026,AUBUSSON D AUVERGNE,PUY-DE-DÔME,63,AUVERGNE-RHÔNE-ALPES,1,0,Plage du lac d'Aubusson d'Auvergne
+2026,AYDAT,PUY-DE-DÔME,63,AUVERGNE-RHÔNE-ALPES,1,0,Plage d'Aydat
+2026,CHAMBON SUR LAC,PUY-DE-DÔME,63,AUVERGNE-RHÔNE-ALPES,1,0,Plage Chambon
+2026,COURNON D'AUVERGNE,PUY-DE-DÔME,63,AUVERGNE-RHÔNE-ALPES,1,0,plan d'eau de Cournon d'auvergne
+2026,LA TOUR D'AUVERGNE,PUY-DE-DÔME,63,AUVERGNE-RHÔNE-ALPES,1,0,Plage du Plan d'eau
+2026,MUROL,PUY-DE-DÔME,63,AUVERGNE-RHÔNE-ALPES,1,0,Grande plage du lac Chambon de Murol
+2026,SAINT-REMY-SUR-DUROLLE,PUY-DE-DÔME,63,AUVERGNE-RHÔNE-ALPES,1,0,plage côté bars Plan d'eau des Prades
+2026,THIERS,PUY-DE-DÔME,63,AUVERGNE-RHÔNE-ALPES,1,0,plan d'eau d'Iloa
+2026,GRÉSY SUR ISÈRE,SAVOIE,73,AUVERGNE-RHÔNE-ALPES,1,0,Base de loisirs de Grésy-sur-Isère
+2026,ARNAY LE DUC,CÔTE-D'OR,21,BOURGOGNE-FRANCHE-COMTÉ,1,0,Fouché
+2026,BESANÇON,DOUBS,25,BOURGOGNE-FRANCHE-COMTÉ,0,1,Halte de Besançon Moulin St Paul
+2026,DELUZ,DOUBS,25,BOURGOGNE-FRANCHE-COMTÉ,0,1,Halte Fluviale de Deluz
+2026,GRAND BESANÇON MÉTROPOLE - OSSELLE-ROUTELLE,DOUBS,25,BOURGOGNE-FRANCHE-COMTÉ,1,0,Plage d'Osselle
+2026,CLAIRVAUX-LES-LACS,JURA,39,BOURGOGNE-FRANCHE-COMTÉ,1,0,Plage du Grand Lac de Clairvaux
+2026,CORBIGNY,NIÈVRE,58,BOURGOGNE-FRANCHE-COMTÉ,0,1,Port de la Vauvelle
+2026,DECIZE,NIÈVRE,58,BOURGOGNE-FRANCHE-COMTÉ,0,1,Port de Decize
+2026,MONTSAUCHE LES SETTONS,NIÈVRE,58,BOURGOGNE-FRANCHE-COMTÉ,1,0,Plage de la Presqu'ile
+2026,NEVERS,NIÈVRE,58,BOURGOGNE-FRANCHE-COMTÉ,0,1,Port de Nevers
+2026,CHALON SUR SAÔNE,SAÔNE-ET-LOIRE,71,BOURGOGNE-FRANCHE-COMTÉ,0,1,Chalon sur Saône
+2026,MÂCON,SAÔNE-ET-LOIRE,71,BOURGOGNE-FRANCHE-COMTÉ,0,1,Port de plaisance de Mâcon
+2026,SAINT-LÉGER-SUR-DHEUNE,SAÔNE-ET-LOIRE,71,BOURGOGNE-FRANCHE-COMTÉ,0,1,Port de plaisance de Saint-Léger-sur-Dheune
+2026,AUXERRE,YONNE,89,BOURGOGNE-FRANCHE-COMTÉ,0,1,Port des maillotins
+2026,AUDIERNE,FINISTÈRE,29,BRETAGNE,1,0,"Plage de Trescadec, Plage de Trez Goarem"
+2026,BENODET,FINISTÈRE,29,BRETAGNE,1,0,Plage du Trez
+2026,CLOHARS CARNOËT,FINISTÈRE,29,BRETAGNE,1,0,"Bellangenet, Kerrou"
+2026,FOUESNANT-LES GLÉNAN,FINISTÈRE,29,BRETAGNE,1,0,"Kerler, Maner Coat Clevarec, Kerambigorn, Cap Coz (milieu)"
+2026,LE CONQUET,FINISTÈRE,29,BRETAGNE,1,0,"Pors Liogan, Portez, Blancs Sablons"
+2026,PLOUARZEL,FINISTÈRE,29,BRETAGNE,1,0,Porsman
+2026,PLOUHINEC,FINISTÈRE,29,BRETAGNE,1,0,"Gwendrez, Mesperleuc"
+2026,POULDREUZIC,FINISTÈRE,29,BRETAGNE,1,0,Penhors
+2026,ROSCOFF,FINISTÈRE,29,BRETAGNE,1,0,Roc'h Kroum
+2026,SAINT POL DE LÉON,FINISTÈRE,29,BRETAGNE,1,0,Sainte Anne
+2026,IFFENDIC,ILLE-ET-VILAINE,35,BRETAGNE,1,0,Lac de Trémelin
+2026,SAINT BRIAC SUR MER,ILLE-ET-VILAINE,35,BRETAGNE,1,0,"La Salinette, Port Hue"
+2026,CARNAC,MORBIHAN,56,BRETAGNE,1,0,"Saint Colomban, Grande Plage"
+2026,ERDEVEN,MORBIHAN,56,BRETAGNE,1,0,"Kerouriec, Kerhillio"
+2026,PLOUHINEC,MORBIHAN,56,BRETAGNE,1,0,"Kervegant, Le Magouero"
+2026,SAINT-MARTIN-SUR-OUST,MORBIHAN,56,BRETAGNE,0,1,Halte Fluviale Saint-Martin-Sur-Oust
+2026,EGUZON-CHANTÔME,INDRE,36,CENTRE-VAL DE LOIRE,1,0,Chambon
+2026,CHALETTE SUR LOING,LOIRET,45,CENTRE-VAL DE LOIRE,1,0,Plage de Chalette
+2026,AJACCIO,CORSE-DU-SUD,2A,CORSE,1,1,"Trottel, Terre sacrée, Port Charles Ornano, Port de Plaisance Ajaccio Tino Rossi"
+2026,BONIFACIO,CORSE-DU-SUD,2A,CORSE,0,1,Bonifacio Marina
+2026,GROSSETO-PRUGNA,CORSE-DU-SUD,2A,CORSE,1,0,Plage des Tamaris
+2026,PIETROSELLA,CORSE-DU-SUD,2A,CORSE,1,0,Plage du Ruppione
+2026,SERRA DI FERRO,CORSE-DU-SUD,2A,CORSE,1,0,Porto pollo
+2026,BASTIA,HAUTE-CORSE,2B,CORSE,0,1,Jean Baptiste TOMI
+2026,CALVI,HAUTE-CORSE,2B,CORSE,0,1,Port de Plaisance Xavier Colonna
+2026,ROGLIANO,HAUTE-CORSE,2B,CORSE,0,1,Port de Macinaggio
+2026,SAINT-FLORENT,HAUTE-CORSE,2B,CORSE,0,1,Port de Saint Florent
+2026,CHARLEVILLE MÉZIÈRES,ARDENNES,8,GRAND EST,1,1,"Plage de la Warenne, Port de plaisance de Charleville-Mézières"
+2026,LE CHESNE BAIRON ET SES ENVIRONS,ARDENNES,8,GRAND EST,1,0,lac de Bairon
+2026,MONTHERMÉ,ARDENNES,8,GRAND EST,0,1,Port de plaisance Intercommunal de Monthermé
+2026,REVIN,ARDENNES,8,GRAND EST,0,1,Halte Fluviale de Revin
+2026,SAVERNE,BAS-RHIN,67,GRAND EST,0,1,Port de Plaisance de Saverne
+2026,CHÂLONS-EN-CHAMPAGNE,MARNE,51,GRAND EST,0,1,Relais nautique de l'anse du Jard
+2026,NANCY,MEURTHE-ET-MOSELLE,54,GRAND EST,0,1,Port Saint Georges de Nancy
+2026,PONT-À-MOUSSON,MEURTHE-ET-MOSELLE,54,GRAND EST,0,1,Port de plaisance Michel ROTH
+2026,TOUL,MEURTHE-ET-MOSELLE,54,GRAND EST,0,1,Port de France
+2026,NONSARD-LAMARCHE,MEUSE,55,GRAND EST,0,1,Port de Nonsard
+2026,METZ,MOSELLE,57,GRAND EST,0,1,Port de Plaisance Metz
+2026,SARREGUEMINES,MOSELLE,57,GRAND EST,0,1,Port de Sarreguemines
+2026,THIONVILLE,MOSELLE,57,GRAND EST,0,1,Nautic'Ham
+2026,DOUAI,NORD,59,HAUTS-DE-FRANCE,0,1,Port fluvial de La Porte du Hainaut
+2026,FOURMIES,NORD,59,HAUTS-DE-FRANCE,1,0,Plage des Etangs des moines
+2026,GRAVELINES,NORD,59,HAUTS-DE-FRANCE,1,0,Petit Fort Philippe
+2026,BEAUVAIS,OISE,60,HAUTS-DE-FRANCE,1,0,Baignade plan d'eau du Canada
+2026,ÉTAPLES,PAS-DE-CALAIS,62,HAUTS-DE-FRANCE,0,1,Port de Plaisance d'Étaples
+2026,CAYEUX SUR MER,SOMME,80,HAUTS-DE-FRANCE,1,0,Plage de la Ville
+2026,SAINT-VALÉRY-SUR-SOMME,SOMME,80,HAUTS-DE-FRANCE,0,1,Port de Plaisance de Saint Valery sur Somme
+2026,SOUPPES-SUR-LOING,SEINE-ET-MARNE,77,ÎLE-DE-FRANCE,1,0,Baignade de Souppes sur loing
+2026,L'ISLE-ADAM,VAL-D'OISE,95,ÎLE-DE-FRANCE,0,1,Port Isle-Adam
+2026,SAINT-MARTIN-LA-GARENNE,YVELINES,78,ÎLE-DE-FRANCE,0,1,Port Ilon
+2026,COLLEVILLE MONTGOMERY,CALVADOS,14,NORMANDIE,1,0,Colleville plage
+2026,DEAUVILLE,CALVADOS,14,NORMANDIE,0,1,Port de Deauville
+2026,HONFLEUR,CALVADOS,14,NORMANDIE,1,1,"Plage du Butin, Port de Honfleur"
+2026,HOULGATE,CALVADOS,14,NORMANDIE,0,1,Port de Dives-Cabourg-Houlgate
+2026,PONT-L'ÉVÊQUE,CALVADOS,14,NORMANDIE,1,0,Lac de Pont-l'Évêque
+2026,BARNEVILLE CARTERET,MANCHE,50,NORMANDIE,1,0,"Plage de la Potinière, Plage de Barneville"
+2026,BRÉHAL,MANCHE,50,NORMANDIE,1,0,RD 592 Plage de St Martin de Bréhal
+2026,CAROLLES,MANCHE,50,NORMANDIE,1,0,Carolles plage
+2026,CHERBOURG-EN-COTENTIN,MANCHE,50,NORMANDIE,0,1,Port de Chantereyne de Cherbourg
+2026,DONVILLE-LES-BAINS,MANCHE,50,NORMANDIE,1,0,Plage du Lude
+2026,GRANVILLE,MANCHE,50,NORMANDIE,1,0,Plage du Plat-Gousset
+2026,JULLOUVILLE,MANCHE,50,NORMANDIE,1,0,"Le Casino, Les Plaisanciers"
+2026,SAINT-PAIR-SUR-MER,MANCHE,50,NORMANDIE,1,0,Kairon face au CD 373
+2026,SIOUVILLE HAGUE,MANCHE,50,NORMANDIE,1,0,Plage Cale John Hunter
+2026,TRÉAUVILLE,MANCHE,50,NORMANDIE,0,1,Port de Diélette
+2026,DIEPPE,SEINE-MARITIME,76,NORMANDIE,1,1,"Plage de Dieppe, Plage de Puys, Port de Dieppe"
+2026,FÉCAMP,SEINE-MARITIME,76,NORMANDIE,1,1,"Plage de Fécamp, Port de Plaisance de Fécamp"
+2026,LE HAVRE,SEINE-MARITIME,76,NORMANDIE,1,0,Plage du Havre
+2026,LE MESNIL-SOUS-JUMIÈGES,SEINE-MARITIME,76,NORMANDIE,1,0,Base de Jumièges - Le Mesnil
+2026,LE TREPORT,SEINE-MARITIME,76,NORMANDIE,1,0,Plage du Tréport
+2026,ROUEN,SEINE-MARITIME,76,NORMANDIE,0,1,Port de plaisance de Rouen
+2026,SAINT-VALÉRY-EN-CAUX,SEINE-MARITIME,76,NORMANDIE,0,1,Port de Plaisance de Saint Valéry en Caux
+2026,LA COUARDE SUR MER,CHARENTE-MARITIME,17,NOUVELLE-AQUITAINE,1,0,Plage du Peu Ragot
+2026,LA ROCHELLE,CHARENTE-MARITIME,17,NOUVELLE-AQUITAINE,1,0,Chef de Baie
+2026,LE BOIS PLAGE EN RÉ,CHARENTE-MARITIME,17,NOUVELLE-AQUITAINE,1,0,"Gros-Jonc, Les Gollandières"
+2026,ROYAN,CHARENTE-MARITIME,17,NOUVELLE-AQUITAINE,1,0,"La Grande Conche, Le Chay, Le Pigeonnier, Foncillon"
+2026,SAINT-DENIS-D'OLÉRON,CHARENTE-MARITIME,17,NOUVELLE-AQUITAINE,0,1,Port de Saint Denis d'Oléron
+2026,SAINTES,CHARENTE-MARITIME,17,NOUVELLE-AQUITAINE,0,1,Port Larousselle
+2026,AMBRUGEAT-MEYMAC,CORRÈZE,19,NOUVELLE-AQUITAINE,1,0,Lac de Séchemailles
+2026,LIGINIAC,CORRÈZE,19,NOUVELLE-AQUITAINE,1,0,Le Maury
+2026,NEUVIC D'USSEL,CORRÈZE,19,NOUVELLE-AQUITAINE,1,0,La Plage
+2026,SOURSAC,CORRÈZE,19,NOUVELLE-AQUITAINE,1,0,Site du Pont Aubert
+2026,TREIGNAC,CORRÈZE,19,NOUVELLE-AQUITAINE,1,0,Plage des Bariousses
+2026,CARSAC DE GURSON,DORDOGNE,24,NOUVELLE-AQUITAINE,1,0,Plage du Lac de Gurson
+2026,LA JEMAYE-PONTEYRAUD,DORDOGNE,24,NOUVELLE-AQUITAINE,1,0,Plage du Grand Etang
+2026,SAINT ESTEPHE,DORDOGNE,24,NOUVELLE-AQUITAINE,1,0,Plage du Grand Etang
+2026,TAMNIES,DORDOGNE,24,NOUVELLE-AQUITAINE,1,0,Etang de Loisirs de Tamniès
+2026,BORDEAUX,GIRONDE,33,NOUVELLE-AQUITAINE,1,0,Plage du lac
+2026,CAP FERRET,GIRONDE,33,NOUVELLE-AQUITAINE,0,1,Port de la Vigne
+2026,GRAYAN ET L'HÔPITAL,GIRONDE,33,NOUVELLE-AQUITAINE,1,0,"Le Gurp, Plage de dépée (Euronat)"
+2026,LE VERDON-SUR-MER,GIRONDE,33,NOUVELLE-AQUITAINE,1,0,"Plage de la Chambrette, Plage océanne de Saint Nicolas"
+2026,SOULAC SUR MER,GIRONDE,33,NOUVELLE-AQUITAINE,1,0,"L'Amélie, Plage des Naïades, Plage Centrale"
+2026,BUSSIÈRE-GALANT,HAUTE-VIENNE,87,NOUVELLE-AQUITAINE,1,0,Espace Hermeline
+2026,SEIGNOSSE,LANDES,40,NOUVELLE-AQUITAINE,1,0,"Les Estagnots, Le Penon"
+2026,BUZET-SUR-BAISE,LOT-ET-GARONNE,47,NOUVELLE-AQUITAINE,0,1,BUZET VAL D ALBRET
+2026,ANGLET,PYRÉNÉES-ATLANTIQUES,64,NOUVELLE-AQUITAINE,1,0,"Petite Chambre d'Amour, Les sables d'or, Marinella, Les Corsaires, La Madrague, L'Océan, Les cavaliers"
+2026,BIARRITZ,PYRÉNÉES-ATLANTIQUES,64,NOUVELLE-AQUITAINE,1,0,"Milady, Marbella, Côte des basques, Port Vieux, Grande Plage (Casino), Miramar"
+2026,BIDART,PYRÉNÉES-ATLANTIQUES,64,NOUVELLE-AQUITAINE,1,0,"Ilbarritz, Pavillon Royal, Erretegia, Bidart centre, Parlementia"
+2026,HENDAYE,PYRÉNÉES-ATLANTIQUES,64,NOUVELLE-AQUITAINE,1,0,"Grande plage, Plage des deux jumeaux"
+2026,CARCASSONNE,AUDE,11,OCCITANIE,0,1,Port de Carcassonne
+2026,FLEURY D'AUDE,AUDE,11,OCCITANIE,1,0,"Les Cabanes de Fleury, Saint-Pierre-La-Mer"
+2026,GRUISSAN,AUDE,11,OCCITANIE,1,1,"Grazel, Les Chalets, Les Ayguades, Port de Plaisance de Gruissan"
+2026,LEUCATE,AUDE,11,OCCITANIE,1,1,"La Franqui, Leucate Plage, Naturistes (Port Leucate), Le Kyklos, Copacabana (Port Leucate), Port de Leucate"
+2026,NARBONNE,AUDE,11,OCCITANIE,0,1,Port de Plaisance de Narbonne
+2026,NARBONNE-PLAGE,AUDE,11,OCCITANIE,1,0,"Plage du centre, Plage des Karantes, Plage du Languedoc"
+2026,PORT LA NOUVELLE,AUDE,11,OCCITANIE,1,0,Plage du Front de Mer
+2026,SAINT SYMPHORIEN DE THÉNIÈRES,AVEYRON,12,OCCITANIE,1,0,Plage du lac de saint gervais
+2026,SALLES-CURAN,AVEYRON,12,OCCITANIE,1,0,"Plage des Vernhes 1, Plage des Vernhes 2"
+2026,LE GRAU DU ROI,GARD,30,OCCITANIE,1,1,"Le Boucanet, Rive Droite, Rive Gauche, Port Camargue nord, Port Camargue Sud, Pointe de l'Espiguette, Port Camargue du Grau du Roi"
+2026,MONTREJEAU,HAUTE-GARONNE,31,OCCITANIE,1,0,Lac Montrejeau
+2026,TOULOUSE,HAUTE-GARONNE,31,OCCITANIE,0,1,Port Saint Sauveur de Toulouse
+2026,AGDE,HÉRAULT,34,OCCITANIE,1,1,"Grau d'Agde/Saint Vincent, Le Môle, Plage Naturiste, Richelieu, La Roquille, Port de Plaisance du Cap d'Agde"
+2026,CLERMONT-L'HÉRAULT,HÉRAULT,34,OCCITANIE,1,0,Lac du Salagou - plage du camping
+2026,FRONTIGNAN,HÉRAULT,34,OCCITANIE,0,1,Port de Plaisance de Frontignan
+2026,LA GRANDE MOTTE,HÉRAULT,34,OCCITANIE,1,1,"Grand Travers, Plage Echirolles, Plage du Couchant / Rose des Sables, Point Zéro, Port de La Grande Motte"
+2026,LA SALVETAT-SUR-AGOÛT,HÉRAULT,34,OCCITANIE,1,0,"Plage Lac de la Raviège - Gua des Brasses, Lac de la Raviège - Les Bouldouires"
+2026,MARSEILLAN,HÉRAULT,34,OCCITANIE,1,1,"Plage d'honneur, Robinson, Port de Marseillan Plage, Port de Marseillan Ville"
+2026,MAUGUIO-CARNON,HÉRAULT,34,OCCITANIE,1,1,"Carnon Centre, Carnon Petit Travers, Carnon Avranche, Carnon Grand Travers, Port de Plaisance de Port Carnon"
+2026,PALAVAS LES FLOTS,HÉRAULT,34,OCCITANIE,1,0,"Rive Gauche - Le Grec, Rive Droite - Saint Pierre, Rive Gauche - St Maurice, Rive Gauche - St Roch, Rive Droite - L'Albatros"
+2026,PORTIRAGNES,HÉRAULT,34,OCCITANIE,1,0,"La Redoute (Blockhaus), Le Bosquet"
+2026,SÈTE,HÉRAULT,34,OCCITANIE,1,0,"Plage du Castellas, Plage des 3 Digues, Plage du Lido, Plage de la Fontaine, Plage du Lazaret, Plage de la Baleine"
+2026,VALRAS-PLAGE,HÉRAULT,34,OCCITANIE,1,0,"Les Mouettes, Casino, Poste de secours central, De Gaulle"
+2026,VENDRES,HÉRAULT,34,OCCITANIE,0,1,Port départemental Vendres en Domitienne
+2026,VIAS,HÉRAULT,34,OCCITANIE,1,0,Farinette
+2026,VILLENEUVE LES MAGUELONE,HÉRAULT,34,OCCITANIE,1,0,"Plage du Pilou, Plage du Prévost"
+2026,CATUS,LOT,46,OCCITANIE,1,0,Plage Lac Vert
+2026,GOURDON,LOT,46,OCCITANIE,1,0,Plan d'eau d'écoute s'il pleut
+2026,MONTCUQ EN QUERCY BLANC,LOT,46,OCCITANIE,1,0,Plage Saint-Sernin
+2026,VILLEFORT,LOZÈRE,48,OCCITANIE,1,0,Lac de Villefort
+2026,ARGELÈS-SUR-MER,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,1,"Plage de la Marenda-Tamariguer, Plage Centre-Pins, Plage Sud, Plage du Racou, Port d'Argelès sur Mer"
+2026,BANYULS-SUR-MER,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,1,"Plage Centrale, Port de Plaisance de Banyuls"
+2026,CANET EN ROUSSILLON,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,0,"Plage du Sardinal (Port-GCU), Plage du Roussillon, Plage Centrale, Plage du Grand Large, Plage de la Marenda, Plage du Mar Estang"
+2026,CERBERE,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,0,Cerbère
+2026,PORT BARCARÈS,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,0,"Plage du Lydia, Plage Digue Sud du Port, Plage du Village"
+2026,PORT-VENDRES,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,0,"Plage Bernardi, Plage de l'Usine"
+2026,SAINT-CYPRIEN,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,1,"Plage de l'Art PS1, Plage de l'Art PS2, Plage du Port, Plage des Capellans, Plage de la Lagune, Port de Plaisance de Saint Cyprien"
+2026,SAINTE MARIE LA MER,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,0,"Plage du camping municipal, Plage du 4ème Epi, Plage du 3ème Epi, Plage du 2ème Epi, Plage du 1er Epi, Plage Centrale"
+2026,TORREILLES,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,0,"Plage Centre, Plage Nord, Plage Sud"
+2026,NAGES,TARN,81,OCCITANIE,1,0,Plage de Rieu-Montagné
+2026,RIVIÈRES,TARN,81,OCCITANIE,1,0,Baignade de Rivières - Aiguelèze
+2026,TREBAS LES BAINS,TARN,81,OCCITANIE,1,0,Base de loisirs de Trébas
+2026,CASTELSARRASIN,TARN-ET-GARONNE,82,OCCITANIE,0,1,Port Jacques-Yves Cousteau
+2026,MOLIÈRES,TARN-ET-GARONNE,82,OCCITANIE,1,0,Lac Plage Sable
+2026,MONCLAR DE QUERCY,TARN-ET-GARONNE,82,OCCITANIE,1,0,Lac Plage Coté Toboggan
+2026,MONTAUBAN,TARN-ET-GARONNE,82,OCCITANIE,0,1,Port Canal
+2026,SAINT LEU,LA RÉUNION,974,OUTRE-MER,1,0,Plage centre Poste MNS
+2026,SAINT PAUL,LA RÉUNION,974,OUTRE-MER,1,0,"Plage La Saline, Plage Boucan Canot, Plage Roches Noires, Plage Ermitage Centre La Passe"
+2026,SAINT-GILLES-LES-BAINS,LA RÉUNION,974,OUTRE-MER,0,1,Port de Saint-Gilles-les-bains
+2026,LE MARIN,MARTINIQUE,972,OUTRE-MER,0,1,Port de plaisance du Marin
+2026,BORA BORA,POLYNÉSIE FRANÇAISE,987,OUTRE-MER,1,0,"Plage snack Matira, Plage publique Matira, Plage Hôtel Intercontinental Moana Beach, Plage Hôtel Maitai Polynesia, Plage Hôtel Meridien, Plage Hôtel Pearl Beach, Plage Hôtel Conrad, Complexe sportif Teriimaevarua (Salle Omnisport Pago), Plage Hôtel Intercontinental Thalasso Resort & Spa, Plage Hôtel St Régis, Plage Hôtel Four Seasons"
+2026,PUNAAUIA,POLYNÉSIE FRANÇAISE,987,OUTRE-MER,0,1,Marina Taina
+2026,LA BAULE-ESCOUBLAC,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"Face à l'avenue de la grande dune, Face à l'esplanade Benoit"
+2026,LA BERNERIE EN RETZ,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"Grande Plage, Plan d'eau Maurice Giros"
+2026,LA TURBALLE,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"Les Bretons 1, Pen Bron (V.V.F), Ker Élisabeth"
+2026,LE POULIGUEN,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,Le Nau
+2026,PLESSÉ,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,Etang de Buhel
+2026,PORNIC,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"L'étang, La Noeveillard, Le Porteau, Portmain, La Source"
+2026,PORNICHET,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"Bonne source, Sainte-Marguerite, Les Libraires"
+2026,PRÉFAILLES,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"L'Anse du Sud, Grande Plage, Port Meleu"
+2026,SAINT BREVIN LES PINS,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"Plage de l'Ermitage, Plage de l'Océan"
+2026,SAINT MICHEL CHEF CHEF,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"Plage de Gohaud, La grande plage de Tharon"
+2026,SAINT PHILBERT DE GRAND LIEU,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,Plage du parc de la boulogne
+2026,SAINT-NAZAIRE,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"Plage de M. hulot, Plage de la Courance, Plage des Jaunais"
+2026,LA FLÈCHE,SARTHE,72,PAYS DE LA LOIRE,1,0,Plage de La Monnerie
+2026,JARD SUR MER,VENDÉE,85,PAYS DE LA LOIRE,1,0,"Boisvinet, La Mine, PE DU CANON"
+2026,L'AIGUILLON-LA-PRESQU'ÎLE,VENDÉE,85,PAYS DE LA LOIRE,1,0,"Grand'Plage, Plage de la Barrique, Plan d'eau"
+2026,LA TRANCHE SUR MER,VENDÉE,85,PAYS DE LA LOIRE,1,0,"La Terrière, Les Generelles, Plage centrale, La Grière, Sainte Anne, La Porte des Iles, Corps de garde, Flandre Dunkerque"
+2026,NOTRE DAME DE MONTS,VENDÉE,85,PAYS DE LA LOIRE,1,0,Plage Centrale
+2026,TALMONT SAINT HILAIRE,VENDÉE,85,PAYS DE LA LOIRE,1,0,Le Veillon
+2026,UBAYE SERRE-PONÇON,ALPES-DE-HAUTE-PROVENCE,4,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Plage de Saint Vincent les forts
+2026,ANTIBES,ALPES-MARITIMES,6,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Les Groules, Fontonne Est, Fontonne Ouest, square Gould, Antibes-les-Pins Est, Antibes-les-Pins Ouest, Garoupe Ouest, La Salis, Marineland, Fort Carré, Croûton"
+2026,CANNES,ALPES-MARITIMES,6,PROVENCE-ALPES-CÔTE D'AZUR,1,1,"Bijou, Trou (Roubine), Font de Veyre, Gare Marchandises, Gazagnaire, Ile Sainte Marguerite Est, Ile Sainte Marguerite Ouest, Midi, Moure Rouge, Riou (Plage de la Nadine), Rochers de la Bocca, Sud Aviation, Marina Vieux Port de Cannes, Port du Moure Rouge, Port Pierre Canto"
+2026,CAP D'AIL,ALPES-MARITIMES,6,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port de plaisance de Cap d'Ail
+2026,GOLFE JUAN,ALPES-MARITIMES,6,PROVENCE-ALPES-CÔTE D'AZUR,0,1,"Port Camille Rayon, Vieux Port de Golfe-Juan"
+2026,MANDELIEU-LA-NAPOULE,ALPES-MARITIMES,6,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port de La Napoule
+2026,NICE,ALPES-MARITIMES,6,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Bambou, Carras, Castel, Forum, Poincaré, Saint Hélène, Galion"
+2026,VILLENEUVE-LOUBET,ALPES-MARITIMES,6,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port de Marina Baie des Anges
+2026,BERRE L'ETANG,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Plage de Champigny - quartier des Merveilles
+2026,CASSIS,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,1,1,"Plage du Bestouan, Plage de la Grande Mer, Calanque de Port Miou, Port Départemental de Cassis"
+2026,FOS-SUR-MER,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,1,1,"Cavaou, Grande Plage, Port de Plaisance Claude Rossi - Pointe Saint Gervais"
+2026,LA CIOTAT,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Plage Cyrnos
+2026,MARIGNANE,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Plage du Jaï Nord
+2026,MARSEILLE,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,0,1,CNTL de Marseille
+2026,PORT-SAINT-LOUIS-DU-RHÔNE,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port de Plaisance de Port St Louis du Rhône
+2026,SAINT CHAMAS,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Plage des Cabassons
+2026,SAUSSET-LES-PINS,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Corniche
+2026,CHORGES,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Plage des Trémouilles, Plage de la baie saint michel"
+2026,CROTS,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Plage de Chanterenne
+2026,EMBRUN,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Plage nord du plan d'eau
+2026,LE SAUZE DU LAC,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Port Saint Pierre (plage)
+2026,ROUSSET,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Bois Vieux
+2026,SAVINES LE LAC,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Savin'Plage, Plage de la Combette"
+2026,BANDOL,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Plage du Grand Vallat, Plage du Casino, Plage Centrale, Plage Renécros"
+2026,BORMES-LES-MIMOSAS,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port de Bormes les Mimosas
+2026,CARQUEIRANNE,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Plage Peno
+2026,COGOLIN,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port de Plaisance des Marines de Cogolin
+2026,FRÉJUS,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port-Fréjus
+2026,HYÈRES,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,1,"Ayguade, Almanarre Nord, Les Salins, Almanarre Sud, Port Saint Pierre de Hyères les Palmiers"
+2026,LA LONDE-LES-MAURES,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,1,"L'Argentière, Miramar, Tamaris, Ports de La Londe"
+2026,LA SEYNE-SUR-MER,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Sablettes Centre, Sablettes Est"
+2026,LE LAVANDOU,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,1,"Anglade, Lavandou ville, Saint Clair, la Fossette, Aiguebelle, Cavalière, Pramousquier, Port du Lavandou"
+2026,LE PRADET,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Les Bonnettes, La Garonne, Le Monaco, Les Oursinières, Le Pin de Galle"
+2026,ROQUEBRUNE-SUR-ARGENS,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,1,"San peire, Gaillarde, Port San Peïre des Issambres"
+2026,SAINT-CYR-SUR-MER,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,0,1,"Nouveau Port des Lecques, Port de la Madrague, Vieux Port des Lecques de St Cyr/Mer"
+2026,SAINT-RAPHAËL,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,1,"Péguière, Boulouris, Dramont, Agay, Pourousset, Baumette, Anthéor, Port de Plaisance de Santa Lucia, Saint Raphaël Vieux Port"
+2026,SIX-FOURS-LES-PLAGES,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,0,1,"Port de La Coudoulière, Port de Plaisance Saint-Pierre des Embiez"
+2026,TOULON,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Plage Mistral, Plage de la Source"
