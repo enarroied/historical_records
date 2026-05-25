@@ -11,8 +11,7 @@ year,commune,department_name,department_number,region,beach_flag,port_flag,place
 2024,PUBLIER,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,0,Plage municipale Amphion-les-bains
 2024,SAINT-GINGOLPH,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,0,Plage municipale
 2024,SAINT-JORIOZ,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,0,Plage municipale
-2024,SCIEZ,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,0,1,Port de Sciez
-2024,SCIEZ-SUR-LEMAN,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,0,Sciez Municipale
+2024,SCIEZ,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,1,"Sciez Municipale, Port de Sciez"
 2024,THONON-LES-BAINS,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,1,"Plage de Saint-Disdille, Plage du Centre Nautique, Port de plaisance de Rives"
 2024,VEYRIER-DU-LAC,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,0,Plage La Brune
 2024,YVOIRE,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,0,1,Port de Nernier
@@ -105,7 +104,7 @@ year,commune,department_name,department_number,region,beach_flag,port_flag,place
 2024,SAINT-VAAST-LA-HOUGUE,MANCHE,50,NORMANDIE,0,1,Port de Saint-Vaast-la-Hougue
 2024,SIOUVILLE-HAGUE,MANCHE,50,NORMANDIE,1,0,Plage Cale John Hunter
 2024,TRÉAUVILLE,MANCHE,50,NORMANDIE,0,1,Port de Diélette
-2024, LE MESNIL-SOUS-JUMIÈGES,SEINE-MARITIME,76,NORMANDIE,1,0,Base de loisirs de Jumièges
+2024,LE MESNIL-SOUS-JUMIÈGES,SEINE-MARITIME,76,NORMANDIE,1,0,Base de loisirs de Jumièges
 2024,DIEPPE,SEINE-MARITIME,76,NORMANDIE,1,1,"Plage de Dieppe, Plage de Puys, Port de Dieppe"
 2024,FÉCAMP,SEINE-MARITIME,76,NORMANDIE,1,1,"Plage de Fécamp, Port de plaisance de Fécamp"
 2024,JUMIÈGES,SEINE-MARITIME,76,NORMANDIE,1,0,Base de loisirs de Jumièges
@@ -146,8 +145,7 @@ year,commune,department_name,department_number,region,beach_flag,port_flag,place
 2024,FLEURY D’AUDE,AUDE,11,OCCITANIE,1,0,"Les Cabanes de Fleury, Saint-Pierre-La-Mer"
 2024,GRUISSAN,AUDE,11,OCCITANIE,1,1,"Grazel, Les Ayguades, Les Chalets, Port de Plaisance de Gruissan"
 2024,LEUCATE,AUDE,11,OCCITANIE,1,1,"La Franqui, Leucate Plage, Naturistes (Port Leucate), Le Kyklos, Copacabana (Port Leucate), Port de Leucate"
-2024,NARBONNE,AUDE,11,OCCITANIE,1,0,"Plage du Centre, Plage des Karantes, Plage du Languedoc"
-2024,NARBONNE,AUDE,11,OCCITANIE,0,1,Port de plaisance de Narbonne
+2024,NARBONNE,AUDE,11,OCCITANIE,1,1,"Plage du Centre, Plage des Karantes, Plage du Languedoc, Port de plaisance de Narbonne"
 2024,PORT-LA-NOUVELLE,AUDE,11,OCCITANIE,1,0,Plage du Front de Mer
 2024,SALLES-CURAN,AVEYRON,12,OCCITANIE,1,0,"Plage des Vernhes 1, Plage des Vernhes 2"
 2024,BELLEGARDE,GARD,30,OCCITANIE,0,1,Port de Bellegarde
