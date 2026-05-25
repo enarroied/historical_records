@@ -1,105 +1,105 @@
-commune,department,region,type_of_flag,places
-AJACCIO,Corse-du-Sud (2A),Corse,port,Port de Plaisance Ajaccio Tino Rossi
-ARGELES SUR MER,Pyrénées-Orientales (66),Occitanie,port,Port d'Argelès sur Mer
-BANDOL,Var (83),Provence-Alpes-Côte d'Azur,port,Port de Plaisance de Bandol
-BARNEVILLE CARTERET,Manche (50),Normandie,port,Port de Barneville Carteret
-BASSE-HAM,Moselle (57),Grand Est,port,Nautic'Ham
-BELLEGARDE,Gard (30),Occitanie,port,Port de Bellegarde
-BESANCON,Doubs (25),Bourgogne-Franche-Comté,port,"Halte de Besançon (Moulin St Paul), Halte de Deluz"
-BINIC,Côtes-d'Armor (22),Bretagne,port,Port de Plaisance de Binic
-BONIFACIO,Corse-du-Sud (2A),Corse,port,Bonifacio Marina
-BORMES LES MIMOSAS,Var (83),Provence-Alpes-Côte d'Azur,port,Port de Bormes les Mimosas
-BOUZIGUES,Hérault (34),Occitanie,port,Port de Bouzigues
-CALVI,Haute-Corse (2B),Corse,port,Port de Plaisance Xavier Colonna
-CANNES,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port Pierre Canto
-CANY-BARVILLE,Seine-Maritime (76),Normandie,port,Port de Plaisance de Saint Valéry en Caux
-CAP D'AIL,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port de plaisance de Cap d'Ail
-CARCASSONNE,Aude (11),Occitanie,port,Port de Carcassonne
-CARENTAN,Manche (50),Normandie,port,Port de Plaisance de Carentan
-CASSIS,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,port,"Calanque de Port Miou, Port Départemental de Cassis"
-CASTELNAUDARY,Aude (11),Occitanie,port,Port de Castelnaudary
-CHÂLONS-EN-CHAMPAGNE,Marne (51),Grand Est,port,Relais nautique de l'anse du Jard
-CHERBOURG-EN-COTENTIN,Manche (50),Normandie,port,Port de Chantereyne de Cherbourg
-COGOLIN,Var (83),Provence-Alpes-Côte d'Azur,port,Port de Plaisance des Marines de Cogolin
-COLMAR,Haut-Rhin (68),Grand Est,port,Port de Colmar
-CORBIGNY,Nièvre (58),Bourgogne-Franche-Comté,port,Port de la Vauvelle
-CROZON,Finistère (29),Bretagne,port,Port de Plaisance de Morgat
-DECIZE,Nièvre (58),Bourgogne-Franche-Comté,port,Port de Decize
-DIEPPE,Seine-Maritime (76),Normandie,port,Port de Dieppe
-DIVES-SUR-MER,Calvados (14),Normandie,port,Port de Dives-Cabourg-Houlgate
-DOUARNENEZ,Finistère (20),Bretagne,port,Port de Plaisance de Douarnenez
-ETAPLES,Pas-de-Calais (62),Hauts-de-France,port,Port de Plaisance d'Étaples
-EVIAN-LES-BAINS,Haute-Savoie (74),Auvergne-Rhône-Alpes,port,Port des Mouettes
-FECAMP,Seine-Maritime (76),Normandie,port,Port de Plaisance de Fécamp
-FOS SUR MER,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,port,Port de Plaisance Claude Rossi - Pointe Saint Gervais
-FREJUS CEDEX,Var (83),Provence-Alpes-Côte d'Azur,port,Port Fréjus
-FRONTIGNAN,Hérault (34),Occitanie,port,Port de Plaisance de Frontignan
-GIFFAUMONT CHAMPAUBERT,Haute-Marne (52),Grand Est,port,"Port de Nemours, Station nautique de Giffaumont Champaubert, Port de plaisance de Nuisement"
-GOLFE-JUAN,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port Camille Rayon du Golfe Juan
-GRUISSAN,Aude (11),Occitanie,port,Port de Plaisance de Gruissan
-GUIDEL,Morbihan (56),Bretagne,port,Port de Guidel
-HYERES LES PALMIERS,Var (83),Provence-Alpes-Côte d'Azur,port,Port Saint Pierre de Hyères les Palmiers
-JUAN LES PINS,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port du Croûton
-L'ISLE-ADAM,Val-d'Oise (95),Île-de-France,port,Port Isle-Adam
-LA BAULE,Loire-Atlantique (44),Pays de la Loire,port,Port La Baule-Le Pouliguen
-LA GRANDE MOTTE,Hérault (34),Occitanie,port,Port de La Grande Motte
-LA LONDE LES MAURES,Var (83),Provence-Alpes-Côte d'Azur,port,Ports de La Londe
-LA ROCHE SUR YON,Vendée (85),Pays de la Loire,port,Port de plaisance de l'Ile d'Yeu
-LARMOR-PLAGE,Morbihan (56),Bretagne,port,"Port de Gâvres, Port de plaisance du Kernével"
-LE BARCARES,Pyrénées-Orientales (66),Occitanie,port,Port Saint Ange du Barcarès
-LE CAP D'AGDE,Hérault (34),Occitanie,port,Port de Plaisance du Cap d'Agde
-LE GRAU DU ROI,Gard (30),Occitanie,port,Port Camargue du Grau du Roi
-LE LAVANDOU,Var (83),Provence-Alpes-Côte d'Azur,port,Port du Lavandou
-LEGE CAP FERRET,Gironde (33),Nouvelle-Aquitaine,port,port de la Vigne
-LES ISSAMBRES,Var (83),Provence-Alpes-Côte d'Azur,port,Port San Peïre des Issambres
-LILLE,Nord (59),Hauts-de-France,port,Port Fluvial des Près du Hem Lille Métropole
-LORIENT,Morbihan (56),Bretagne,port,Port de Lorient centre
-MÂCON,Saône-et-Loire (71),Bourgogne-Franche-Comté,port,Port de plaisance de Mâcon
-MANDELIEU LA NAPOULE,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port de La Napoule
-MARSEILLAN,Hérault (34),Occitanie,port,"Port de Marseillan Ville, Port de Marseillan Plage"
-MARSEILLE,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,port,"CNTL de Marseille, Société Nautique de Marseille"
-MAUGUIO,Hérault (34),Occitanie,port,Port de Plaisance de Carnon
-MENTON,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,"Port de Garavan, Vieux Port de Menton"
-METZ,Moselle (57),Grand Est,port,Port de Plaisance Metz
-MONTHERMÉ,Ardennes (08),Grand Est,port,Port de plaisance Intercommunal de Monthermé
-NANC,Meurthe-et-Moselle (54),Grand Est,port,Port Saint Georges de Nancy
-NARBONNE,Aude (11),Occitanie,port,Port de Plaisance de Narbonne
-OUISTREHAM,Calvados (14),Normandie,port,Bassin de plaisance de Ouistreham
-PAIMPOL,Côtes-d'Armor (22),Bretagne,port,Port de Plaisance de Paimpol
-PALAVAS LES FLOTS,Hérault (34),Occitanie,port,Port de Palavas les Flots
-PONT-A-MOUSSON,Meurthe-et-Moselle (54),Grand Est,port,Port de plaisance Michel ROTH
-PORT DE BOUC,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,port,Port de Plaisance de Port de Bouc
-PORT LEUCATE,Aude (11),Occitanie,port,Port de Leucate
-PORT SAINT LOUIS DU RHONE,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,port,Port de Plaisance de Port St Louis du Rhône
-PORT-LOUIS,Morbihan (56),Bretagne,port,Port-Louis
-PUNAAUIA,Polynésie Française (987),Collectivités d'Outre-Mer,port,Marina Taina
-REVIN,Ardennes (08),Grand Est,port,Halte Fluviale de Revin
-ROUEN,Seine-Maritime (76),Normandie,port,Port de plaisance de Rouen
-SAINT CYPRIEN,Pyrénées-Orientales (66),Occitanie,port,Port de Plaisance de Saint Cyprien
-SAINT CYR SUR MER,Var (83),Provence-Alpes-Côte d'Azur,port,"Nouveau Port des Lecques, Port de la Madrague, Vieux Port des Lecques de St Cyr/Mer"
-SAINT JEAN CAP FERRAT,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Saint Jean Cap Ferrat
-SAINT MARTIN LA GARENNE,Yvelines (78),Île-de-France,port,PORT ILON
-SAINT RAPHAEL,Var (83),Provence-Alpes-Côte d'Azur,port,"Port de Plaisance de Santa Lucia, Saint Raphaël Vieux Port"
-SAINT VALERY SUR SOMME,Somme (80),Hauts-de-France,port,Port de Plaisance de Saint Valery sur Somme
-SAINT-AMAND-LES-EAUX,Nord (59),Hauts-de-France,port,Port fluvial de La Porte du Hainaut
-SAINT-DENIS D OLERON,Charente-Maritime (17),Nouvelle-Aquitaine,port,Port de Saint Denis d'Oléron
-SAINT-FLORENT,Haute-Corse (2B),Corse,port,Port de Saint Florent
-SAINT-QUAY-PORTRIEUX,Côtes-d'Armor (22),Bretagne,port,Saint-Quay Port d'Armor
-SAINT-VAAST-LA-HOUGUE,Manche (50),Normandie,port,Port de Saint Vaast La Hougue
-SAINTE MAXIME,Var (83),Provence-Alpes-Côte d'Azur,port,port de Sainte Maxime
-SARREGUEMINES,Moselle (57),Grand Est,port,Port de Sarreguemines
-SAVERNE,Bas-Rhin (67),Grand Est,port,Port de Plaisance de Saverne
-SCIEZ,Haute-Savoie (74),Auvergne-Rhône-Alpes,port,Port de Sciez
-SIX FOURS LES PLAGES,Var (83),Provence-Alpes-Côte d'Azur,port,Port de La Coudoulière
-SIX FOURS LES PLAGES,Var (83),Provence-Alpes-Côte d'Azur,port,Port de Plaisance Saint-Pierre des Embiez
-SOLENZARA,Corse-du-Sud (2A),Corse,port,Port de Plaisance de Solenzara
-TALMONT SAINT HILAIRE,Vendée (85),Pays de la Loire,port,Port de Plaisance de Bourgenay
-THONON-LES-BAINS,Haute-Savoie (74),Auvergne-Rhône-Alpes,port,Port de plaisance de Rives
-TOUL,Meurthe-et-Moselle (54),Grand Est,port,Port de France
-TOULOUSE,Haute-Garonne (31),Occitanie,port,Port Saint Sauveur de Toulouse
-TREAUVILLE,Manche (50),Normandie,port,Port de Diélette
-VALENCE,Drôme (26),Auvergne-Rhône-Alpes,port,Port de l'Épervière
-VAUVERT,Gard (30),Occitanie,port,Gallician
-VELIZY VILLACOUBLAY,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port de Marina Baie des Anges
-VENDRES,Hérault (34),Occitanie,port,Port départemental Vendres en Domitienne
-LE MARIN,Martinique (972),Martinique,port,Port de plaisance du Marin
+year,commune,department,region,type_of_flag,places
+2021,AJACCIO,Corse-du-Sud (2A),Corse,port,Port de Plaisance Ajaccio Tino Rossi
+2021,ARGELES SUR MER,Pyrénées-Orientales (66),Occitanie,port,Port d'Argelès sur Mer
+2021,BANDOL,Var (83),Provence-Alpes-Côte d'Azur,port,Port de Plaisance de Bandol
+2021,BARNEVILLE CARTERET,Manche (50),Normandie,port,Port de Barneville Carteret
+2021,BASSE-HAM,Moselle (57),Grand Est,port,Nautic'Ham
+2021,BELLEGARDE,Gard (30),Occitanie,port,Port de Bellegarde
+2021,BESANCON,Doubs (25),Bourgogne-Franche-Comté,port,"Halte de Besançon (Moulin St Paul), Halte de Deluz"
+2021,BINIC,Côtes-d'Armor (22),Bretagne,port,Port de Plaisance de Binic
+2021,BONIFACIO,Corse-du-Sud (2A),Corse,port,Bonifacio Marina
+2021,BORMES LES MIMOSAS,Var (83),Provence-Alpes-Côte d'Azur,port,Port de Bormes les Mimosas
+2021,BOUZIGUES,Hérault (34),Occitanie,port,Port de Bouzigues
+2021,CALVI,Haute-Corse (2B),Corse,port,Port de Plaisance Xavier Colonna
+2021,CANNES,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port Pierre Canto
+2021,CANY-BARVILLE,Seine-Maritime (76),Normandie,port,Port de Plaisance de Saint Valéry en Caux
+2021,CAP D'AIL,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port de plaisance de Cap d'Ail
+2021,CARCASSONNE,Aude (11),Occitanie,port,Port de Carcassonne
+2021,CARENTAN,Manche (50),Normandie,port,Port de Plaisance de Carentan
+2021,CASSIS,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,port,"Calanque de Port Miou, Port Départemental de Cassis"
+2021,CASTELNAUDARY,Aude (11),Occitanie,port,Port de Castelnaudary
+2021,CHÂLONS-EN-CHAMPAGNE,Marne (51),Grand Est,port,Relais nautique de l'anse du Jard
+2021,CHERBOURG-EN-COTENTIN,Manche (50),Normandie,port,Port de Chantereyne de Cherbourg
+2021,COGOLIN,Var (83),Provence-Alpes-Côte d'Azur,port,Port de Plaisance des Marines de Cogolin
+2021,COLMAR,Haut-Rhin (68),Grand Est,port,Port de Colmar
+2021,CORBIGNY,Nièvre (58),Bourgogne-Franche-Comté,port,Port de la Vauvelle
+2021,CROZON,Finistère (29),Bretagne,port,Port de Plaisance de Morgat
+2021,DECIZE,Nièvre (58),Bourgogne-Franche-Comté,port,Port de Decize
+2021,DIEPPE,Seine-Maritime (76),Normandie,port,Port de Dieppe
+2021,DIVES-SUR-MER,Calvados (14),Normandie,port,Port de Dives-Cabourg-Houlgate
+2021,DOUARNENEZ,Finistère (20),Bretagne,port,Port de Plaisance de Douarnenez
+2021,ETAPLES,Pas-de-Calais (62),Hauts-de-France,port,Port de Plaisance d'Étaples
+2021,EVIAN-LES-BAINS,Haute-Savoie (74),Auvergne-Rhône-Alpes,port,Port des Mouettes
+2021,FECAMP,Seine-Maritime (76),Normandie,port,Port de Plaisance de Fécamp
+2021,FOS SUR MER,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,port,Port de Plaisance Claude Rossi - Pointe Saint Gervais
+2021,FREJUS CEDEX,Var (83),Provence-Alpes-Côte d'Azur,port,Port Fréjus
+2021,FRONTIGNAN,Hérault (34),Occitanie,port,Port de Plaisance de Frontignan
+2021,GIFFAUMONT CHAMPAUBERT,Haute-Marne (52),Grand Est,port,"Port de Nemours, Station nautique de Giffaumont Champaubert, Port de plaisance de Nuisement"
+2021,GOLFE-JUAN,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port Camille Rayon du Golfe Juan
+2021,GRUISSAN,Aude (11),Occitanie,port,Port de Plaisance de Gruissan
+2021,GUIDEL,Morbihan (56),Bretagne,port,Port de Guidel
+2021,HYERES LES PALMIERS,Var (83),Provence-Alpes-Côte d'Azur,port,Port Saint Pierre de Hyères les Palmiers
+2021,JUAN LES PINS,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port du Croûton
+2021,L'ISLE-ADAM,Val-d'Oise (95),Île-de-France,port,Port Isle-Adam
+2021,LA BAULE,Loire-Atlantique (44),Pays de la Loire,port,Port La Baule-Le Pouliguen
+2021,LA GRANDE MOTTE,Hérault (34),Occitanie,port,Port de La Grande Motte
+2021,LA LONDE LES MAURES,Var (83),Provence-Alpes-Côte d'Azur,port,Ports de La Londe
+2021,LA ROCHE SUR YON,Vendée (85),Pays de la Loire,port,Port de plaisance de l'Ile d'Yeu
+2021,LARMOR-PLAGE,Morbihan (56),Bretagne,port,"Port de Gâvres, Port de plaisance du Kernével"
+2021,LE BARCARES,Pyrénées-Orientales (66),Occitanie,port,Port Saint Ange du Barcarès
+2021,LE CAP D'AGDE,Hérault (34),Occitanie,port,Port de Plaisance du Cap d'Agde
+2021,LE GRAU DU ROI,Gard (30),Occitanie,port,Port Camargue du Grau du Roi
+2021,LE LAVANDOU,Var (83),Provence-Alpes-Côte d'Azur,port,Port du Lavandou
+2021,LEGE CAP FERRET,Gironde (33),Nouvelle-Aquitaine,port,port de la Vigne
+2021,LES ISSAMBRES,Var (83),Provence-Alpes-Côte d'Azur,port,Port San Peïre des Issambres
+2021,LILLE,Nord (59),Hauts-de-France,port,Port Fluvial des Près du Hem Lille Métropole
+2021,LORIENT,Morbihan (56),Bretagne,port,Port de Lorient centre
+2021,MÂCON,Saône-et-Loire (71),Bourgogne-Franche-Comté,port,Port de plaisance de Mâcon
+2021,MANDELIEU LA NAPOULE,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port de La Napoule
+2021,MARSEILLAN,Hérault (34),Occitanie,port,"Port de Marseillan Ville, Port de Marseillan Plage"
+2021,MARSEILLE,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,port,"CNTL de Marseille, Société Nautique de Marseille"
+2021,MAUGUIO,Hérault (34),Occitanie,port,Port de Plaisance de Carnon
+2021,MENTON,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,"Port de Garavan, Vieux Port de Menton"
+2021,METZ,Moselle (57),Grand Est,port,Port de Plaisance Metz
+2021,MONTHERMÉ,Ardennes (08),Grand Est,port,Port de plaisance Intercommunal de Monthermé
+2021,NANC,Meurthe-et-Moselle (54),Grand Est,port,Port Saint Georges de Nancy
+2021,NARBONNE,Aude (11),Occitanie,port,Port de Plaisance de Narbonne
+2021,OUISTREHAM,Calvados (14),Normandie,port,Bassin de plaisance de Ouistreham
+2021,PAIMPOL,Côtes-d'Armor (22),Bretagne,port,Port de Plaisance de Paimpol
+2021,PALAVAS LES FLOTS,Hérault (34),Occitanie,port,Port de Palavas les Flots
+2021,PONT-A-MOUSSON,Meurthe-et-Moselle (54),Grand Est,port,Port de plaisance Michel ROTH
+2021,PORT DE BOUC,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,port,Port de Plaisance de Port de Bouc
+2021,PORT LEUCATE,Aude (11),Occitanie,port,Port de Leucate
+2021,PORT SAINT LOUIS DU RHONE,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,port,Port de Plaisance de Port St Louis du Rhône
+2021,PORT-LOUIS,Morbihan (56),Bretagne,port,Port-Louis
+2021,PUNAAUIA,Polynésie Française (987),Collectivités d'Outre-Mer,port,Marina Taina
+2021,REVIN,Ardennes (08),Grand Est,port,Halte Fluviale de Revin
+2021,ROUEN,Seine-Maritime (76),Normandie,port,Port de plaisance de Rouen
+2021,SAINT CYPRIEN,Pyrénées-Orientales (66),Occitanie,port,Port de Plaisance de Saint Cyprien
+2021,SAINT CYR SUR MER,Var (83),Provence-Alpes-Côte d'Azur,port,"Nouveau Port des Lecques, Port de la Madrague, Vieux Port des Lecques de St Cyr/Mer"
+2021,SAINT JEAN CAP FERRAT,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Saint Jean Cap Ferrat
+2021,SAINT MARTIN LA GARENNE,Yvelines (78),Île-de-France,port,PORT ILON
+2021,SAINT RAPHAEL,Var (83),Provence-Alpes-Côte d'Azur,port,"Port de Plaisance de Santa Lucia, Saint Raphaël Vieux Port"
+2021,SAINT VALERY SUR SOMME,Somme (80),Hauts-de-France,port,Port de Plaisance de Saint Valery sur Somme
+2021,SAINT-AMAND-LES-EAUX,Nord (59),Hauts-de-France,port,Port fluvial de La Porte du Hainaut
+2021,SAINT-DENIS D OLERON,Charente-Maritime (17),Nouvelle-Aquitaine,port,Port de Saint Denis d'Oléron
+2021,SAINT-FLORENT,Haute-Corse (2B),Corse,port,Port de Saint Florent
+2021,SAINT-QUAY-PORTRIEUX,Côtes-d'Armor (22),Bretagne,port,Saint-Quay Port d'Armor
+2021,SAINT-VAAST-LA-HOUGUE,Manche (50),Normandie,port,Port de Saint Vaast La Hougue
+2021,SAINTE MAXIME,Var (83),Provence-Alpes-Côte d'Azur,port,port de Sainte Maxime
+2021,SARREGUEMINES,Moselle (57),Grand Est,port,Port de Sarreguemines
+2021,SAVERNE,Bas-Rhin (67),Grand Est,port,Port de Plaisance de Saverne
+2021,SCIEZ,Haute-Savoie (74),Auvergne-Rhône-Alpes,port,Port de Sciez
+2021,SIX FOURS LES PLAGES,Var (83),Provence-Alpes-Côte d'Azur,port,Port de La Coudoulière
+2021,SIX FOURS LES PLAGES,Var (83),Provence-Alpes-Côte d'Azur,port,Port de Plaisance Saint-Pierre des Embiez
+2021,SOLENZARA,Corse-du-Sud (2A),Corse,port,Port de Plaisance de Solenzara
+2021,TALMONT SAINT HILAIRE,Vendée (85),Pays de la Loire,port,Port de Plaisance de Bourgenay
+2021,THONON-LES-BAINS,Haute-Savoie (74),Auvergne-Rhône-Alpes,port,Port de plaisance de Rives
+2021,TOUL,Meurthe-et-Moselle (54),Grand Est,port,Port de France
+2021,TOULOUSE,Haute-Garonne (31),Occitanie,port,Port Saint Sauveur de Toulouse
+2021,TREAUVILLE,Manche (50),Normandie,port,Port de Diélette
+2021,VALENCE,Drôme (26),Auvergne-Rhône-Alpes,port,Port de l'Épervière
+2021,VAUVERT,Gard (30),Occitanie,port,Gallician
+2021,VELIZY VILLACOUBLAY,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port de Marina Baie des Anges
+2021,VENDRES,Hérault (34),Occitanie,port,Port départemental Vendres en Domitienne
+2021,LE MARIN,Martinique (972),Martinique,port,Port de plaisance du Marin

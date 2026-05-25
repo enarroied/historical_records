@@ -1,301 +1,301 @@
-commune,department,region,type_of_flag,places
-AGDE,Hérault (34),Occitanie,beach,"Grau d'Agde/Saint Vincent, La Roquille, Le Môle, Plage Naturiste, Richelieu"
-AGON COUTAINVILLE,Manche (50),Normandie,beach,Plage du Centre
-AIGNAN,Gers (32),Occitanie,beach,Base de loisirs du lac (lac)
-AJACCIO,Corse-du-Sud (2A),Corse,beach,"Terre sacrée, Trottel"
-AMBRUGEAT - MEYMAC,Corrèze (19),Nouvelle-Aquitaine,beach,lac de Séchemailles (lac)
-ANGLET,Pyrénées-Atlantiques (64),Nouvelle-Aquitaine,beach,Petite Chambre d'Amour
-ANTIBES,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,beach,"Antibes-les-Pins Ouest, Fontonne Est, Fontonne Ouest, Fort Carré, Les Groules, Marineland"
-ARGELÈS SUR MER,Pyrénées-Orientales (64),Occitanie,beach,"Plage Centre-Pins, Plage de la Marenda-Tamariguer, Plage du Racou, Plage Sud"
-ARNAGE,Sarthe (72),Pays de la Loire,beach,Plage Gèmerie
-ARNAY LE DUC,Côte-d'Or (21),Bourgogne-Franche-Comté,beach,Fouché (lac)
-AUBUSSON D'AUVERGNE,Puy-de-Dôme (63),Auvergne-Rhône-Alpes,beach,Plage du lac d'Aubusson d'Auvergne (lac)
-AUDIERNE,Finistère (29),Bretagne,beach,Plage de Trescadec
-AYDAT,Puy-de-Dôme (63),Auvergne-Rhône-Alpes,beach,Plage d'Aydat (lac)
-BANDOL,Var (83),Provence-Alpes-Côte d'Azur,beach,"Plage Centrale, Plage du Casino, Plage du Grand Vallat, Plage Renécros"
-BANYULS SUR MER,Pyrénées-Orientales (64),Occitanie,beach,Plage Centrale
-BARNEVILLE CARTERET,Manche (50),Normandie,beach,"Plage de Barneville, Plage de la Potinière"
-BEAUMONT SAINT CYR,Vienne (85),Nouvelle-Aquitaine,beach,Parc de Saint Cyr (lac)
-BERCK-SUR-MER,Pas-de-Calais (62),Hauts-de-France,beach,Plage Centre
-BERRE L'ETANG,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,beach,Plage de Champigny
-BIARRITZ,Pyrénées-Atlantiques (64),Nouvelle-Aquitaine,beach,"Côte des basques, Grande Plage, Marbella, Milady, Miramar, Port Vieux"
-BIDART,Pyrénées-Atlantiques (64),Nouvelle-Aquitaine,beach,"Bidart centre, Erretegia, Ilbarritz, Parlementia, Pavillon Royal"
-BLAYE LES MINES,Tarn (81),Occitanie,beach,Plage sainte marie (lac)
-BORA BORA,Polynésie Française (987),Collectivités d'Outre-Mer,beach,"Complexe sportif Teriimaevarua (Salle Omnisport Pago), Plage Hôtel Conrad, Plage Hôtel Four Seasons, Plage Hôtel Intercontinental Moana Beach, Plage Hôtel Intercontinental Thalasso Resort & Spa, Plage Hôtel Maitai Polynesia, Plage Hôtel Meridien, Plage Hôtel Pearl Beach, Plage Hôtel Sofitel Marara, Plage Hôtel St Régis, Plage publique Matira, Plage snack Matira"
-BORDEAUX,Gironde (33),Nouvelle-Aquitaine,beach,Plage du lac (lac)
-BRÉHAL,Manche (50),Normandie,beach,RD 592 - Plage de St Martin de Bréhal
-CANET EN ROUSSILLON,Pyrénées-Orientales (64),Occitanie,beach,"Plage Centrale, Plage de la Marenda, Plage Du Grand Large, Plage du Mar Estang, Plage du Roussillon, Port-GCU"
-CANNES,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,beach,"Chantiers navals, Font de Veyre, Ile Sainte Marguerite Est, Ile Sainte Marguerite Ouest, Riou (Plage de la Nadine), Rochers de la Bocca, Saint Georges, Sud Aviation, Trou (Roubine)"
-CARNAC,Morbihan (56),Bretagne,beach,"Grande Plage, Saint Colomban"
-CAROLLES,Manche (50),Normandie,beach,Carolles plage
-CARSAC DE GURSON,Dordogne (24),Nouvelle-Aquitaine,beach,Plage du Lac de Gurson (lac)
-CASSIS,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,beach,"Plage de la Grande Mer, Plage du Bestouan"
-CAYEUX SUR MER,Somme (80),Hauts-de-France,beach,Plage de la Ville
-CHALETTE SUR LOING,Loiret (45),Centre-Val de Loire,beach,Plage de Chalette (lac)
-CHAMBON SUR LAC,Puy-de-Dôme (63),Auvergne-Rhône-Alpes,beach,Plage Chambon (lac)
-CHAMPAGNAC LE VIEUX,Haute-Loire (43),Auvergne-Rhône-Alpes,beach,Plage du Plan d'eau (lac)
-CHORGES,Hautes-Alpes (05),Provence-Alpes-Côte d'Azur,beach,"Plage de la Baie Saint-Michel (lac), Plage des Trémouilles (lac)"
-CLAIRVAUX-LES-LACS,Jura (39),Bourgogne-Franche-Comté,beach,Plage du Grand Lac de Clairvaux (lac)
-CLERMONT-L'HÉRAULT,Hérault (34),Occitanie,beach,Lac du Salagou (plage du camping) (lac)
-CLOHARS CARNOËT,Finistère (29),Bretagne,beach,"Bellangenet, Grands Sables, Kerrou"
-COLLEVILLE MONTGOMERY,Calvados (14),Normandie,beach,Colleville plage
-COMMUNE DE FOURMIES,Nord (59),Hauts-de-France,beach,Plage des Etangs des moines (lac)
-COURNON D'AUVERGNE,Puy-de-Dôme (63),Auvergne-Rhône-Alpes,beach,Plan d'eau de Cournon d'auvergne
-CROTS,Hautes-Alpes (05),Provence-Alpes-Côte d'Azur,beach,Plage de Chanterenne (lac)
-DIENVILLE,Aube (10),Grand Est,beach,Dienville Plage (lac)
-DIEPPE,Seine-Maritime (76),Normandie,beach,"Plage de Dieppe, Plage de Puys"
-DONVILLE-LES-BAINS,Manche (50),Normandie,beach,Lude
-EGUZON-CHANTÔME,Indre (36),Centre-Val de Loire,beach,Chambon A (lac)
-EMBRUN,Hautes-Alpes (05),Provence-Alpes-Côte d'Azur,beach,Plan d'eau (lac)
-EVIAN LES BAINS,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Plage du Centre Nautique Evian (lac)
-EXCENEVEX,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Plage principale Excenevex (lac)
-FÉCAMP,Seine-Maritime (76),Normandie,beach,Plage de Fécamp
-FLEURY D'AUDE,Aude (11),Occitanie,beach,"Les Cabanes de Fleury, Saint-Pierre-La-Mer"
-FOS SUR MER,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,beach,"Cavaou, Grande Plage"
-FOUESNANT-LES GLÉNAN,Finistère (29),Bretagne,beach,"Cap Coz (milieu), Glenan Saint Nicolas, Kerambigorn, Kerler, Maner Coat Clevarec"
-FRONTIGNAN LA PEYRADE,Hérault (34),Occitanie,beach,"L'entrée, La Bergerie, Le Grau, Le Port, Les Aresquiers"
-GRANVILLE,Manche (50),Normandie,beach,Plage du Plat-Gousset
-GRAVELINES,Nord (59),Hauts-de-France,beach,Petit Fort Philippe
-GRAYAN ET L'HÔPITAL,Gironde (33),Nouvelle-Aquitaine,beach,"Le Gurp, Plage d'Euronat"
-GRÉSY SUR ISÈRE,Savoie (72),Auvergne-Rhône-Alpes,beach,Base de loisirs de Grésy-sur-Isère (lac)
-GROSSETO-PRUGNA,Corse-du-Sud (2A),Corse,beach,Plage des Tamaris
-GRUISSAN,Aude (11),Occitanie,beach,"Grazel, Les Chalets, Mateille - Ayguades"
-GUIDEL,Morbihan (56),Bretagne,beach,"La Falaise, Le Loc'h, Pen er Malo"
-HENDAYE,Pyrénées-Atlantiques (64),Nouvelle-Aquitaine,beach,"Grande plage, Plage des deux jumeaux"
-HONFLEUR,Calvados (14),Normandie,beach,Plage du Butin
-HOURTIN,Gironde (33),Nouvelle-Aquitaine,beach,"Hourtin Océan, Plage du port, Piqueyrot"
-HYÈRES,Var (83),Provence-Alpes-Côte d'Azur,beach,"Almanarre Nord, Ayguade, La Bergerie, Les Salins"
-IFFENDIC,Ille-et-Vilaine (35),Bretagne,beach,Lac de Trémelin (lac)
-JULLOUVILLE,Manche (50),Normandie,beach,"Le Casino, Les Plaisanciers"
-LA BAULE-ESCOUBLAC,Loire-Atlantique (44),Pays de la Loire,beach,"Plage en face de l'avenue de la grande dune, Plage en face de l'avenue du Général de Gaulle, Plage en face de l'esplanade Benoit"
-LA BERNERIE EN RETZ,Loire-Atlantique (44),Pays de la Loire,beach,Plan d'eau Maurice Giros
-LA CROIX VALMER,Var (83),Provence-Alpes-Côte d'Azur,beach,"Gigaro, Plage du Débarquement"
-LA FAUTE SUR MER,Vendée (85),Pays de la Loire,beach,"Grand'Plage, Plage de la Barrique"
-LA FLÈCHE,Sarthe (72),Pays de la Loire,beach,Plage de La Monnerie (lac)
-LA GRANDE MOTTE,Hérault (34),Occitanie,beach,"Grand Travers, Plage du Couchant / Rose des Sables, Plage Echirolles, Saint Clair / Point Zéro"
-LA JEMAYE-PONTEYRAUD,Dordogne (24),Nouvelle-Aquitaine,beach,Plage du Grand Etang (lac)
-LA LONDE LES MAURES,Var (83),Provence-Alpes-Côte d'Azur,beach,"L'Argentière, Miramar, Tamaris"
-LA ROCHELLE,Charente-Maritime (17),Nouvelle-Aquitaine,beach,"Chef de Baie, La Concurrence"
-LA SALVETAT-SUR-AGOÛT,Hérault (34),Occitanie,beach,"Lac de la Raviège (Les Bouldouires) (lac), Plage Lac de la Raviège - Gua des Brasses (lac)"
-LA SEYNE-SUR-MER,Var (83),Provence-Alpes-Côte d'Azur,beach,"Sablettes Centre, Sablettes Est"
-LA TOUR D'AUVERGNE,Puy-de-Dôme (63),Auvergne-Rhône-Alpes,beach,Plage du Plan d'eau (lac)
-LA TRANCHE SUR MER,Vendée (85),Pays de la Loire,beach,"Corps de garde, La Grière, La Porte des Iles, La Terrière, Les Generelles, Plage Centrale, Sainte Anne"
-LA TURBALLE,Loire-Atlantique (44),Pays de la Loire,beach,"Ker Élisabeth, Plage des Bretons, Pen Bron (V.V.F)"
-LE BOIS PLAGE EN RÉ,Charente-Maritime (17),Nouvelle-Aquitaine,beach,"Gros-Jonc, Les Gollandières"
-LE BOUCHET-SAINT-NICOLAS,Haute-Loire (43),Auvergne-Rhône-Alpes,beach,Plage du lac du Bouchet (lac)
-LE CONQUET,Finistère (29),Bretagne,beach,"Blancs Sablons, Pors Liogan, Portez"
-LE GRAND VILLAGE PLAGE,Charente-Maritime (17),Nouvelle-Aquitaine,beach,Plage de la Giraudière
-LE GRAU DU ROI,Gard (30),Occitanie,beach,"Le Boucanet, Pointe de l'Espiguette, Port Camargue Nord, Port Camargue Sud, Rive Droite, Rive Gauche"
-LE HAVRE,Seine-Maritime (76),Normandie,beach,Plage du Havre
-LE LAVANDOU,Var (83),Provence-Alpes-Côte d'Azur,beach,"Aiguebelle, Anglade, Cavalière, La Fossette, Lavandou Ville, Pramousquier, Saint Clair"
-LE POULIGUEN,Loire-Atlantique (44),Pays de la Loire,beach,Le Nau
-LE PRADET,Var (83),Provence-Alpes-Côte d'Azur,beach,"La Garonne, Le Monaco, Les Bonnettes, Les Oursinières"
-LE SAUZE DU LAC,Hautes-Alpes (05),Provence-Alpes-Côte d'Azur,beach,Port Saint Pierre (plage) (lac)
-LE VERDON-SUR-MER,Gironde (33),Nouvelle-Aquitaine,beach,Plage océanne de Saint Nicolas
-LES PIEUX,Manche (50),Normandie,beach,Sciotot
-LEUCATE,Aude (11),Occitanie,beach,"Copacabana (Port Leucate), La Franqui, Le Kyklos, Leucate Plage, Port Leucate"
-LIGINIAC,Corrèze (19),Nouvelle-Aquitaine,beach,Le Maury (lac)
-LONGEVILLE SUR MER,Vendée (85),Pays de la Loire,beach,"Le Petit Rocher, Les Conches"
-LOUGRATTE,Lot-et-Garonne (47),Nouvelle-Aquitaine,beach,Lac de lougratte (lac)
-LUZECH,Lot (46),Occitanie,beach,Plage de Caïx (rivière)
-MACOT LA PLAGNE - LA PLAGNE TARENTAISE,Savoie (72),Auvergne-Rhône-Alpes,beach,Base de loisirs des Versants d'Aime (lac)
-MALAFRETAZ,Ain (01),Auvergne-Rhône-Alpes,beach,Plage principale (lac)
-MARIGNANE,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,beach,Plage du Jaï Nord (lac)
-MARSEILLAN,Hérault (34),Occitanie,beach,"Plage d'honneur, Robinson"
-MASSERET,Corrèze (19),Nouvelle-Aquitaine,beach,Plan d'eau Masseret - Lamongerie (lac)
-MAUGUIO CARNON,Hérault (34),Occitanie,beach,"Carnon - Degrasse, Carnon Centre, Carnon l'Avranche (De Grasse/Suffren), Carnon les Dunes (secteur grand travers)"
-MOELAN SUR MER,Finistère (29),Bretagne,beach,"Kerfany, Trenez"
-MOLIÈRES,Tarn-et-Garonne (82),Occitanie,beach,Lac Plage Sable (lac)
-MONCLAR DE QUERCY,Tarn-et-Garonne (82),Occitanie,beach,Lac Plage (coté Toboggan) (lac)
-MONTCUQ EN QUERCY BLANC,Lot (46),Occitanie,beach,Plage Saint-Sernin (lac)
-MONTREJEAU,Haute-Garonne (31),Occitanie,beach,Lac Montrejeau (lac)
-MONTSAUCHE LES SETTONS,Nièvre (58),Bourgogne-Franche-Comté,beach,Plage de la Presqu'ile (lac)
-MUROL,Puy-de-Dôme (63),Auvergne-Rhône-Alpes,beach,Grande plage du lac Chambon de Murol (lac)
-NAGES,Tarn (81),Occitanie,beach,Plage de Rieu-Montagné (lac)
-NARBONNE-PLAGE,Aude (11),Occitanie,beach,"Plage des Karantes, Plage du centre, Plage du créneau naturel, Plage du Languedoc"
-NEUVECELLE,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Neuvecelle Grande Rive (lac)
-NEUVIC D'USSEL,Corrèze (19),Nouvelle-Aquitaine,beach,La Plage (lac)
-NICE,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,beach,"Castel, Galion, Magnan, Saint Hélène"
-PALAVAS LES FLOTS,Hérault (34),Occitanie,beach,"Rive Droite - L'Albatros, Rive Droite - Saint Pierre, Rive Gauche - Le Grec, Rive Gauche - St Maurice, Rive Gauche - St Roch"
-PARISOT,Tarn-et-Garonne (82),Occitanie,beach,Lac de Parisot (lac)
-PIETROSELLA,Corse-du-Sud (2A),Corse,beach,Plage du Ruppione
-PLESSÉ,Loire-Atlantique (44),Pays de la Loire,beach,Etang de Buhel (lac)
-PLOUHA,Côtes-d'Armor (22),Bretagne,beach,"Brehec Plage - Vieux-Brehec, Pors Moguer"
-PLOUHINEC,Finistère (29),Bretagne,beach,"Gwendrez, Mesperleuc"
-PLOUHINEC,Morbihan (56),Bretagne,beach,"Kervegant, Le Magouero"
-PONT-L'ÉVÊQUE,Calvados (14),Normandie,beach,Lac de Pont-l'Évêque (lac)
-PORNIC,Loire-Atlantique (44),Pays de la Loire,beach,"Birochère, L'étang, La Noeveillard, Le Porteau"
-PORNICHET,Loire-Atlantique (44),Pays de la Loire,beach,"Bonne source, Les Libraires, Sainte-Marguerite"
-PORT BARCARÈS,Pyrénées-Orientales (64),Occitanie,beach,"Plage Digue Sud du Port, Plage du Lydia, Plage du Village"
-PORT DE BOUC,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,beach,Bottai
-PORT LA NOUVELLE,Aude (11),Occitanie,beach,Plage du Front de Mer
-PORT-VENDRES,Pyrénées-Orientales (64),Occitanie,beach,"Plage Bernardi, Plage de l'Usine"
-PORTBAIL,Manche (50),Normandie,beach,Sémaphore
-PORTIRAGNES,Hérault (34),Occitanie,beach,"La Redoute, Le Bosquet"
-POULDREUZIC,Finistère (29),Bretagne,beach,Penhors
-PRÉFAILLES,Loire-Atlantique (44),Pays de la Loire,beach,"Grande Plage, L'Anse du Sud, Port Meleu"
-PUBLIER,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Plage municipale Amphion-les-bains (lac)
-RAYOL CANADEL SUR MER,Var (83),Provence-Alpes-Côte d'Azur,beach,"Plage Canadel, Plage Pramousquier Est, Plage Rayol"
-RIVIÈRES,Tarn (81),Occitanie,beach,Baignade de Rivières - Aiguelèze (rivière)
-ROQUEBRUNE SUR ARGENS,Var (83),Provence-Alpes-Côte d'Azur,beach,"Gaillarde, San Peire"
-ROSCOFF,Finistère (29),Bretagne,beach,Saint Luc (Roch-kroum)
-ROUSSET,Hautes-Alpes (05),Provence-Alpes-Côte d'Azur,beach,Bois Vieux (lac)
-ROYAN,Charente-Maritime (17),Nouvelle-Aquitaine,beach,Le Chay
-SAINT BREVIN LES PINS,Loire-Atlantique (44),Pays de la Loire,beach,"Plage de l'Ermitage, Plage de l'Océan, Plage des Rochelets"
-SAINT BRIAC SUR MER,Ille-et-Vilaine (35),Bretagne,beach,"La Salinette, Port Hue"
-SAINT CYPRIEN,Pyrénées-Orientales (64),Occitanie,beach,"Plage de l'Art PS1, Plage de l'Art PS2, Plage de la Lagune, Plage des Capellans, Plage du Port"
-SAINT CYR SUR MER,Var (83),Provence-Alpes-Côte d'Azur,beach,"La Madrague, Les Lecques"
-SAINT GEORGES D'OLÉRON,Charente-Maritime (17),Nouvelle-Aquitaine,beach,"Plage de Boyardville, Plage de La Gautrelle, Plage de Plaisance, Plage des Sables Vignier"
-SAINT GINGOLPH,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Plage municipale de Saint-Gingolph (lac)
-SAINT HILAIRE LES PLACES,Haute-Vienne (87),Nouvelle-Aquitaine,beach,Lac plaisance (lac)
-SAINT JORIOZ,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Plage (lac)
-SAINT JOUIN BRUNEVAL,Seine-Maritime (76),Normandie,beach,Saint Jouin Plage
-SAINT MARTIN D'ARDÈCHE,Ardèche (07),Auvergne-Rhône-Alpes,beach,"Plage de Sauze (rivière), Plage du Grain de sel (rivière)"
-SAINT MICHEL CHEF CHEF,Loire-Atlantique (44),Pays de la Loire,beach,"La grande plage de Tharon, Plage de Gohaud, Plage du Redois"
-SAINT PAUL,La Réunion (974),La Réunion,beach,"Plage Boucan Canot, Plage Boucan Canot (Piscine), Plage Ermitage Centre La Passe, Plage Roches Noires"
-SAINT PHILBERT DE GRAND LIEU,Loire-Atlantique (44),Pays de la Loire,beach,Plage du parc de la boulogne (lac)
-SAINT PIERRE D'ALBIGNY,Savoie (72),Auvergne-Rhône-Alpes,beach,Plage du lac de Carouge (lac)
-SAINT POL DE LÉON,Finistère (29),Bretagne,beach,Sainte Anne
-SAINT TROJAN LES BAINS,Charente-Maritime (17),Nouvelle-Aquitaine,beach,"Gatseau, La grande plage"
-SAINT-MANDRIER SUR MER,Var (83),Provence-Alpes-Côte d'Azur,beach,"La Coudoulière, La Vieille, Le Canon, Touring"
-SAINT-NAZAIRE,Loire-Atlantique (44),Pays de la Loire,beach,"Plage de la Courance, Plage de M. Hulot, Plage des Jaunais"
-SAINT-PAIR-SUR-MER,Manche (50),Normandie,beach,Kairon (face au CD 373)
-SAINT-RAPHAËL,Var (83),Provence-Alpes-Côte d'Azur,beach,"Agay, Anthéor, Baumette, Boulouris, Camp Long, Dramont, Péguière, Pourousset, Veillat"
-SAINT-REMY-SUR-DUROLLE,Puy-de-Dôme (63),Auvergne-Rhône-Alpes,beach,Plan d'eau (lac)
-SAINTE MARIE LA MER,Pyrénées-Orientales (64),Occitanie,beach,"Plage Centrale, Plage du 1er Epi - 600m entre tous les épis, Plage du 2ème Epi - 600m entre tous les épis, Plage du 3ème Epi - 600m entre tous les épis, Plage du 4ème Epi - 600m entre tous les épis, Plage du camping municipal"
-SAINTE MAXIME,Var (83),Provence-Alpes-Côte d'Azur,beach,"Centre-ville, Garonnette, La Croisette, La Nartelle"
-SALLES-CURAN,Aveyron (12),Occitanie,beach,"Plage des Vernhes 1 (lac), Plage des Vernhes 2 (lac)"
-SAUSSET-LES-PINS,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,beach,Corniche
-SAVINES LE LAC,Hautes-Alpes (05),Provence-Alpes-Côte d'Azur,beach,"Plage de la Combette (lac), Savin'Plage (lac)"
-SCIEZ,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Sciez Municipale (lac)
-SEIGNOSSE,Landes (40),Nouvelle-Aquitaine,beach,"Le Penon, Les Estagnots"
-SÉRIGNAN,Hérault (34),Occitanie,beach,Sérignan Plage
-SÈTE,Hérault (34),Occitanie,beach,"Plage de la Baleine, Plage de la Fontaine, Plage des 3 Digues, Plage du Castellas, Plage du Lazaret, Plage du Lido"
-SIOUVILLE HAGUE,Manche (50),Normandie,beach,Plage Cale John Hunter
-SIX FOURS LES PLAGES,Var (83),Provence-Alpes-Côte d'Azur,beach,"Bonnegrace - Centre poste de secours, Bonnegrace Kennedy, La Coudouliere, Le Cros, Les Roches Brunes"
-SOULAC SUR MER,Gironde (33),Nouvelle-Aquitaine,beach,"L'Amélie, Plage Centrale, Plage des Naïades"
-SOUPPES-SUR-LOING,Seine-et-Marne (77),Île-de-France,beach,Baignade de Souppes sur loing (lac)
-SPAY,Sarthe (72),Pays de la Loire,beach,Domaine du houssay
-TALMONT SAINT HILAIRE,Vendée (85),Pays de la Loire,beach,Le Veillon
-TAMNIES,Dordogne (24),Nouvelle-Aquitaine,beach,Etang de Loisirs de Tamniès (lac)
-THIERS,Puy-de-Dôme (63),Auvergne-Rhône-Alpes,beach,Plan d'eau d'Iloa (lac)
-THONON LES BAINS,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,"Plage de Saint Disdille (lac), Plage du centre nautique (lac)"
-TORREILLES,Pyrénées-Orientales (64),Occitanie,beach,"Plage Centre, Plage Nord, Plage Sud"
-TOULON,Var (83),Provence-Alpes-Côte d'Azur,beach,"Plage de la Source, Plage du Lido, Plage Mistral"
-TREBAS LES BAINS,Tarn (81),Occitanie,beach,Base de loisirs de Trébas (rivière)
-TREIGNAC,Corrèze (19),Nouvelle-Aquitaine,beach,Plage des Bariousses (lac)
-TRÉMOUILLE,Cantal (15),Auvergne-Rhône-Alpes,beach,Lastioulles (lac)
-TREVOU-TRÉGUIGNEC,Côtes-d'Armor (22),Bretagne,beach,Trestel
-UBAYE SERRE-PONÇON,Alpes-de-Haute-Provence (04),Provence-Alpes-Côte d'Azur,beach,Plage de Saint Vincent les forts (lac)
-VALRAS-PLAGE,Hérault (34),Occitanie,beach,"Casino, De Gaulle, Les Mouettes, Poste de secours central"
-VEYRIER DU LAC,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Plage La Brune (lac)
-VIAS,Hérault (34),Occitanie,beach,Farinette
-VIEURE,Allier (03),Auvergne-Rhône-Alpes,beach,Plage du plan d'eau de Vieure (lac)
-VILLEFORT,Lozère (48),Occitanie,beach,Lac de Villefort (lac)
-VILLENEUVE LES MAGUELONE,Hérault (34),Occitanie,beach,"Plage du Pilou, Plage du Prévost"
-VILLIERS SUR LOIR,Loir-et-Cher (41),Centre-Val de Loire,beach,Plan d'eau de Villiers-sur-Loir (lac)
-XANTON CHASSENON,Vendée (85),Pays de la Loire,beach,Lac d'Albert (rivière)
-AJACCIO,Corse-du-Sud (2A),Corse,port,Port de Plaisance Ajaccio Tino Rossi
-ARGELES SUR MER,Pyrénées-Orientales (66),Occitanie,port,Port d'Argelès sur Mer
-BANDOL,Var (83),Provence-Alpes-Côte d'Azur,port,Port de Plaisance de Bandol
-BARNEVILLE CARTERET,Manche (50),Normandie,port,Port de Barneville Carteret
-BASSE-HAM,Moselle (57),Grand Est,port,Nautic'Ham
-BELLEGARDE,Gard (30),Occitanie,port,Port de Bellegarde
-BESANCON,Doubs (25),Bourgogne-Franche-Comté,port,"Halte de Besançon (Moulin St Paul), Halte de Deluz"
-BINIC,Côtes-d'Armor (22),Bretagne,port,Port de Plaisance de Binic
-BONIFACIO,Corse-du-Sud (2A),Corse,port,Bonifacio Marina
-BORMES LES MIMOSAS,Var (83),Provence-Alpes-Côte d'Azur,port,Port de Bormes les Mimosas
-BOUZIGUES,Hérault (34),Occitanie,port,Port de Bouzigues
-CALVI,Haute-Corse (2B),Corse,port,Port de Plaisance Xavier Colonna
-CANNES,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port Pierre Canto
-CANY-BARVILLE,Seine-Maritime (76),Normandie,port,Port de Plaisance de Saint Valéry en Caux
-CAP D'AIL,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port de plaisance de Cap d'Ail
-CARCASSONNE,Aude (11),Occitanie,port,Port de Carcassonne
-CARENTAN,Manche (50),Normandie,port,Port de Plaisance de Carentan
-CASSIS,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,port,"Calanque de Port Miou, Port Départemental de Cassis"
-CASTELNAUDARY,Aude (11),Occitanie,port,Port de Castelnaudary
-CHÂLONS-EN-CHAMPAGNE,Marne (51),Grand Est,port,Relais nautique de l'anse du Jard
-CHERBOURG-EN-COTENTIN,Manche (50),Normandie,port,Port de Chantereyne de Cherbourg
-COGOLIN,Var (83),Provence-Alpes-Côte d'Azur,port,Port de Plaisance des Marines de Cogolin
-COLMAR,Haut-Rhin (68),Grand Est,port,Port de Colmar
-CORBIGNY,Nièvre (58),Bourgogne-Franche-Comté,port,Port de la Vauvelle
-CROZON,Finistère (29),Bretagne,port,Port de Plaisance de Morgat
-DECIZE,Nièvre (58),Bourgogne-Franche-Comté,port,Port de Decize
-DIEPPE,Seine-Maritime (76),Normandie,port,Port de Dieppe
-DIVES-SUR-MER,Calvados (14),Normandie,port,Port de Dives-Cabourg-Houlgate
-DOUARNENEZ,Finistère (20),Bretagne,port,Port de Plaisance de Douarnenez
-ETAPLES,Pas-de-Calais (62),Hauts-de-France,port,Port de Plaisance d'Étaples
-EVIAN-LES-BAINS,Haute-Savoie (74),Auvergne-Rhône-Alpes,port,Port des Mouettes
-FECAMP,Seine-Maritime (76),Normandie,port,Port de Plaisance de Fécamp
-FOS SUR MER,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,port,Port de Plaisance Claude Rossi - Pointe Saint Gervais
-FREJUS CEDEX,Var (83),Provence-Alpes-Côte d'Azur,port,Port Fréjus
-FRONTIGNAN,Hérault (34),Occitanie,port,Port de Plaisance de Frontignan
-GIFFAUMONT CHAMPAUBERT,Haute-Marne (52),Grand Est,port,"Port de Nemours, Station nautique de Giffaumont Champaubert, Port de plaisance de Nuisement"
-GOLFE-JUAN,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port Camille Rayon du Golfe Juan
-GRUISSAN,Aude (11),Occitanie,port,Port de Plaisance de Gruissan
-GUIDEL,Morbihan (56),Bretagne,port,Port de Guidel
-HYERES LES PALMIERS,Var (83),Provence-Alpes-Côte d'Azur,port,Port Saint Pierre de Hyères les Palmiers
-JUAN LES PINS,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port du Croûton
-L'ISLE-ADAM,Val-d'Oise (95),Île-de-France,port,Port Isle-Adam
-LA BAULE,Loire-Atlantique (44),Pays de la Loire,port,Port La Baule-Le Pouliguen
-LA GRANDE MOTTE,Hérault (34),Occitanie,port,Port de La Grande Motte
-LA LONDE LES MAURES,Var (83),Provence-Alpes-Côte d'Azur,port,Ports de La Londe
-LA ROCHE SUR YON,Vendée (85),Pays de la Loire,port,Port de plaisance de l'Ile d'Yeu
-LARMOR-PLAGE,Morbihan (56),Bretagne,port,"Port de Gâvres, Port de plaisance du Kernével"
-LE BARCARES,Pyrénées-Orientales (66),Occitanie,port,Port Saint Ange du Barcarès
-LE CAP D'AGDE,Hérault (34),Occitanie,port,Port de Plaisance du Cap d'Agde
-LE GRAU DU ROI,Gard (30),Occitanie,port,Port Camargue du Grau du Roi
-LE LAVANDOU,Var (83),Provence-Alpes-Côte d'Azur,port,Port du Lavandou
-LEGE CAP FERRET,Gironde (33),Nouvelle-Aquitaine,port,port de la Vigne
-LES ISSAMBRES,Var (83),Provence-Alpes-Côte d'Azur,port,Port San Peïre des Issambres
-LILLE,Nord (59),Hauts-de-France,port,Port Fluvial des Près du Hem Lille Métropole
-LORIENT,Morbihan (56),Bretagne,port,Port de Lorient centre
-MÂCON,Saône-et-Loire (71),Bourgogne-Franche-Comté,port,Port de plaisance de Mâcon
-MANDELIEU LA NAPOULE,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port de La Napoule
-MARSEILLAN,Hérault (34),Occitanie,port,"Port de Marseillan Ville, Port de Marseillan Plage"
-MARSEILLE,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,port,"CNTL de Marseille, Société Nautique de Marseille"
-MAUGUIO,Hérault (34),Occitanie,port,Port de Plaisance de Carnon
-MENTON,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,"Port de Garavan, Vieux Port de Menton"
-METZ,Moselle (57),Grand Est,port,Port de Plaisance Metz
-MONTHERMÉ,Ardennes (08),Grand Est,port,Port de plaisance Intercommunal de Monthermé
-NANC,Meurthe-et-Moselle (54),Grand Est,port,Port Saint Georges de Nancy
-NARBONNE,Aude (11),Occitanie,port,Port de Plaisance de Narbonne
-OUISTREHAM,Calvados (14),Normandie,port,Bassin de plaisance de Ouistreham
-PAIMPOL,Côtes-d'Armor (22),Bretagne,port,Port de Plaisance de Paimpol
-PALAVAS LES FLOTS,Hérault (34),Occitanie,port,Port de Palavas les Flots
-PONT-A-MOUSSON,Meurthe-et-Moselle (54),Grand Est,port,Port de plaisance Michel ROTH
-PORT DE BOUC,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,port,Port de Plaisance de Port de Bouc
-PORT LEUCATE,Aude (11),Occitanie,port,Port de Leucate
-PORT SAINT LOUIS DU RHONE,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,port,Port de Plaisance de Port St Louis du Rhône
-PORT-LOUIS,Morbihan (56),Bretagne,port,Port-Louis
-PUNAAUIA,Polynésie Française (987),Collectivités d'Outre-Mer,port,Marina Taina
-REVIN,Ardennes (08),Grand Est,port,Halte Fluviale de Revin
-ROUEN,Seine-Maritime (76),Normandie,port,Port de plaisance de Rouen
-SAINT CYPRIEN,Pyrénées-Orientales (66),Occitanie,port,Port de Plaisance de Saint Cyprien
-SAINT CYR SUR MER,Var (83),Provence-Alpes-Côte d'Azur,port,"Nouveau Port des Lecques, Port de la Madrague, Vieux Port des Lecques de St Cyr/Mer"
-SAINT JEAN CAP FERRAT,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Saint Jean Cap Ferrat
-SAINT MARTIN LA GARENNE,Yvelines (78),Île-de-France,port,PORT ILON
-SAINT RAPHAEL,Var (83),Provence-Alpes-Côte d'Azur,port,"Port de Plaisance de Santa Lucia, Saint Raphaël Vieux Port"
-SAINT VALERY SUR SOMME,Somme (80),Hauts-de-France,port,Port de Plaisance de Saint Valery sur Somme
-SAINT-AMAND-LES-EAUX,Nord (59),Hauts-de-France,port,Port fluvial de La Porte du Hainaut
-SAINT-DENIS D OLERON,Charente-Maritime (17),Nouvelle-Aquitaine,port,Port de Saint Denis d'Oléron
-SAINT-FLORENT,Haute-Corse (2B),Corse,port,Port de Saint Florent
-SAINT-QUAY-PORTRIEUX,Côtes-d'Armor (22),Bretagne,port,Saint-Quay Port d'Armor
-SAINT-VAAST-LA-HOUGUE,Manche (50),Normandie,port,Port de Saint Vaast La Hougue
-SAINTE MAXIME,Var (83),Provence-Alpes-Côte d'Azur,port,port de Sainte Maxime
-SARREGUEMINES,Moselle (57),Grand Est,port,Port de Sarreguemines
-SAVERNE,Bas-Rhin (67),Grand Est,port,Port de Plaisance de Saverne
-SCIEZ,Haute-Savoie (74),Auvergne-Rhône-Alpes,port,Port de Sciez
-SIX FOURS LES PLAGES,Var (83),Provence-Alpes-Côte d'Azur,port,Port de La Coudoulière
-SIX FOURS LES PLAGES,Var (83),Provence-Alpes-Côte d'Azur,port,Port de Plaisance Saint-Pierre des Embiez
-SOLENZARA,Corse-du-Sud (2A),Corse,port,Port de Plaisance de Solenzara
-TALMONT SAINT HILAIRE,Vendée (85),Pays de la Loire,port,Port de Plaisance de Bourgenay
-THONON-LES-BAINS,Haute-Savoie (74),Auvergne-Rhône-Alpes,port,Port de plaisance de Rives
-TOUL,Meurthe-et-Moselle (54),Grand Est,port,Port de France
-TOULOUSE,Haute-Garonne (31),Occitanie,port,Port Saint Sauveur de Toulouse
-TREAUVILLE,Manche (50),Normandie,port,Port de Diélette
-VALENCE,Drôme (26),Auvergne-Rhône-Alpes,port,Port de l'Épervière
-VAUVERT,Gard (30),Occitanie,port,Gallician
-VELIZY VILLACOUBLAY,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port de Marina Baie des Anges
-VENDRES,Hérault (34),Occitanie,port,Port départemental Vendres en Domitienne
-LE MARIN,Martinique (972),Martinique,port,Port de plaisance du Marin
+year,commune,department,region,type_of_flag,places
+2021,AGDE,Hérault (34),Occitanie,beach,"Grau d'Agde/Saint Vincent, La Roquille, Le Môle, Plage Naturiste, Richelieu"
+2021,AGON COUTAINVILLE,Manche (50),Normandie,beach,Plage du Centre
+2021,AIGNAN,Gers (32),Occitanie,beach,Base de loisirs du lac (lac)
+2021,AJACCIO,Corse-du-Sud (2A),Corse,beach,"Terre sacrée, Trottel"
+2021,AMBRUGEAT - MEYMAC,Corrèze (19),Nouvelle-Aquitaine,beach,lac de Séchemailles (lac)
+2021,ANGLET,Pyrénées-Atlantiques (64),Nouvelle-Aquitaine,beach,Petite Chambre d'Amour
+2021,ANTIBES,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,beach,"Antibes-les-Pins Ouest, Fontonne Est, Fontonne Ouest, Fort Carré, Les Groules, Marineland"
+2021,ARGELÈS SUR MER,Pyrénées-Orientales (64),Occitanie,beach,"Plage Centre-Pins, Plage de la Marenda-Tamariguer, Plage du Racou, Plage Sud"
+2021,ARNAGE,Sarthe (72),Pays de la Loire,beach,Plage Gèmerie
+2021,ARNAY LE DUC,Côte-d'Or (21),Bourgogne-Franche-Comté,beach,Fouché (lac)
+2021,AUBUSSON D'AUVERGNE,Puy-de-Dôme (63),Auvergne-Rhône-Alpes,beach,Plage du lac d'Aubusson d'Auvergne (lac)
+2021,AUDIERNE,Finistère (29),Bretagne,beach,Plage de Trescadec
+2021,AYDAT,Puy-de-Dôme (63),Auvergne-Rhône-Alpes,beach,Plage d'Aydat (lac)
+2021,BANDOL,Var (83),Provence-Alpes-Côte d'Azur,beach,"Plage Centrale, Plage du Casino, Plage du Grand Vallat, Plage Renécros"
+2021,BANYULS SUR MER,Pyrénées-Orientales (64),Occitanie,beach,Plage Centrale
+2021,BARNEVILLE CARTERET,Manche (50),Normandie,beach,"Plage de Barneville, Plage de la Potinière"
+2021,BEAUMONT SAINT CYR,Vienne (85),Nouvelle-Aquitaine,beach,Parc de Saint Cyr (lac)
+2021,BERCK-SUR-MER,Pas-de-Calais (62),Hauts-de-France,beach,Plage Centre
+2021,BERRE L'ETANG,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,beach,Plage de Champigny
+2021,BIARRITZ,Pyrénées-Atlantiques (64),Nouvelle-Aquitaine,beach,"Côte des basques, Grande Plage, Marbella, Milady, Miramar, Port Vieux"
+2021,BIDART,Pyrénées-Atlantiques (64),Nouvelle-Aquitaine,beach,"Bidart centre, Erretegia, Ilbarritz, Parlementia, Pavillon Royal"
+2021,BLAYE LES MINES,Tarn (81),Occitanie,beach,Plage sainte marie (lac)
+2021,BORA BORA,Polynésie Française (987),Collectivités d'Outre-Mer,beach,"Complexe sportif Teriimaevarua (Salle Omnisport Pago), Plage Hôtel Conrad, Plage Hôtel Four Seasons, Plage Hôtel Intercontinental Moana Beach, Plage Hôtel Intercontinental Thalasso Resort & Spa, Plage Hôtel Maitai Polynesia, Plage Hôtel Meridien, Plage Hôtel Pearl Beach, Plage Hôtel Sofitel Marara, Plage Hôtel St Régis, Plage publique Matira, Plage snack Matira"
+2021,BORDEAUX,Gironde (33),Nouvelle-Aquitaine,beach,Plage du lac (lac)
+2021,BRÉHAL,Manche (50),Normandie,beach,RD 592 - Plage de St Martin de Bréhal
+2021,CANET EN ROUSSILLON,Pyrénées-Orientales (64),Occitanie,beach,"Plage Centrale, Plage de la Marenda, Plage Du Grand Large, Plage du Mar Estang, Plage du Roussillon, Port-GCU"
+2021,CANNES,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,beach,"Chantiers navals, Font de Veyre, Ile Sainte Marguerite Est, Ile Sainte Marguerite Ouest, Riou (Plage de la Nadine), Rochers de la Bocca, Saint Georges, Sud Aviation, Trou (Roubine)"
+2021,CARNAC,Morbihan (56),Bretagne,beach,"Grande Plage, Saint Colomban"
+2021,CAROLLES,Manche (50),Normandie,beach,Carolles plage
+2021,CARSAC DE GURSON,Dordogne (24),Nouvelle-Aquitaine,beach,Plage du Lac de Gurson (lac)
+2021,CASSIS,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,beach,"Plage de la Grande Mer, Plage du Bestouan"
+2021,CAYEUX SUR MER,Somme (80),Hauts-de-France,beach,Plage de la Ville
+2021,CHALETTE SUR LOING,Loiret (45),Centre-Val de Loire,beach,Plage de Chalette (lac)
+2021,CHAMBON SUR LAC,Puy-de-Dôme (63),Auvergne-Rhône-Alpes,beach,Plage Chambon (lac)
+2021,CHAMPAGNAC LE VIEUX,Haute-Loire (43),Auvergne-Rhône-Alpes,beach,Plage du Plan d'eau (lac)
+2021,CHORGES,Hautes-Alpes (05),Provence-Alpes-Côte d'Azur,beach,"Plage de la Baie Saint-Michel (lac), Plage des Trémouilles (lac)"
+2021,CLAIRVAUX-LES-LACS,Jura (39),Bourgogne-Franche-Comté,beach,Plage du Grand Lac de Clairvaux (lac)
+2021,CLERMONT-L'HÉRAULT,Hérault (34),Occitanie,beach,Lac du Salagou (plage du camping) (lac)
+2021,CLOHARS CARNOËT,Finistère (29),Bretagne,beach,"Bellangenet, Grands Sables, Kerrou"
+2021,COLLEVILLE MONTGOMERY,Calvados (14),Normandie,beach,Colleville plage
+2021,COMMUNE DE FOURMIES,Nord (59),Hauts-de-France,beach,Plage des Etangs des moines (lac)
+2021,COURNON D'AUVERGNE,Puy-de-Dôme (63),Auvergne-Rhône-Alpes,beach,Plan d'eau de Cournon d'auvergne
+2021,CROTS,Hautes-Alpes (05),Provence-Alpes-Côte d'Azur,beach,Plage de Chanterenne (lac)
+2021,DIENVILLE,Aube (10),Grand Est,beach,Dienville Plage (lac)
+2021,DIEPPE,Seine-Maritime (76),Normandie,beach,"Plage de Dieppe, Plage de Puys"
+2021,DONVILLE-LES-BAINS,Manche (50),Normandie,beach,Lude
+2021,EGUZON-CHANTÔME,Indre (36),Centre-Val de Loire,beach,Chambon A (lac)
+2021,EMBRUN,Hautes-Alpes (05),Provence-Alpes-Côte d'Azur,beach,Plan d'eau (lac)
+2021,EVIAN LES BAINS,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Plage du Centre Nautique Evian (lac)
+2021,EXCENEVEX,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Plage principale Excenevex (lac)
+2021,FÉCAMP,Seine-Maritime (76),Normandie,beach,Plage de Fécamp
+2021,FLEURY D'AUDE,Aude (11),Occitanie,beach,"Les Cabanes de Fleury, Saint-Pierre-La-Mer"
+2021,FOS SUR MER,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,beach,"Cavaou, Grande Plage"
+2021,FOUESNANT-LES GLÉNAN,Finistère (29),Bretagne,beach,"Cap Coz (milieu), Glenan Saint Nicolas, Kerambigorn, Kerler, Maner Coat Clevarec"
+2021,FRONTIGNAN LA PEYRADE,Hérault (34),Occitanie,beach,"L'entrée, La Bergerie, Le Grau, Le Port, Les Aresquiers"
+2021,GRANVILLE,Manche (50),Normandie,beach,Plage du Plat-Gousset
+2021,GRAVELINES,Nord (59),Hauts-de-France,beach,Petit Fort Philippe
+2021,GRAYAN ET L'HÔPITAL,Gironde (33),Nouvelle-Aquitaine,beach,"Le Gurp, Plage d'Euronat"
+2021,GRÉSY SUR ISÈRE,Savoie (72),Auvergne-Rhône-Alpes,beach,Base de loisirs de Grésy-sur-Isère (lac)
+2021,GROSSETO-PRUGNA,Corse-du-Sud (2A),Corse,beach,Plage des Tamaris
+2021,GRUISSAN,Aude (11),Occitanie,beach,"Grazel, Les Chalets, Mateille - Ayguades"
+2021,GUIDEL,Morbihan (56),Bretagne,beach,"La Falaise, Le Loc'h, Pen er Malo"
+2021,HENDAYE,Pyrénées-Atlantiques (64),Nouvelle-Aquitaine,beach,"Grande plage, Plage des deux jumeaux"
+2021,HONFLEUR,Calvados (14),Normandie,beach,Plage du Butin
+2021,HOURTIN,Gironde (33),Nouvelle-Aquitaine,beach,"Hourtin Océan, Plage du port, Piqueyrot"
+2021,HYÈRES,Var (83),Provence-Alpes-Côte d'Azur,beach,"Almanarre Nord, Ayguade, La Bergerie, Les Salins"
+2021,IFFENDIC,Ille-et-Vilaine (35),Bretagne,beach,Lac de Trémelin (lac)
+2021,JULLOUVILLE,Manche (50),Normandie,beach,"Le Casino, Les Plaisanciers"
+2021,LA BAULE-ESCOUBLAC,Loire-Atlantique (44),Pays de la Loire,beach,"Plage en face de l'avenue de la grande dune, Plage en face de l'avenue du Général de Gaulle, Plage en face de l'esplanade Benoit"
+2021,LA BERNERIE EN RETZ,Loire-Atlantique (44),Pays de la Loire,beach,Plan d'eau Maurice Giros
+2021,LA CROIX VALMER,Var (83),Provence-Alpes-Côte d'Azur,beach,"Gigaro, Plage du Débarquement"
+2021,LA FAUTE SUR MER,Vendée (85),Pays de la Loire,beach,"Grand'Plage, Plage de la Barrique"
+2021,LA FLÈCHE,Sarthe (72),Pays de la Loire,beach,Plage de La Monnerie (lac)
+2021,LA GRANDE MOTTE,Hérault (34),Occitanie,beach,"Grand Travers, Plage du Couchant / Rose des Sables, Plage Echirolles, Saint Clair / Point Zéro"
+2021,LA JEMAYE-PONTEYRAUD,Dordogne (24),Nouvelle-Aquitaine,beach,Plage du Grand Etang (lac)
+2021,LA LONDE LES MAURES,Var (83),Provence-Alpes-Côte d'Azur,beach,"L'Argentière, Miramar, Tamaris"
+2021,LA ROCHELLE,Charente-Maritime (17),Nouvelle-Aquitaine,beach,"Chef de Baie, La Concurrence"
+2021,LA SALVETAT-SUR-AGOÛT,Hérault (34),Occitanie,beach,"Lac de la Raviège (Les Bouldouires) (lac), Plage Lac de la Raviège - Gua des Brasses (lac)"
+2021,LA SEYNE-SUR-MER,Var (83),Provence-Alpes-Côte d'Azur,beach,"Sablettes Centre, Sablettes Est"
+2021,LA TOUR D'AUVERGNE,Puy-de-Dôme (63),Auvergne-Rhône-Alpes,beach,Plage du Plan d'eau (lac)
+2021,LA TRANCHE SUR MER,Vendée (85),Pays de la Loire,beach,"Corps de garde, La Grière, La Porte des Iles, La Terrière, Les Generelles, Plage Centrale, Sainte Anne"
+2021,LA TURBALLE,Loire-Atlantique (44),Pays de la Loire,beach,"Ker Élisabeth, Plage des Bretons, Pen Bron (V.V.F)"
+2021,LE BOIS PLAGE EN RÉ,Charente-Maritime (17),Nouvelle-Aquitaine,beach,"Gros-Jonc, Les Gollandières"
+2021,LE BOUCHET-SAINT-NICOLAS,Haute-Loire (43),Auvergne-Rhône-Alpes,beach,Plage du lac du Bouchet (lac)
+2021,LE CONQUET,Finistère (29),Bretagne,beach,"Blancs Sablons, Pors Liogan, Portez"
+2021,LE GRAND VILLAGE PLAGE,Charente-Maritime (17),Nouvelle-Aquitaine,beach,Plage de la Giraudière
+2021,LE GRAU DU ROI,Gard (30),Occitanie,beach,"Le Boucanet, Pointe de l'Espiguette, Port Camargue Nord, Port Camargue Sud, Rive Droite, Rive Gauche"
+2021,LE HAVRE,Seine-Maritime (76),Normandie,beach,Plage du Havre
+2021,LE LAVANDOU,Var (83),Provence-Alpes-Côte d'Azur,beach,"Aiguebelle, Anglade, Cavalière, La Fossette, Lavandou Ville, Pramousquier, Saint Clair"
+2021,LE POULIGUEN,Loire-Atlantique (44),Pays de la Loire,beach,Le Nau
+2021,LE PRADET,Var (83),Provence-Alpes-Côte d'Azur,beach,"La Garonne, Le Monaco, Les Bonnettes, Les Oursinières"
+2021,LE SAUZE DU LAC,Hautes-Alpes (05),Provence-Alpes-Côte d'Azur,beach,Port Saint Pierre (plage) (lac)
+2021,LE VERDON-SUR-MER,Gironde (33),Nouvelle-Aquitaine,beach,Plage océanne de Saint Nicolas
+2021,LES PIEUX,Manche (50),Normandie,beach,Sciotot
+2021,LEUCATE,Aude (11),Occitanie,beach,"Copacabana (Port Leucate), La Franqui, Le Kyklos, Leucate Plage, Port Leucate"
+2021,LIGINIAC,Corrèze (19),Nouvelle-Aquitaine,beach,Le Maury (lac)
+2021,LONGEVILLE SUR MER,Vendée (85),Pays de la Loire,beach,"Le Petit Rocher, Les Conches"
+2021,LOUGRATTE,Lot-et-Garonne (47),Nouvelle-Aquitaine,beach,Lac de lougratte (lac)
+2021,LUZECH,Lot (46),Occitanie,beach,Plage de Caïx (rivière)
+2021,MACOT LA PLAGNE - LA PLAGNE TARENTAISE,Savoie (72),Auvergne-Rhône-Alpes,beach,Base de loisirs des Versants d'Aime (lac)
+2021,MALAFRETAZ,Ain (01),Auvergne-Rhône-Alpes,beach,Plage principale (lac)
+2021,MARIGNANE,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,beach,Plage du Jaï Nord (lac)
+2021,MARSEILLAN,Hérault (34),Occitanie,beach,"Plage d'honneur, Robinson"
+2021,MASSERET,Corrèze (19),Nouvelle-Aquitaine,beach,Plan d'eau Masseret - Lamongerie (lac)
+2021,MAUGUIO CARNON,Hérault (34),Occitanie,beach,"Carnon - Degrasse, Carnon Centre, Carnon l'Avranche (De Grasse/Suffren), Carnon les Dunes (secteur grand travers)"
+2021,MOELAN SUR MER,Finistère (29),Bretagne,beach,"Kerfany, Trenez"
+2021,MOLIÈRES,Tarn-et-Garonne (82),Occitanie,beach,Lac Plage Sable (lac)
+2021,MONCLAR DE QUERCY,Tarn-et-Garonne (82),Occitanie,beach,Lac Plage (coté Toboggan) (lac)
+2021,MONTCUQ EN QUERCY BLANC,Lot (46),Occitanie,beach,Plage Saint-Sernin (lac)
+2021,MONTREJEAU,Haute-Garonne (31),Occitanie,beach,Lac Montrejeau (lac)
+2021,MONTSAUCHE LES SETTONS,Nièvre (58),Bourgogne-Franche-Comté,beach,Plage de la Presqu'ile (lac)
+2021,MUROL,Puy-de-Dôme (63),Auvergne-Rhône-Alpes,beach,Grande plage du lac Chambon de Murol (lac)
+2021,NAGES,Tarn (81),Occitanie,beach,Plage de Rieu-Montagné (lac)
+2021,NARBONNE-PLAGE,Aude (11),Occitanie,beach,"Plage des Karantes, Plage du centre, Plage du créneau naturel, Plage du Languedoc"
+2021,NEUVECELLE,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Neuvecelle Grande Rive (lac)
+2021,NEUVIC D'USSEL,Corrèze (19),Nouvelle-Aquitaine,beach,La Plage (lac)
+2021,NICE,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,beach,"Castel, Galion, Magnan, Saint Hélène"
+2021,PALAVAS LES FLOTS,Hérault (34),Occitanie,beach,"Rive Droite - L'Albatros, Rive Droite - Saint Pierre, Rive Gauche - Le Grec, Rive Gauche - St Maurice, Rive Gauche - St Roch"
+2021,PARISOT,Tarn-et-Garonne (82),Occitanie,beach,Lac de Parisot (lac)
+2021,PIETROSELLA,Corse-du-Sud (2A),Corse,beach,Plage du Ruppione
+2021,PLESSÉ,Loire-Atlantique (44),Pays de la Loire,beach,Etang de Buhel (lac)
+2021,PLOUHA,Côtes-d'Armor (22),Bretagne,beach,"Brehec Plage - Vieux-Brehec, Pors Moguer"
+2021,PLOUHINEC,Finistère (29),Bretagne,beach,"Gwendrez, Mesperleuc"
+2021,PLOUHINEC,Morbihan (56),Bretagne,beach,"Kervegant, Le Magouero"
+2021,PONT-L'ÉVÊQUE,Calvados (14),Normandie,beach,Lac de Pont-l'Évêque (lac)
+2021,PORNIC,Loire-Atlantique (44),Pays de la Loire,beach,"Birochère, L'étang, La Noeveillard, Le Porteau"
+2021,PORNICHET,Loire-Atlantique (44),Pays de la Loire,beach,"Bonne source, Les Libraires, Sainte-Marguerite"
+2021,PORT BARCARÈS,Pyrénées-Orientales (64),Occitanie,beach,"Plage Digue Sud du Port, Plage du Lydia, Plage du Village"
+2021,PORT DE BOUC,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,beach,Bottai
+2021,PORT LA NOUVELLE,Aude (11),Occitanie,beach,Plage du Front de Mer
+2021,PORT-VENDRES,Pyrénées-Orientales (64),Occitanie,beach,"Plage Bernardi, Plage de l'Usine"
+2021,PORTBAIL,Manche (50),Normandie,beach,Sémaphore
+2021,PORTIRAGNES,Hérault (34),Occitanie,beach,"La Redoute, Le Bosquet"
+2021,POULDREUZIC,Finistère (29),Bretagne,beach,Penhors
+2021,PRÉFAILLES,Loire-Atlantique (44),Pays de la Loire,beach,"Grande Plage, L'Anse du Sud, Port Meleu"
+2021,PUBLIER,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Plage municipale Amphion-les-bains (lac)
+2021,RAYOL CANADEL SUR MER,Var (83),Provence-Alpes-Côte d'Azur,beach,"Plage Canadel, Plage Pramousquier Est, Plage Rayol"
+2021,RIVIÈRES,Tarn (81),Occitanie,beach,Baignade de Rivières - Aiguelèze (rivière)
+2021,ROQUEBRUNE SUR ARGENS,Var (83),Provence-Alpes-Côte d'Azur,beach,"Gaillarde, San Peire"
+2021,ROSCOFF,Finistère (29),Bretagne,beach,Saint Luc (Roch-kroum)
+2021,ROUSSET,Hautes-Alpes (05),Provence-Alpes-Côte d'Azur,beach,Bois Vieux (lac)
+2021,ROYAN,Charente-Maritime (17),Nouvelle-Aquitaine,beach,Le Chay
+2021,SAINT BREVIN LES PINS,Loire-Atlantique (44),Pays de la Loire,beach,"Plage de l'Ermitage, Plage de l'Océan, Plage des Rochelets"
+2021,SAINT BRIAC SUR MER,Ille-et-Vilaine (35),Bretagne,beach,"La Salinette, Port Hue"
+2021,SAINT CYPRIEN,Pyrénées-Orientales (64),Occitanie,beach,"Plage de l'Art PS1, Plage de l'Art PS2, Plage de la Lagune, Plage des Capellans, Plage du Port"
+2021,SAINT CYR SUR MER,Var (83),Provence-Alpes-Côte d'Azur,beach,"La Madrague, Les Lecques"
+2021,SAINT GEORGES D'OLÉRON,Charente-Maritime (17),Nouvelle-Aquitaine,beach,"Plage de Boyardville, Plage de La Gautrelle, Plage de Plaisance, Plage des Sables Vignier"
+2021,SAINT GINGOLPH,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Plage municipale de Saint-Gingolph (lac)
+2021,SAINT HILAIRE LES PLACES,Haute-Vienne (87),Nouvelle-Aquitaine,beach,Lac plaisance (lac)
+2021,SAINT JORIOZ,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Plage (lac)
+2021,SAINT JOUIN BRUNEVAL,Seine-Maritime (76),Normandie,beach,Saint Jouin Plage
+2021,SAINT MARTIN D'ARDÈCHE,Ardèche (07),Auvergne-Rhône-Alpes,beach,"Plage de Sauze (rivière), Plage du Grain de sel (rivière)"
+2021,SAINT MICHEL CHEF CHEF,Loire-Atlantique (44),Pays de la Loire,beach,"La grande plage de Tharon, Plage de Gohaud, Plage du Redois"
+2021,SAINT PAUL,La Réunion (974),La Réunion,beach,"Plage Boucan Canot, Plage Boucan Canot (Piscine), Plage Ermitage Centre La Passe, Plage Roches Noires"
+2021,SAINT PHILBERT DE GRAND LIEU,Loire-Atlantique (44),Pays de la Loire,beach,Plage du parc de la boulogne (lac)
+2021,SAINT PIERRE D'ALBIGNY,Savoie (72),Auvergne-Rhône-Alpes,beach,Plage du lac de Carouge (lac)
+2021,SAINT POL DE LÉON,Finistère (29),Bretagne,beach,Sainte Anne
+2021,SAINT TROJAN LES BAINS,Charente-Maritime (17),Nouvelle-Aquitaine,beach,"Gatseau, La grande plage"
+2021,SAINT-MANDRIER SUR MER,Var (83),Provence-Alpes-Côte d'Azur,beach,"La Coudoulière, La Vieille, Le Canon, Touring"
+2021,SAINT-NAZAIRE,Loire-Atlantique (44),Pays de la Loire,beach,"Plage de la Courance, Plage de M. Hulot, Plage des Jaunais"
+2021,SAINT-PAIR-SUR-MER,Manche (50),Normandie,beach,Kairon (face au CD 373)
+2021,SAINT-RAPHAËL,Var (83),Provence-Alpes-Côte d'Azur,beach,"Agay, Anthéor, Baumette, Boulouris, Camp Long, Dramont, Péguière, Pourousset, Veillat"
+2021,SAINT-REMY-SUR-DUROLLE,Puy-de-Dôme (63),Auvergne-Rhône-Alpes,beach,Plan d'eau (lac)
+2021,SAINTE MARIE LA MER,Pyrénées-Orientales (64),Occitanie,beach,"Plage Centrale, Plage du 1er Epi - 600m entre tous les épis, Plage du 2ème Epi - 600m entre tous les épis, Plage du 3ème Epi - 600m entre tous les épis, Plage du 4ème Epi - 600m entre tous les épis, Plage du camping municipal"
+2021,SAINTE MAXIME,Var (83),Provence-Alpes-Côte d'Azur,beach,"Centre-ville, Garonnette, La Croisette, La Nartelle"
+2021,SALLES-CURAN,Aveyron (12),Occitanie,beach,"Plage des Vernhes 1 (lac), Plage des Vernhes 2 (lac)"
+2021,SAUSSET-LES-PINS,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,beach,Corniche
+2021,SAVINES LE LAC,Hautes-Alpes (05),Provence-Alpes-Côte d'Azur,beach,"Plage de la Combette (lac), Savin'Plage (lac)"
+2021,SCIEZ,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Sciez Municipale (lac)
+2021,SEIGNOSSE,Landes (40),Nouvelle-Aquitaine,beach,"Le Penon, Les Estagnots"
+2021,SÉRIGNAN,Hérault (34),Occitanie,beach,Sérignan Plage
+2021,SÈTE,Hérault (34),Occitanie,beach,"Plage de la Baleine, Plage de la Fontaine, Plage des 3 Digues, Plage du Castellas, Plage du Lazaret, Plage du Lido"
+2021,SIOUVILLE HAGUE,Manche (50),Normandie,beach,Plage Cale John Hunter
+2021,SIX FOURS LES PLAGES,Var (83),Provence-Alpes-Côte d'Azur,beach,"Bonnegrace - Centre poste de secours, Bonnegrace Kennedy, La Coudouliere, Le Cros, Les Roches Brunes"
+2021,SOULAC SUR MER,Gironde (33),Nouvelle-Aquitaine,beach,"L'Amélie, Plage Centrale, Plage des Naïades"
+2021,SOUPPES-SUR-LOING,Seine-et-Marne (77),Île-de-France,beach,Baignade de Souppes sur loing (lac)
+2021,SPAY,Sarthe (72),Pays de la Loire,beach,Domaine du houssay
+2021,TALMONT SAINT HILAIRE,Vendée (85),Pays de la Loire,beach,Le Veillon
+2021,TAMNIES,Dordogne (24),Nouvelle-Aquitaine,beach,Etang de Loisirs de Tamniès (lac)
+2021,THIERS,Puy-de-Dôme (63),Auvergne-Rhône-Alpes,beach,Plan d'eau d'Iloa (lac)
+2021,THONON LES BAINS,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,"Plage de Saint Disdille (lac), Plage du centre nautique (lac)"
+2021,TORREILLES,Pyrénées-Orientales (64),Occitanie,beach,"Plage Centre, Plage Nord, Plage Sud"
+2021,TOULON,Var (83),Provence-Alpes-Côte d'Azur,beach,"Plage de la Source, Plage du Lido, Plage Mistral"
+2021,TREBAS LES BAINS,Tarn (81),Occitanie,beach,Base de loisirs de Trébas (rivière)
+2021,TREIGNAC,Corrèze (19),Nouvelle-Aquitaine,beach,Plage des Bariousses (lac)
+2021,TRÉMOUILLE,Cantal (15),Auvergne-Rhône-Alpes,beach,Lastioulles (lac)
+2021,TREVOU-TRÉGUIGNEC,Côtes-d'Armor (22),Bretagne,beach,Trestel
+2021,UBAYE SERRE-PONÇON,Alpes-de-Haute-Provence (04),Provence-Alpes-Côte d'Azur,beach,Plage de Saint Vincent les forts (lac)
+2021,VALRAS-PLAGE,Hérault (34),Occitanie,beach,"Casino, De Gaulle, Les Mouettes, Poste de secours central"
+2021,VEYRIER DU LAC,Haute-Savoie (74),Auvergne-Rhône-Alpes,beach,Plage La Brune (lac)
+2021,VIAS,Hérault (34),Occitanie,beach,Farinette
+2021,VIEURE,Allier (03),Auvergne-Rhône-Alpes,beach,Plage du plan d'eau de Vieure (lac)
+2021,VILLEFORT,Lozère (48),Occitanie,beach,Lac de Villefort (lac)
+2021,VILLENEUVE LES MAGUELONE,Hérault (34),Occitanie,beach,"Plage du Pilou, Plage du Prévost"
+2021,VILLIERS SUR LOIR,Loir-et-Cher (41),Centre-Val de Loire,beach,Plan d'eau de Villiers-sur-Loir (lac)
+2021,XANTON CHASSENON,Vendée (85),Pays de la Loire,beach,Lac d'Albert (rivière)
+2021,AJACCIO,Corse-du-Sud (2A),Corse,port,Port de Plaisance Ajaccio Tino Rossi
+2021,ARGELES SUR MER,Pyrénées-Orientales (66),Occitanie,port,Port d'Argelès sur Mer
+2021,BANDOL,Var (83),Provence-Alpes-Côte d'Azur,port,Port de Plaisance de Bandol
+2021,BARNEVILLE CARTERET,Manche (50),Normandie,port,Port de Barneville Carteret
+2021,BASSE-HAM,Moselle (57),Grand Est,port,Nautic'Ham
+2021,BELLEGARDE,Gard (30),Occitanie,port,Port de Bellegarde
+2021,BESANCON,Doubs (25),Bourgogne-Franche-Comté,port,"Halte de Besançon (Moulin St Paul), Halte de Deluz"
+2021,BINIC,Côtes-d'Armor (22),Bretagne,port,Port de Plaisance de Binic
+2021,BONIFACIO,Corse-du-Sud (2A),Corse,port,Bonifacio Marina
+2021,BORMES LES MIMOSAS,Var (83),Provence-Alpes-Côte d'Azur,port,Port de Bormes les Mimosas
+2021,BOUZIGUES,Hérault (34),Occitanie,port,Port de Bouzigues
+2021,CALVI,Haute-Corse (2B),Corse,port,Port de Plaisance Xavier Colonna
+2021,CANNES,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port Pierre Canto
+2021,CANY-BARVILLE,Seine-Maritime (76),Normandie,port,Port de Plaisance de Saint Valéry en Caux
+2021,CAP D'AIL,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port de plaisance de Cap d'Ail
+2021,CARCASSONNE,Aude (11),Occitanie,port,Port de Carcassonne
+2021,CARENTAN,Manche (50),Normandie,port,Port de Plaisance de Carentan
+2021,CASSIS,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,port,"Calanque de Port Miou, Port Départemental de Cassis"
+2021,CASTELNAUDARY,Aude (11),Occitanie,port,Port de Castelnaudary
+2021,CHÂLONS-EN-CHAMPAGNE,Marne (51),Grand Est,port,Relais nautique de l'anse du Jard
+2021,CHERBOURG-EN-COTENTIN,Manche (50),Normandie,port,Port de Chantereyne de Cherbourg
+2021,COGOLIN,Var (83),Provence-Alpes-Côte d'Azur,port,Port de Plaisance des Marines de Cogolin
+2021,COLMAR,Haut-Rhin (68),Grand Est,port,Port de Colmar
+2021,CORBIGNY,Nièvre (58),Bourgogne-Franche-Comté,port,Port de la Vauvelle
+2021,CROZON,Finistère (29),Bretagne,port,Port de Plaisance de Morgat
+2021,DECIZE,Nièvre (58),Bourgogne-Franche-Comté,port,Port de Decize
+2021,DIEPPE,Seine-Maritime (76),Normandie,port,Port de Dieppe
+2021,DIVES-SUR-MER,Calvados (14),Normandie,port,Port de Dives-Cabourg-Houlgate
+2021,DOUARNENEZ,Finistère (20),Bretagne,port,Port de Plaisance de Douarnenez
+2021,ETAPLES,Pas-de-Calais (62),Hauts-de-France,port,Port de Plaisance d'Étaples
+2021,EVIAN-LES-BAINS,Haute-Savoie (74),Auvergne-Rhône-Alpes,port,Port des Mouettes
+2021,FECAMP,Seine-Maritime (76),Normandie,port,Port de Plaisance de Fécamp
+2021,FOS SUR MER,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,port,Port de Plaisance Claude Rossi - Pointe Saint Gervais
+2021,FREJUS CEDEX,Var (83),Provence-Alpes-Côte d'Azur,port,Port Fréjus
+2021,FRONTIGNAN,Hérault (34),Occitanie,port,Port de Plaisance de Frontignan
+2021,GIFFAUMONT CHAMPAUBERT,Haute-Marne (52),Grand Est,port,"Port de Nemours, Station nautique de Giffaumont Champaubert, Port de plaisance de Nuisement"
+2021,GOLFE-JUAN,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port Camille Rayon du Golfe Juan
+2021,GRUISSAN,Aude (11),Occitanie,port,Port de Plaisance de Gruissan
+2021,GUIDEL,Morbihan (56),Bretagne,port,Port de Guidel
+2021,HYERES LES PALMIERS,Var (83),Provence-Alpes-Côte d'Azur,port,Port Saint Pierre de Hyères les Palmiers
+2021,JUAN LES PINS,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port du Croûton
+2021,L'ISLE-ADAM,Val-d'Oise (95),Île-de-France,port,Port Isle-Adam
+2021,LA BAULE,Loire-Atlantique (44),Pays de la Loire,port,Port La Baule-Le Pouliguen
+2021,LA GRANDE MOTTE,Hérault (34),Occitanie,port,Port de La Grande Motte
+2021,LA LONDE LES MAURES,Var (83),Provence-Alpes-Côte d'Azur,port,Ports de La Londe
+2021,LA ROCHE SUR YON,Vendée (85),Pays de la Loire,port,Port de plaisance de l'Ile d'Yeu
+2021,LARMOR-PLAGE,Morbihan (56),Bretagne,port,"Port de Gâvres, Port de plaisance du Kernével"
+2021,LE BARCARES,Pyrénées-Orientales (66),Occitanie,port,Port Saint Ange du Barcarès
+2021,LE CAP D'AGDE,Hérault (34),Occitanie,port,Port de Plaisance du Cap d'Agde
+2021,LE GRAU DU ROI,Gard (30),Occitanie,port,Port Camargue du Grau du Roi
+2021,LE LAVANDOU,Var (83),Provence-Alpes-Côte d'Azur,port,Port du Lavandou
+2021,LEGE CAP FERRET,Gironde (33),Nouvelle-Aquitaine,port,port de la Vigne
+2021,LES ISSAMBRES,Var (83),Provence-Alpes-Côte d'Azur,port,Port San Peïre des Issambres
+2021,LILLE,Nord (59),Hauts-de-France,port,Port Fluvial des Près du Hem Lille Métropole
+2021,LORIENT,Morbihan (56),Bretagne,port,Port de Lorient centre
+2021,MÂCON,Saône-et-Loire (71),Bourgogne-Franche-Comté,port,Port de plaisance de Mâcon
+2021,MANDELIEU LA NAPOULE,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port de La Napoule
+2021,MARSEILLAN,Hérault (34),Occitanie,port,"Port de Marseillan Ville, Port de Marseillan Plage"
+2021,MARSEILLE,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,port,"CNTL de Marseille, Société Nautique de Marseille"
+2021,MAUGUIO,Hérault (34),Occitanie,port,Port de Plaisance de Carnon
+2021,MENTON,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,"Port de Garavan, Vieux Port de Menton"
+2021,METZ,Moselle (57),Grand Est,port,Port de Plaisance Metz
+2021,MONTHERMÉ,Ardennes (08),Grand Est,port,Port de plaisance Intercommunal de Monthermé
+2021,NANC,Meurthe-et-Moselle (54),Grand Est,port,Port Saint Georges de Nancy
+2021,NARBONNE,Aude (11),Occitanie,port,Port de Plaisance de Narbonne
+2021,OUISTREHAM,Calvados (14),Normandie,port,Bassin de plaisance de Ouistreham
+2021,PAIMPOL,Côtes-d'Armor (22),Bretagne,port,Port de Plaisance de Paimpol
+2021,PALAVAS LES FLOTS,Hérault (34),Occitanie,port,Port de Palavas les Flots
+2021,PONT-A-MOUSSON,Meurthe-et-Moselle (54),Grand Est,port,Port de plaisance Michel ROTH
+2021,PORT DE BOUC,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,port,Port de Plaisance de Port de Bouc
+2021,PORT LEUCATE,Aude (11),Occitanie,port,Port de Leucate
+2021,PORT SAINT LOUIS DU RHONE,Bouches-du-Rhône (13),Provence-Alpes-Côte d'Azur,port,Port de Plaisance de Port St Louis du Rhône
+2021,PORT-LOUIS,Morbihan (56),Bretagne,port,Port-Louis
+2021,PUNAAUIA,Polynésie Française (987),Collectivités d'Outre-Mer,port,Marina Taina
+2021,REVIN,Ardennes (08),Grand Est,port,Halte Fluviale de Revin
+2021,ROUEN,Seine-Maritime (76),Normandie,port,Port de plaisance de Rouen
+2021,SAINT CYPRIEN,Pyrénées-Orientales (66),Occitanie,port,Port de Plaisance de Saint Cyprien
+2021,SAINT CYR SUR MER,Var (83),Provence-Alpes-Côte d'Azur,port,"Nouveau Port des Lecques, Port de la Madrague, Vieux Port des Lecques de St Cyr/Mer"
+2021,SAINT JEAN CAP FERRAT,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Saint Jean Cap Ferrat
+2021,SAINT MARTIN LA GARENNE,Yvelines (78),Île-de-France,port,PORT ILON
+2021,SAINT RAPHAEL,Var (83),Provence-Alpes-Côte d'Azur,port,"Port de Plaisance de Santa Lucia, Saint Raphaël Vieux Port"
+2021,SAINT VALERY SUR SOMME,Somme (80),Hauts-de-France,port,Port de Plaisance de Saint Valery sur Somme
+2021,SAINT-AMAND-LES-EAUX,Nord (59),Hauts-de-France,port,Port fluvial de La Porte du Hainaut
+2021,SAINT-DENIS D OLERON,Charente-Maritime (17),Nouvelle-Aquitaine,port,Port de Saint Denis d'Oléron
+2021,SAINT-FLORENT,Haute-Corse (2B),Corse,port,Port de Saint Florent
+2021,SAINT-QUAY-PORTRIEUX,Côtes-d'Armor (22),Bretagne,port,Saint-Quay Port d'Armor
+2021,SAINT-VAAST-LA-HOUGUE,Manche (50),Normandie,port,Port de Saint Vaast La Hougue
+2021,SAINTE MAXIME,Var (83),Provence-Alpes-Côte d'Azur,port,port de Sainte Maxime
+2021,SARREGUEMINES,Moselle (57),Grand Est,port,Port de Sarreguemines
+2021,SAVERNE,Bas-Rhin (67),Grand Est,port,Port de Plaisance de Saverne
+2021,SCIEZ,Haute-Savoie (74),Auvergne-Rhône-Alpes,port,Port de Sciez
+2021,SIX FOURS LES PLAGES,Var (83),Provence-Alpes-Côte d'Azur,port,Port de La Coudoulière
+2021,SIX FOURS LES PLAGES,Var (83),Provence-Alpes-Côte d'Azur,port,Port de Plaisance Saint-Pierre des Embiez
+2021,SOLENZARA,Corse-du-Sud (2A),Corse,port,Port de Plaisance de Solenzara
+2021,TALMONT SAINT HILAIRE,Vendée (85),Pays de la Loire,port,Port de Plaisance de Bourgenay
+2021,THONON-LES-BAINS,Haute-Savoie (74),Auvergne-Rhône-Alpes,port,Port de plaisance de Rives
+2021,TOUL,Meurthe-et-Moselle (54),Grand Est,port,Port de France
+2021,TOULOUSE,Haute-Garonne (31),Occitanie,port,Port Saint Sauveur de Toulouse
+2021,TREAUVILLE,Manche (50),Normandie,port,Port de Diélette
+2021,VALENCE,Drôme (26),Auvergne-Rhône-Alpes,port,Port de l'Épervière
+2021,VAUVERT,Gard (30),Occitanie,port,Gallician
+2021,VELIZY VILLACOUBLAY,Alpes-Maritimes (06),Provence-Alpes-Côte d'Azur,port,Port de Marina Baie des Anges
+2021,VENDRES,Hérault (34),Occitanie,port,Port départemental Vendres en Domitienne
+2021,LE MARIN,Martinique (972),Martinique,port,Port de plaisance du Marin

@@ -1,0 +1,280 @@
+year,commune,department,region,type_of_flag,places
+2022,Malafretaz,Ain,Auvergne-Rhône-Alpes,beach,Plage labellisée : Plage principale
+2022,Vieure,Allier,Auvergne-Rhône-Alpes,beach,Plage labellisée : Plage du plan d'eau de Vieure
+2022,Ubaye-Serre-Ponçon,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,beach,Plage labellisée : Plage de Saint Vincent les Forts
+2022,Chorges,Hautes-Alpes,Provence-Alpes-Côte d'Azur,beach,Plages labellisées : Plage de la baie Saint-Michel - Les Trémouilles
+2022,Crots,Hautes-Alpes,Provence-Alpes-Côte d'Azur,beach,Plage labellisée : Chanterenne
+2022,Embrun,Hautes-Alpes,Provence-Alpes-Côte d'Azur,beach,Plage labellisée : Plan d'eau Plage
+2022,Rousset,Hautes-Alpes,Provence-Alpes-Côte d'Azur,beach,Plage labellisée : Bois Vieux
+2022,Sauze du Lac,Hautes-Alpes,Provence-Alpes-Côte d'Azur,beach,Plage labellisée : Plage de Port Saint-Pierre
+2022,Savines le Lac,Hautes-Alpes,Provence-Alpes-Côte d'Azur,beach,"Plage labellisée : Savin'Plage, Combette"
+2022,Antibes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,beach,"Plages labellisées : Les Groules, Fontonne Est, Fontonne Ouest, Antibes-les-Pins Ouest, Antibes-les-Pins Est, Fort Carré, Marineland"
+2022,Cannes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,beach,"Plages labellisées : Chantiers navals, Trou (Roubine), Font de Veyre, Ile Sainte Marguerite Est, Ile Sainte Marguerite Ouest, Riou (plage de la Nadine), Rochers de la Bocca, Saint-Georges, Sud Aviation"
+2022,Nice,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,beach,"Plages labellisées : Castel, Sainte-Hélène, BlueBeach, Forum"
+2022,Saint Martin d'Ardèche,Ardèche,Auvergne-Rhône-Alpes,beach,Plages labellisées : Plage de Sauze
+2022,"Le Chesne, Bairon et ses evirons",Ardennes,Grand Est,beach,Plage labellisée : lac de bairon
+2022,Fleury d'Aude,Aude,Occitanie,beach,"Plages labellisées : Les Cabanes de Fleury, Saint-Pierre-La-Mer"
+2022,Gruissan,Aude,Occitanie,beach,"Plages labellisées : Grazel, Les Chalets, Mateille - Ayguades"
+2022,Leucate,Aude,Occitanie,beach,"Plages labellisées : La Franqui (Presqu'île), Leucate Plage (Presqu'île), Naturistes (Port Leucate), Le Kyklos (Port Leucate), Copacabana (Port Leucate)"
+2022,Narbonne-Plage,Aude,Occitanie,beach,"Plages labellisées : Plage du centre, Plage des Karantes, Plage du Languedoc, Créneau Naturel"
+2022,Port la Nouvelle,Aude,Occitanie,beach,Plage labellisée : Plage du Front de Mer
+2022,Salles-Curan,Aveyron,Occitanie,beach,"Plages labellisées : Plage des Vernhes 1, Plage des Vernhes 2"
+2022,Berre l'Etang,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,beach,Plage labellisée : Plage de Champigny - quartier des Merveilles
+2022,Cassis,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,beach,"Plages labellisées : Bestouan, Grande Mer"
+2022,Fos sur Mer,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,beach,"Plages labellisées : Cavaou, Grande Plage"
+2022,Port de Bouc,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,beach,Plages labellisées : Bottai
+2022,Saint-Chamas,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,beach,plage labellisée : plage des cabassons
+2022,Sausset les Pins,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,beach,Plage labellisée : Corniche
+2022,Colleville Montgomery,Calvados,Normandie,beach,Plage labellisée : Colleville Plage
+2022,Honfleur,Calvados,Normandie,beach,Plage labellisée : Plage du Butin
+2022,Pont l'Evêque,Calvados,Normandie,beach,Plage labellisée : Lac de Pont l'Evêque
+2022,Trémouille,Cantal,Auvergne-Rhône-Alpes,beach,Plage labellisée : Lastioulles
+2022,La Rochelle,Charente-Maritime,Nouvelle-Aquitaine,beach,"Plages labellisées : Chef de Baie, Les Minimes"
+2022,Le Bois Plage en Ré,Charente-Maritime,Nouvelle-Aquitaine,beach,"Plages labellisées : Gros-Jonc, Les Gollandières (bidon V)"
+2022,Le Grand Village Plage,Charente-Maritime,Nouvelle-Aquitaine,beach,Plage labellisée : Plage de la Giraudière
+2022,Royan,Charente-Maritime,Nouvelle-Aquitaine,beach,Plages labellisées : Le Chay
+2022,Saint Georges d'Oléron,Charente-Maritime,Nouvelle-Aquitaine,beach,"Plages labellisées : Plage de Boyardville, Plage des Saumonards - La Gautrelle, Plage du Douhet - Plaisance, Plage des Sables Vignier - Les Bonnes"
+2022,Saint Trojan les Bains,Charente-Maritime,Nouvelle-Aquitaine,beach,"Plages labellisées : La Grande Plage, Gatseau"
+2022,Ambrugeat/Meymac,Corrèze,Nouvelle-Aquitaine,beach,Plage labellisée : Lac de Séchemailles
+2022,Egletons,Corrèze,Nouvelle-Aquitaine,beach,Plage labellisée : Plage du lac
+2022,Liginiac,Corrèze,Nouvelle-Aquitaine,beach,Plage labellisée : Le Maury
+2022,Masseret,Corrèze,Nouvelle-Aquitaine,beach,Plage labellisée : Plan d'eau Masseret - Lamongerie
+2022,Neuvic d'Ussel,Corrèze,Nouvelle-Aquitaine,beach,Plage labellisée : La Plage
+2022,Treignac,Corrèze,Nouvelle-Aquitaine,beach,Plage labellisée : Les Bariousses
+2022,Arnay le Duc,Côte-d'Or,Bourgogne-Franche-Comté,beach,Plage labellisé : Etang Fouché
+2022,Trévou-Tréguignec,Côtes-d'Armor,Bretagne,beach,Plage labellisée : Plage de Trestel
+2022,Carsac de Gurson,Dordogne,Nouvelle-Aquitaine,beach,Plage labellisée : Plage du Lac de Gurson
+2022,La Jemaye-Ponteyraud,Dordogne,Nouvelle-Aquitaine,beach,Plage labellisée : Grand Etang de La Jemaye
+2022,Tamnies,Dordogne,Nouvelle-Aquitaine,beach,Plage labellisée : Etang de Loisirs de Tamniès
+2022,Audierne,Finistère,Bretagne,beach,Plage labellisée : Plage de Trescadec
+2022,Clohars Carnoët,Finistère,Bretagne,beach,"Plages labellisées : Bellangenet, Grands Sables, Kerou"
+2022,Fouesnant,Finistère,Bretagne,beach,"Plages labellisées : Kerler, Maner Coat Clevarec, Kerambigorn, Cap Coz (milieu), Glenan Saint Nicolas"
+2022,Le Conquet,Finistère,Bretagne,beach,"Plages labellisées : Pors Liogan, Portez et Blancs Sablons"
+2022,Moëlan sur Mer,Finistère,Bretagne,beach,"Plages labellisées : Kerfany, Trenez"
+2022,Plouhinec,Finistère,Bretagne,beach,"Plages labellisées : Gwendrez, Mesperleuc"
+2022,Pouldreuzic,Finistère,Bretagne,beach,Plage labellisée : Penhors (Poste de secours)
+2022,Roscoff,Finistère,Bretagne,beach,Plage labellisée : Saint Luc (Roch-Kroum)
+2022,Saint Pol de Léon,Finistère,Bretagne,beach,Plage labellisée : Plage Sainte-Anne Large
+2022,Ajaccio,Corse-du-Sud,Corse,beach,"Plages labellisées : Plage Trottel, Plage Terre Sacrée"
+2022,Grosseto-Prugna,Corse-du-Sud,Corse,beach,Plage labellisée : Plage des Tamaris
+2022,Pietrosella,Corse-du-Sud,Corse,beach,Plage labélisée : Plage de Ruppione
+2022,Le Grau du Roi,Gard,Occitanie,beach,"Plages labellisées : Le Boucanet, Rive Droite, Rive Gauche, Port Camargue Sud, Port Camargue Nord, Pointe de l'Espiguette"
+2022,Montréjeau,Haute-Garonne,Occitanie,beach,Plage labellisée : Lac Montréjeau
+2022,Aignan,Gers,Occitanie,beach,Plage labellisée : Le lac d'Aignan
+2022,Castera-Verduzan,Gers,Occitanie,beach,Plage labellisée : Base de Loisirs
+2022,Bordeaux,Gironde,Nouvelle-Aquitaine,beach,Plage labellisée : Plage de Bordeaux Lac
+2022,Grayan et l'Hôpital,Gironde,Nouvelle-Aquitaine,beach,"Plages labellisées en 2019 : Le Gurp, Euronat (naturiste)"
+2022,Hourtin,Gironde,Nouvelle-Aquitaine,beach,"Plages labellisées : Hourtin Océan, Lac: La Jetée (Plage du port), Lac: Piqueyrot"
+2022,Le Verdon sur Mer,Gironde,Nouvelle-Aquitaine,beach,Plage labellisée : Plage Océanne de Saint Nicolas
+2022,Soulac-sur-Mer,Gironde,Nouvelle-Aquitaine,beach,"Plages labellisées : L'Amélie, Plage Centrale, Plage des Naïades"
+2022,Agde,Hérault,Occitanie,beach,"Plages labellisées : Grau d'Agde/Saint Vincent, Le Môle, Plage Naturiste, Richelieu et La Roquille"
+2022,Clermont-l'Hérault,Hérault,Occitanie,beach,Plage labellisée : Plage de Clermont - l'Hérault Lac du Salagou
+2022,Frontignan La Peyrade,Hérault,Occitanie,beach,"Plages labellisées : Entrée, Le Port, La Bergerie, Les Aresquiers, Le Grau"
+2022,La Grande Motte,Hérault,Occitanie,beach,"Plages labellisées : Grand Travers, Plage echirolles, Plage du Couchant /Rose des Sables, Saint Clair/Point Zéro"
+2022,La Salvetat sur Agoût,Hérault,Occitanie,beach,Plages labellisées sur le lac de la Raviège : Gua des Brasses et les Bouldouires
+2022,Marseillan,Hérault,Occitanie,beach,"Plages labellisées : Plage d'honneur, Robinson"
+2022,Mauguio Carnon,Hérault,Occitanie,beach,"Plages labellisées : Carnon Centre, Carnon/Degrasse, Carnon l'Avranche (De Grasse/Suffren), Carnon les Dunes (secteur grand travers)"
+2022,Palavas les Flots,Hérault,Occitanie,beach,"Plages labellisées : Rive Gauche - Le Grec, Rive Droite - Saint Pierre, Rive Gauche - St Maurice, Rive Gauche - St Roch, Rive Droite - L'Albatros"
+2022,Portiragnes,Hérault,Occitanie,beach,"Plages labellisées : La Redoute (Blockhaus), Le Bosquet"
+2022,Sérignan,Hérault,Occitanie,beach,Plage labellisée : Sérignan Plage
+2022,Sète,Hérault,Occitanie,beach,"Plages labellisées : Castellas, 3 Digues, Plage du Lido, Plage de la Fontaine, Lazaret, Plage de la Baleine"
+2022,Valras-Plage,Hérault,Occitanie,beach,"Plages labellisées : Les Mouettes, Casino, Poste de secours central, De Gaulle"
+2022,Vias,Hérault,Occitanie,beach,Plage labellisée : Farinette
+2022,Villeneuve-lès-Maguelone,Hérault,Occitanie,beach,"Plages labellisées : Plage du Pilou, Plage du Prévost"
+2022,Iffendic,Ille-et-Vilaine,Bretagne,beach,Plage labellisée : Lac de Trémelin
+2022,Saint-Briac-sur-Mer,Ille-et-Vilaine,Bretagne,beach,"Plages labellisées : La Salinette, Port Hue"
+2022,Éguzon Chantôme,Indre,Centre-Val de Loire,beach,Plage labellisée : Chambon A
+2022,Clairvaux-les-Lacs,Jura,Bourgogne-Franche-Comté,beach,Plage labellisée : Plage du Grand Lac de Clairvaux
+2022,Seignosse,Landes,Nouvelle-Aquitaine,beach,"Plages labellisées : Estagnots, Penon"
+2022,Villiers-sur-Loir,Loir-et-Cher,Centre-Val de Loire,beach,Plage labellisée : Plage de la base de loisirs plan d'eau
+2022,Champagnac le Vieux,Haute-Loire,Auvergne-Rhône-Alpes,beach,Plage labellisée : Plage du plan d'eau
+2022,Le Bouchet-Saint-Nicolas,Haute-Loire,Auvergne-Rhône-Alpes,beach,Plage labellisée : Plage du lac du Bouchet-Saint-Nicolas
+2022,Evian-les-bains,Haute-Savoie,Auvergne-Rhône-Alpes,beach,Plage labéllisée : Plage du centre nautique Evian
+2022,Neuvecelle,Haute-Savoie,Auvergne-Rhône-Alpes,beach,Plage labellisée : Neuvecelle Grande Rive
+2022,Publier,Haute-Savoie,Auvergne-Rhône-Alpes,beach,Plage labellisée : Plage municipale Amphion-les-Bains
+2022,Saint Jorioz,Haute-Savoie,Auvergne-Rhône-Alpes,beach,Plage labellisée : Plage municipale
+2022,Saint-Gingolph,Haute-Savoie,Auvergne-Rhône-Alpes,beach,Plage labellisée : Plage municipale
+2022,Sciez-sur-Léman,Haute-Savoie,Auvergne-Rhône-Alpes,beach,Plage labellisée : Sciez sur Léman
+2022,Thonon les Bains,Haute-Savoie,Auvergne-Rhône-Alpes,beach,"Plage labellisée : Plage de Saint Disdille
+Plage fermée pour raison sanitaire (COVID-19) : Plage du Centre Nautique (piscine accessible mais non labellisée)"
+2022,Veyrier du Lac,Haute-Savoie,Auvergne-Rhône-Alpes,beach,Plage labellisée : Plage La Brune
+2022,Dieppe,Seine-Maritime,Normandie,beach,"Plages labellisées : Plage de Puys, Plage de Dieppe"
+2022,Fécamp,Seine-Maritime,Normandie,beach,Plage labellisée : Plage de Fécamp
+2022,Le Havre,Seine-Maritime,Normandie,beach,Plage labellisée : Plage du Havre
+2022,Saint Jouin Bruneval,Seine-Maritime,Normandie,beach,Plage labellisée : Saint Jouin Plage
+2022,Souppes-sur-Loing,Seine-et-Marne,Île-de-France,beach,Plage labellisée: Base de Loisirs de Souppes-sur-Loing
+2022,Cayeux-sur-Mer,Somme,Hauts-de-France,beach,Plage labellisée : Plage de la Ville
+2022,Blaye-les-Mines,Tarn,Occitanie,beach,Plage labellisée : Plage Sainte-Marie
+2022,Nages,Tarn,Occitanie,beach,Plage labellisée : Plage de Rieu-Montagné
+2022,Rivières,Tarn,Occitanie,beach,Plage labellisée : Aiguelèze
+2022,Trébas les Bains,Tarn,Occitanie,beach,Plage labellisée : Base de loisirs de Trébas
+2022,Molières,Tarn-et-Garonne,Occitanie,beach,Plage labellisée : Lac Plage Sable
+2022,Monclar de Quercy,Tarn-et-Garonne,Occitanie,beach,Plage labellisée : Lac Plage Coté Toboggan
+2022,Parisot,Tarn-et-Garonne,Occitanie,beach,Plage labellisée : Lac de Parisot
+2022,Bandol,Var,Provence-Alpes-Côte d'Azur,beach,"Plages labellisées : Plage du Grand Vallat, Plage du Casino, Plage Centrale et Plage Renécros"
+2022,Hyères,Var,Provence-Alpes-Côte d'Azur,beach,"Plages labellisées : Ayguade, Almanarre Nord, La Bergerie, Les Salins"
+2022,La Croix Valmer,Var,Provence-Alpes-Côte d'Azur,beach,"Plages labellisées : Gigaro, La Douane"
+2022,La Londe les Maures,Var,Provence-Alpes-Côte d'Azur,beach,"Plages labellisées : L'Argentière, Miramar, Tamaris"
+2022,La Seyne sur Mer,Var,Provence-Alpes-Côte d'Azur,beach,"Plages labellisées : Sablettes Centre, Sablettes Est"
+2022,Le Lavandou,Var,Provence-Alpes-Côte d'Azur,beach,"Plages labellisables : Anglade, Lavandou ville, Saint Clair, Cavalière, la Fossette, Aiguebelle, Pramousquier"
+2022,Le Pradet,Var,Provence-Alpes-Côte d'Azur,beach,"Plages labellisées: Les Bonnettes, La Garonne, Le Monaco, Les Oursinières, Le Pin de Galles"
+2022,Rayol Canadel sur Mer,Var,Provence-Alpes-Côte d'Azur,beach,"Plages labellisées : Plage Canadel, Plage Pramousquier, Plage Rayol"
+2022,Roquebrune-sur-Argens,Var,Provence-Alpes-Côte d'Azur,beach,Plages labellisées : San Peire et Gaillarde
+2022,Saint Mandrier sur Mer,Var,Provence-Alpes-Côte d'Azur,beach,"Plages labellisées : La Coudoulière, Plage de La Vieille, Touring Club, Le Canon"
+2022,Saint-Raphaël,Var,Provence-Alpes-Côte d'Azur,beach,"Plages labellisées : Péguière, Veillat, Boulouris, Dramont, Camp Long, Agay, Pourrousset, Baumette, Anthéor"
+2022,Sainte Maxime,Var,Provence-Alpes-Côte d'Azur,beach,"Plages labellisées : Plage Garonnette, Plage La Croisette, Plage La Nartelle, Plage du Centre-ville"
+2022,Six-Fours les Plages,Var,Provence-Alpes-Côte d'Azur,beach,"Plages labellisées : Bonnegrace Kennedy, Bonnegrace Centre, Plage du Cros, La Coudoulière, Les Roches Brunes"
+2022,Toulon,Var,Provence-Alpes-Côte d'Azur,beach,"Plages labellisées : Anse Mistral, Lido, Source Ouest"
+2022,Jard-sur-Mer,Vendée,Pays de la Loire,beach,"Plages labellisées : Boisvinet, La Mine"
+2022,La Faute sur Mer,Vendée,Pays de la Loire,beach,"Plages labellisées : Grande Plage, Plage de la Barrique"
+2022,La Tranche sur Mer,Vendée,Pays de la Loire,beach,"Plages labellisées : La Terrière, Les Generelles, Grande Plage, La Grière, Sainte Anne, La Porte des Iles, Corps de garde"
+2022,Longeville sur Mer,Vendée,Pays de la Loire,beach,"Plages labellisées : Le Petit Rocher, Les Conches"
+2022,Notre Dame de Monts,Vendée,Pays de la Loire,beach,Plage labellisée : Plage Centrale
+2022,Talmont Saint Hilaire,Vendée,Pays de la Loire,beach,Plage labellisée : Le Veillon
+2022,Xanton Chassenon,Vendée,Pays de la Loire,beach,Plage labellisée : Lac d'Albert
+2022,Beaumont-Saint-Cyr,Vienne,Nouvelle-Aquitaine,beach,Plage labellisée : Parc de Saint-Cyr
+2022,Bussière- Galant,Haute-Vienne,Nouvelle-Aquitaine,beach,Plage labellisée : Espace Hermeline
+2022,Saint Hilaire les Places,Haute-Vienne,Nouvelle-Aquitaine,beach,Plage labellisée : Lac Plaisance
+2022,Montsauche les Settons,Nièvre,Bourgogne-Franche-Comté,beach,Plage labellisée : Base de Loisirs Presqu'île
+2022,Fourmies,Nord,Hauts-de-France,beach,Plage labellisée : Plage des Etangs des moines
+2022,Gravelines,Nord,Hauts-de-France,beach,Plage labélisée : Petit Fort Philippe
+2022,Beauvais,Oise,Hauts-de-France,beach,Plage labellisée : Plan d'Eau du Canada
+2022,Berck sur Mer,Pas-de-Calais,Hauts-de-France,beach,Plage labellisée : Plage Centre
+2022,Aubusson d’Auvergne,Puy-de-Dôme,Auvergne-Rhône-Alpes,beach,Plage labélisée : Plage du lac d'Aubusson d'Auvergne
+2022,Aydat,Puy-de-Dôme,Auvergne-Rhône-Alpes,beach,Plage labellisée : Plage d'Aydat
+2022,Chambon sur Lac,Puy-de-Dôme,Auvergne-Rhône-Alpes,beach,Plage labellisée : Plage Ouest du Lac Chambon
+2022,Cournon d'Auvergne,Puy-de-Dôme,Auvergne-Rhône-Alpes,beach,Plage labellisée : Plan d'eau de Cournon d'Auvergne
+2022,La Tour d'Auvergne,Puy-de-Dôme,Auvergne-Rhône-Alpes,beach,Plage labellisée : Plage du plan d'eau
+2022,Murol,Puy-de-Dôme,Auvergne-Rhône-Alpes,beach,Plage labellisée : Grande plage du lac Chambon Plage Murol
+2022,Saint Rémy Sur Durolle,Puy-de-Dôme,Auvergne-Rhône-Alpes,beach,Plage labellisée : Plage côté bars sur le plan d'eau des Prades
+2022,Thiers,Puy-de-Dôme,Auvergne-Rhône-Alpes,beach,Plage labellisée : Plan d'eau d'Iloa
+2022,Anglet,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,"Plages labellisées : Petite Chambre d'Amour, Les Sables d'Or, Marinella, Les Corsaires, La Madrague, L'Ocean, Les Cavaliers, La Barre"
+2022,Biarritz,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,"Plages labellisées : Milady, Marbella, Côte des basques, Port Vieux, Grande Plage et Miramar"
+2022,Bidart,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,"Plages labellisées : Ilbarritz, Pavillon Royal, Erretegia, Bidart centre et Parlementia"
+2022,Hendaye,Pyrénées-Atlantiques,Nouvelle-Aquitaine,beach,Plages labellisées : Grande plage et Plage des deux jumeaux
+2022,Argelès sur Mer,Pyrénées-Orientales,Occitanie,beach,"Plages labellisées : Plage de la Marenda-Tamariguer, Plage Centre-Pins, Plage Sud, Plage du Racou"
+2022,Banyuls sur mer,Pyrénées-Orientales,Occitanie,beach,Plage labellisée : Plage Centrale
+2022,Canet en Roussillon,Pyrénées-Orientales,Occitanie,beach,"Plages labellisées : Port CGU, Plage du Roussillon, Plage Centrale, Plage Du Grand Large , Plage de la Marenda, Plage du Mar Estang"
+2022,Cerbère,Pyrénées-Orientales,Occitanie,beach,Plage labellisée : Plage principale
+2022,Port Barcarès,Pyrénées-Orientales,Occitanie,beach,"Plages labellisées : Plage du Lydia, Plage Digue Sud du Port, Plage du Village"
+2022,Port Vendres,Pyrénées-Orientales,Occitanie,beach,"Plages labellisées : Plage Bernardi, Plage de l'Usine"
+2022,Saint-Cyprien,Pyrénées-Orientales,Occitanie,beach,"Plages labellisées : Plage de l'Art PS1, Plage de l'Art PS2, Plage du Port, Plage des Capellans PS4, Plage de la Lagune PS6"
+2022,Sainte marie la mer,Pyrénées-Orientales,Occitanie,beach,"Plages labellisées : Plage du camping municipal, Plage du 4ème Epi, Plage du 3ème Epi, Plage du 2ème Epi, Plage du 1er Epi, Plage Centrale"
+2022,Torreilles,Pyrénées-Orientales,Occitanie,beach,"Plages labellisées : Plage Centre, Plage Nord, Plage Sud"
+2022,La Flèche,Sarthe,Pays de la Loire,beach,Plage labellisée : Plan d'eau de La Monnerie
+2022,Spay,Sarthe,Pays de la Loire,beach,Plage labellisée : Domaine du Houssay
+2022,Grésy sur Isère,Savoie,Auvergne-Rhône-Alpes,beach,Plage labellisée : Base de Loisirs de Grésy-sur-Isère
+2022,Saint Pierre d'Albigny,Savoie,Auvergne-Rhône-Alpes,beach,Plage labellisée : Plage du lac de Carouge
+2022,Port Camille Rayon du Golfe Juan,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,port,Port Camille Rayon du Golfe Juan
+2022,Port de Garavan,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,port,Port de Garavan
+2022,Port de La Napoule,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,port,Port de La Napoule
+2022,Port de plaisance de Cap d'Ail,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,port,Port de plaisance de Cap d'Ail
+2022,Port Marina Baie des Anges,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,port,Port Marina Baie des Anges
+2022,Port Pierre Canto (Cannes),Alpes-Maritimes,Provence-Alpes-Côte d'Azur,port,Port Pierre Canto (Cannes)
+2022,Vieux Port de Menton,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,port,Vieux Port de Menton
+2022,Halte fluviale de Revin,Ardennes,Grand Est,port,Halte fluviale de Revin
+2022,Port de plaisance Intercommunal de Monthermé,Ardennes,Grand Est,port,Port de plaisance Intercommunal de Monthermé
+2022,Port de Carcassonne,Aude,Occitanie,port,Port de Carcassonne
+2022,Port de Castelnaudary,Aude,Occitanie,port,Port de Castelnaudary
+2022,Port de plaisance de Gruissan,Aude,Occitanie,port,Port de plaisance de Gruissan
+2022,Port de plaisance de Narbonne,Aude,Occitanie,port,Port de plaisance de Narbonne
+2022,Port Leucate,Aude,Occitanie,port,Port Leucate
+2022,Calanques de Port Miou,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,port,Calanques de Port Miou
+2022,CNTL de Marseille,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,port,CNTL de Marseille
+2022,Port de plaisance de Port de Bouc,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,port,Port de plaisance de Port de Bouc
+2022,Port de plaisance de Port Saint Louis du Rhône,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,port,Port de plaisance de Port Saint Louis du Rhône
+2022,Port Départemental de Cassis GTC,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,port,Port Départemental de Cassis GTC
+2022,Port Saint Gervais de Fos sur Mer,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,port,Port Saint Gervais de Fos sur Mer
+2022,Société Nautique de Marseille,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,port,Société Nautique de Marseille
+2022,Port de Dives-Cabourg-Houlgate,Calvados,Normandie,port,Port de Dives-Cabourg-Houlgate
+2022,Port de Saint Denis d'Oléron,Charente-Maritime,Nouvelle-Aquitaine,port,Port de Saint Denis d'Oléron
+2022,Port de plaisance de Binic,Côtes-d'Armor,Bretagne,port,Port de plaisance de Binic
+2022,Port de plaisance de Paimpol,Côtes-d'Armor,Bretagne,port,Port de plaisance de Paimpol
+2022,Port de Saint Quay Portrieux,Côtes-d'Armor,Bretagne,port,Port de Saint Quay Portrieux
+2022,Halte de Besançon Moulin Saint Paul,Doubs,Bourgogne-Franche-Comté,port,Halte de Besançon Moulin Saint Paul
+2022,Halte fluviale de Deluz,Doubs,Bourgogne-Franche-Comté,port,Halte fluviale de Deluz
+2022,Port de l'Epervière (Valence),Drôme,Auvergne-Rhône-Alpes,port,Port de l'Epervière (Valence)
+2022,Port de plaisance de Douarnenez,Finistère,Bretagne,port,Port de plaisance de Douarnenez
+2022,Port Manec'h,Finistère,Bretagne,port,Port Manec'h
+2022,Bonifacio Marina,Corse-du-Sud,Corse,port,Bonifacio Marina
+2022,Port Ajaccio Tino Rossi,Corse-du-Sud,Corse,port,Port Ajaccio Tino Rossi
+2022,Port de Saint Florent,Haute-Corse,Corse,port,Port de Saint Florent
+2022,Port Xavier Colonna,Haute-Corse,Corse,port,Port Xavier Colonna
+2022,Port Camargue du Grau du Roi,Gard,Occitanie,port,Port Camargue du Grau du Roi
+2022,Port de Bellegarde,Gard,Occitanie,port,Port de Bellegarde
+2022,Port de Gallician,Gard,Occitanie,port,Port de Gallician
+2022,Port Saint Sauveur de Toulouse,Haute-Garonne,Occitanie,port,Port Saint Sauveur de Toulouse
+2022,Port de la Vigne,Gironde,Nouvelle-Aquitaine,port,Port de la Vigne
+2022,Port de Marseillan Plage,Hérault,Occitanie,port,Port de Marseillan Plage
+2022,Port de Marseillan Ville,Hérault,Occitanie,port,Port de Marseillan Ville
+2022,Port de Palavas les Flots,Hérault,Occitanie,port,Port de Palavas les Flots
+2022,Port de plaisance de Carnon,Hérault,Occitanie,port,Port de plaisance de Carnon
+2022,Port de plaisance de Frontignan,Hérault,Occitanie,port,Port de plaisance de Frontignan
+2022,Port de plaisance de La Grande Motte,Hérault,Occitanie,port,Port de plaisance de La Grande Motte
+2022,Port de plaisance du Cap d'Agde,Hérault,Occitanie,port,Port de plaisance du Cap d'Agde
+2022,Port de Vendres en Domitienne,Hérault,Occitanie,port,Port de Vendres en Domitienne
+2022,Port de La Baule Le Pouliguen,Loire-Atlantique,Pays de la Loire,port,Port de La Baule Le Pouliguen
+2022,Port de Barneville Carteret,Manche,Normandie,port,Port de Barneville Carteret
+2022,Port de Chantereyne de Cherbourg,Manche,Normandie,port,Port de Chantereyne de Cherbourg
+2022,Port de Diélette,Manche,Normandie,port,Port de Diélette
+2022,Port de plaisance de Carentan,Manche,Normandie,port,Port de plaisance de Carentan
+2022,Port de Saint Vaast la Hougue,Manche,Normandie,port,Port de Saint Vaast la Hougue
+2022,Port de plaisance de Nuisement du Lac du Der,Marne,Grand Est,port,Port de plaisance de Nuisement du Lac du Der
+2022,Relais Nautique de l'Anse du Jard,Marne,Grand Est,port,Relais Nautique de l'Anse du Jard
+2022,Station Nautique de Giffaumont Champaubert,Marne,Grand Est,port,Station Nautique de Giffaumont Champaubert
+2022,Port de Nemours,Haute-Marne,Grand Est,port,Port de Nemours
+2022,Port de France (Toul),Meurthe-et-Moselle,Grand Est,port,Port de France (Toul)
+2022,Port de plaisance Michel Roth,Meurthe-et-Moselle,Grand Est,port,Port de plaisance Michel Roth
+2022,Port Saint Georges de Nancy,Meurthe-et-Moselle,Grand Est,port,Port Saint Georges de Nancy
+2022,Port de Nonsard,Meuse,Grand Est,port,Port de Nonsard
+2022,Halte fluviale de Saint Martin sur Oust,Morbihan,Bretagne,port,Halte fluviale de Saint Martin sur Oust
+2022,Port de Gâvres,Morbihan,Bretagne,port,Port de Gâvres
+2022,Port de Guidel,Morbihan,Bretagne,port,Port de Guidel
+2022,Port de Lorient centre,Morbihan,Bretagne,port,Port de Lorient centre
+2022,Port de plaisance du Kernével,Morbihan,Bretagne,port,Port de plaisance du Kernével
+2022,Port Louis,Morbihan,Bretagne,port,Port Louis
+2022,Nautic Ham (Basse Ham),Moselle,Grand Est,port,Nautic Ham (Basse Ham)
+2022,Port de Metz,Moselle,Grand Est,port,Port de Metz
+2022,Port de Sarreguemines,Moselle,Grand Est,port,Port de Sarreguemines
+2022,Port de Decize,Nièvre,Bourgogne-Franche-Comté,port,Port de Decize
+2022,Port de la Vauvelle,Nièvre,Bourgogne-Franche-Comté,port,Port de la Vauvelle
+2022,Port de plaisance de la Porte du Hainaut,Nord,Hauts-de-France,port,Port de plaisance de la Porte du Hainaut
+2022,Port Fluvial des Près du Hem,Nord,Hauts-de-France,port,Port Fluvial des Près du Hem
+2022,Port de plaisance d'Etaples,Pas-de-Calais,Hauts-de-France,port,Port de plaisance d'Etaples
+2022,Port d'Argelès sur Mer,Pyrénées-Orientales,Occitanie,port,Port d'Argelès sur Mer
+2022,Port de plaisance de Banyuls,Pyrénées-Orientales,Occitanie,port,Port de plaisance de Banyuls
+2022,Port de plaisance de Saint Cyprien,Pyrénées-Orientales,Occitanie,port,Port de plaisance de Saint Cyprien
+2022,Port Saint Ange du Barcarès,Pyrénées-Orientales,Occitanie,port,Port Saint Ange du Barcarès
+2022,Port de plaisance de Saverne,Bas-Rhin,Grand Est,port,Port de plaisance de Saverne
+2022,Port de Mâcon,Saône-et-Loire,Bourgogne-Franche-Comté,port,Port de Mâcon
+2022,Port d'Yvoire,Haute-Savoie,Auvergne-Rhône-Alpes,port,Port d'Yvoire
+2022,Port de plaisance de Rives (Thonon les Bains),Haute-Savoie,Auvergne-Rhône-Alpes,port,Port de plaisance de Rives (Thonon les Bains)
+2022,Port de Sciez,Haute-Savoie,Auvergne-Rhône-Alpes,port,Port de Sciez
+2022,Port des Mouettes,Haute-Savoie,Auvergne-Rhône-Alpes,port,Port des Mouettes
+2022,Port de Fécamp,Seine-Maritime,Normandie,port,Port de Fécamp
+2022,Port de plaisance de Dieppe,Seine-Maritime,Normandie,port,Port de plaisance de Dieppe
+2022,Port de plaisance de Rouen,Seine-Maritime,Normandie,port,Port de plaisance de Rouen
+2022,Port de plaisance de Saint Valéry en Caux,Seine-Maritime,Normandie,port,Port de plaisance de Saint Valéry en Caux
+2022,Port Ilon,Yvelines,Île-de-France,port,Port Ilon
+2022,Port de Saint Valéry sur Somme,Somme,Hauts-de-France,port,Port de Saint Valéry sur Somme
+2022,Port Canal,Tarn-et-Garonne,Occitanie,port,Port Canal
+2022,Les Marines de Cogolin,Var,Provence-Alpes-Côte d'Azur,port,Les Marines de Cogolin
+2022,Nouveau Port des Lecques (Saint Cyr sur Mer),Var,Provence-Alpes-Côte d'Azur,port,Nouveau Port des Lecques (Saint Cyr sur Mer)
+2022,Port de Bormes les Mimosas,Var,Provence-Alpes-Côte d'Azur,port,Port de Bormes les Mimosas
+2022,Port de la Coudoulières,Var,Provence-Alpes-Côte d'Azur,port,Port de la Coudoulières
+2022,Port de la Madrague (Saint Cyr sur Mer),Var,Provence-Alpes-Côte d'Azur,port,Port de la Madrague (Saint Cyr sur Mer)
+2022,Port de plaisance de Santa Lucia (Saint Raphaël),Var,Provence-Alpes-Côte d'Azur,port,Port de plaisance de Santa Lucia (Saint Raphaël)
+2022,Port de plaisance des Embiez,Var,Provence-Alpes-Côte d'Azur,port,Port de plaisance des Embiez
+2022,Port de plaisance du Lavandou,Var,Provence-Alpes-Côte d'Azur,port,Port de plaisance du Lavandou
+2022,Port de Sainte Maxime,Var,Provence-Alpes-Côte d'Azur,port,Port de Sainte Maxime
+2022,Port de San Peïre des Issambres,Var,Provence-Alpes-Côte d'Azur,port,Port de San Peïre des Issambres
+2022,Port Fréjus,Var,Provence-Alpes-Côte d'Azur,port,Port Fréjus
+2022,Port Miramar La Londes,Var,Provence-Alpes-Côte d'Azur,port,Port Miramar La Londes
+2022,Port Saint Pierre de Hyères les Palmiers,Var,Provence-Alpes-Côte d'Azur,port,Port Saint Pierre de Hyères les Palmiers
+2022,Saint Raphaël Vieux Port,Var,Provence-Alpes-Côte d'Azur,port,Saint Raphaël Vieux Port
+2022,Vieux Port des Lecques (Saint Cyr sur Mer),Var,Provence-Alpes-Côte d'Azur,port,Vieux Port des Lecques (Saint Cyr sur Mer)
+2022,Port de plaisance de Bourgenay,Vendée,Pays de la Loire,port,Port de plaisance de Bourgenay
+2022,Port de plaisance de l'Ile d'Yeu,Vendée,Pays de la Loire,port,Port de plaisance de l'Ile d'Yeu
+2022,Port de l'Isle Adam,Val-d'Oise,Île-de-France,port,Port de l'Isle Adam
+2022,Base Fluviale des Prés Gris,Loiret,Centre-Val de Loir,port,Base Fluviale des Prés Gris
+2022,Port de Plaisance,Côte d'Armor,Bretagne,port,Port de Plaisance

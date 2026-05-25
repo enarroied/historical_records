@@ -1,23 +1,30 @@
 year,commune,department_name,department_number,region,beach_flag,port_flag,places
-2018,MALAFRETAZ,AIN,01,AUVERGNE-RHÔNE-ALPES,1,0,Plan d'eau
-2018,VIEURE,ALLIER,03,AUVERGNE-RHÔNE-ALPES,1,0,Étang de Vieure
-2018,SAINT-JUST D'ARDÈCHE,ARDÈCHE,07,AUVERGNE-RHÔNE-ALPES,1,0,d'Ardèche Ardèche à hauteur de l'ancien pont
-2018,SAINT-MARTIN D'ARDÈCHE,ARDÈCHE,07,AUVERGNE-RHÔNE-ALPES,1,0,"Plage du Grain de sel, Plage de Sauze"
+2018,MALAFRETAZ,AIN,1,AUVERGNE-RHÔNE-ALPES,1,0,Plan d'eau
+2018,VIEURE,ALLIER,3,AUVERGNE-RHÔNE-ALPES,1,0,Étang de Vieure
+2018,SAINT-JUST D'ARDÈCHE,ARDÈCHE,7,AUVERGNE-RHÔNE-ALPES,1,0,d'Ardèche Ardèche à hauteur de l'ancien pont
+2018,SAINT-MARTIN D'ARDÈCHE,ARDÈCHE,7,AUVERGNE-RHÔNE-ALPES,1,0,"Plage du Grain de sel, Plage de Sauze"
 2018,TRÉMOUILLE,CANTAL,15,AUVERGNE-RHÔNE-ALPES,1,0,Lastioulles
 2018,LE BOUCHET-SAINT-NICOLAS,HAUTE-LOIRE,43,AUVERGNE-RHÔNE-ALPES,1,0,Baignade du Bouchet-Saint-Nicolas
 2018,AYDAT,PUY-DE-DÔME,63,AUVERGNE-RHÔNE-ALPES,1,0,Base nautique
 2018,CHAMBON-SUR-LAC,PUY-DE-DÔME,63,AUVERGNE-RHÔNE-ALPES,1,0,Plage Ouest du lac Chambon
-2018,LA T OUR D'AUVERGNE,PUY-DE-DÔME,63,AUVERGNE-RHÔNE-ALPES,1,0,Plan d'eau
+2018,LA TOUR D'AUVERGNE,PUY-DE-DÔME,63,AUVERGNE-RHÔNE-ALPES,1,0,Plan d'eau
 2018,MUROL,PUY-DE-DÔME,63,AUVERGNE-RHÔNE-ALPES,1,0,Lac Chambon plage Murol
 2018,GRÉSY-SUR-ISÈRE,SAVOIE,73,AUVERGNE-RHÔNE-ALPES,1,0,Base de loisirs de Grésy-sur-Isère
-2018,MACOT LA PLAGNE - LA PLAGNE T ARENTAISE,SAVOIE,73,AUVERGNE-RHÔNE-ALPES,1,0,Plan d'eau des Versants d'Aime
+2018,MACOT LA PLAGNE,SAVOIE,73,AUVERGNE-RHÔNE-ALPES,1,0,Plan d'eau des Versants d'Aime
 2018,SAINT PIERRE D'ALBIGNY,SAVOIE,73,AUVERGNE-RHÔNE-ALPES,1,0,Plage du lac de Carouge
 2018,EXCENEVEX,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,0,Ponton
 2018,SAINT-JORIOZ,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,0,Plage municipale
 2018,THONON-LES-BAINS,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,0,"Plage de Saint-Disdille, Plage du Centre Nautique"
 2018,VEYRIER-DU-LAC,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,1,0,Plage La Brune
+2018,VALENCE,DRÔME,26,AUVERGNE-RHÔNE-ALPES,0,1,Port de l'Épervière
+2018,SCIEZ,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,0,1,Port de Sciez
+2018,RIVES,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,0,1,Port de plaisance de Rives
+2018,ARNAY-LE-DUC,CÔTE-D'OR,21,BOURGOGNE-FRANCHE-COMTÉ,1,0,Étang Fouché
 2018,CLAIRVAUX-LES-LACS,JURA,39,BOURGOGNE-FRANCHE-COMTÉ,1,0,Plage du Grand Lac de Clairvaux
 2018,MONTSAUCHE-LES-SETTONS,NIÈVRE,58,BOURGOGNE-FRANCHE-COMTÉ,1,0,Base de loisirs Presqu'île
+2018,DELUZ,DOUBS,25,BOURGOGNE-FRANCHE-COMTÉ,0,1,Halte fluviale de Deluz
+2018,BESANÇON,DOUBS,25,BOURGOGNE-FRANCHE-COMTÉ,0,1,Halte de Besançon (Moulin St Paul)
+2018,DECIZE,NIÈVRE,58,BOURGOGNE-FRANCHE-COMTÉ,0,1,Port de Decize
 2018,TREVOU-TRÉGUIGNEC,CÔTES-D'ARMOR,22,BRETAGNE,1,0,Plage de Trestel
 2018,CLOHARS-CARNOËT,FINISTÈRE,29,BRETAGNE,1,0,"Bellangenet, Grands Sables, Kerrou"
 2018,FOUESNANT-LES,FINISTÈRE,29,BRETAGNE,1,0,"Glénan Cap Coz (milieu), Glenan Saint Nicolas, Kerambigorn, Kerler, Maner Coat Clevarec"
@@ -35,30 +42,59 @@ year,commune,department_name,department_number,region,beach_flag,port_flag,place
 2018,CARNAC,MORBIHAN,56,BRETAGNE,1,0,"Saint-Colomban, Grande Plage"
 2018,GUIDEL,MORBIHAN,56,BRETAGNE,1,1,"La Falaise, Le Loc'h, Pen er Malo, Port de Guidel"
 2018,PLOUHINEC,MORBIHAN,56,BRETAGNE,1,0,"Kervegant, Le Magouero"
+2018,BINIC,CÔTES-D'ARMOR,22,BRETAGNE,0,1,Port de Plaisance de Binic
+2018,PAIMPOL,CÔTES-D'ARMOR,22,BRETAGNE,0,1,Port de Plaisance de Paimpol
+2018,SAINT-QUAY-PORTRIEUX,CÔTES-D'ARMOR,22,BRETAGNE,0,1,Port de Saint-Quay-Portrieux
+2018,CAMARET,FINISTÈRE,29,BRETAGNE,0,1,Port de Plaisance de Camaret
+2018,DOUARNENEZ,FINISTÈRE,29,BRETAGNE,0,1,Port de Plaisance de Douarnenez
+2018,MORGAT,FINISTÈRE,29,BRETAGNE,0,1,Port de Plaisance de Morgat
+2018,MOULIN BLANC,FINISTÈRE,29,BRETAGNE,0,1,Port du Moulin Blanc
+2018,GÂVRES,MORBIHAN,56,BRETAGNE,0,1,Port de Gâvres
+2018,LORIENT CENTRE,MORBIHAN,56,BRETAGNE,0,1,Port de Lorient Centre
+2018,KERNÉVEL,MORBIHAN,56,BRETAGNE,0,1,Port de plaisance du Kernével
+2018,PORT-LOUIS,MORBIHAN,56,BRETAGNE,0,1,Port-Louis
 2018,EGUZON-CHANTÔME,INDRE,36,CENTRE-VAL DE LOIRE,1,0,Chambon A
-2018,JOUÉ-LES-T OURS,INDRE-ET-LOIRE,37,CENTRE-VAL DE LOIRE,1,0,La baignade des Bretonnières
+2018,JOUÉ-LES-TOURS,INDRE-ET-LOIRE,37,CENTRE-VAL DE LOIRE,1,0,La baignade des Bretonnières
 2018,VILLIERS-SUR-LOIR,LOIR-ET-CHER,41,CENTRE-VAL DE LOIRE,1,0,Étang intercommunal Zone de Bain
-2018,CHARLEVILLE,ARDENNES,08,GRAND-EST,1,0,Mézières La Warenne
-2018,MAZURES,ARDENNES,08,GRAND-EST,1,0,Les Vieilles-Forges
-2018,DIENVILLE,AUBE,10,GRAND-EST,1,0,Dienville
-2018,GÉRAUDOT,AUBE,10,GRAND-EST,1,0,Plage de Géraudot
-2018,LUSIGNY-SUR-BARSE,AUBE,10,GRAND-EST,1,0,Plage de Lusigny-sur-Barse
-2018,MESNIL-SAINT-PÈRE,AUBE,10,GRAND-EST,1,0,Mesnil-Saint-Père
-2018,MONAMPTEUIL,AISNE,02,HAUTS-DE-FRANCE,1,0,Bassin de Monampteuil
+2018,BRIARE,LOIRET,45,CENTRE-VAL DE LOIRE,0,1,Port Briare le Canal
+2018,AJACCIO,CORSE-DU-SUD,2A,CORSE,1,0,"Plage terre sacrée, Plage trottel"
+2018,CHARLEVILLE,ARDENNES,8,GRAND EST,1,0,Mézières La Warenne
+2018,MAZURES,ARDENNES,8,GRAND EST,1,0,Les Vieilles-Forges
+2018,DIENVILLE,AUBE,10,GRAND EST,1,0,Dienville
+2018,GÉRAUDOT,AUBE,10,GRAND EST,1,0,Plage de Géraudot
+2018,LUSIGNY-SUR-BARSE,AUBE,10,GRAND EST,1,0,Plage de Lusigny-sur-Barse
+2018,MESNIL-SAINT-PÈRE,AUBE,10,GRAND EST,1,0,Mesnil-Saint-Père
+2018,MONTHERMÉ,ARDENNES,8,GRAND EST,0,1,Port de plaisance Intercommunal de Monthermé
+2018,NUISEMENT,MARNE,51,GRAND EST,0,1,Port de plaisance de Nuisement
+2018,GIFFAUMONT CHAMPAUBERT,MARNE,51,GRAND EST,0,1,Station nautique de Giffaumont Champaubert
+2018,NEMOURS,HAUTE-MARNE,52,GRAND EST,0,1,Port de Nemours
+2018,NANCY,MEURTHE-ET-MOSELLE,54,GRAND EST,0,1,"Port Saint-Georges de Nancy, Port de France (Toul)"
+2018,PONT-À-MOUSSON,MEURTHE-ET-MOSELLE,54,GRAND EST,0,1,Port de plaisance Michel Roth (Pont-à-Mousson)
+2018,NONSARD-LAMARCHE,MEUSE,55,GRAND EST,0,1,Port de Nonsard
+2018,THIONVILLE,MOSELLE,57,GRAND EST,0,1,Nautic'Ham (Basse Ham)
+2018,METZ,MOSELLE,57,GRAND EST,0,1,Port de Metz
+2018,SARREGUEMINES,MOSELLE,57,GRAND EST,0,1,Port de Sarreguemines
+2018,SAVERNE,BAS-RHIN,67,GRAND EST,0,1,Port de Plaisance de Saverne
+2018,COLMAR,HAUT-RHIN,68,GRAND EST,0,1,Port de Colmar
+2018,MONAMPTEUIL,AISNE,2,HAUTS-DE-FRANCE,1,0,Bassin de Monampteuil
 2018,GRAVELINES,NORD,59,HAUTS-DE-FRANCE,1,0,Petit Fort Philippe
 2018,BEAUVAIS,OISE,60,HAUTS-DE-FRANCE,1,0,Plan d'eau du Canada
 2018,BERCK-SUR-MER,PAS-DE-CALAIS,62,HAUTS-DE-FRANCE,1,0,Plage centre
 2018,CAYEUX-SUR-MER,SOMME,80,HAUTS-DE-FRANCE,1,0,Plage de la Ville
+2018,ARMENTIÈRES,NORD,59,HAUTS-DE-FRANCE,0,1,Port Fluvial des Près-du-Hem Lille Métropole
+2018,DOUAI,NORD,59,HAUTS-DE-FRANCE,0,1,Port fluvial de la Porte du Hainaut
+2018,ÉTAPLES,PAS-DE-CALAIS,62,HAUTS-DE-FRANCE,0,1,Port de Plaisance d'Étaples
+2018,SAINT-VALÉRY-SUR-SOMME,SOMME,80,HAUTS-DE-FRANCE,0,1,Port de Plaisance de Saint-Valéry-sur-Somme
 2018,ANNET,SEINE-ET-MARNE,77,ÎLE-DE-FRANCE,1,0,sur Marne Ile de Loisirs de Jablines-Annet
 2018,SOUPPES SUR LOING,SEINE-ET-MARNE,77,ÎLE-DE-FRANCE,1,0,Base De Loisirs De Souppes Sur Loing
 2018,COLLEVILLE-MONTGOMERY,CALVADOS,14,NORMANDIE,1,0,Poste de Surveillance
-2018,COURSEULLES-SUR-MER DEVANT ACCÈS,CALVADOS,14,NORMANDIE,1,0,"Piscine, Île de plaisance"
+2018,COURSEULLES-SUR-MER,CALVADOS,14,NORMANDIE,1,1,"Devant Accès Piscine, Île de plaisance, Port de Plaisance de Courseulles-sur-Mer"
 2018,HONFLEUR,CALVADOS,14,NORMANDIE,1,0,Plage du Butin
 2018,PONT-L'ÉVÊQUE,CALVADOS,14,NORMANDIE,1,0,Plan d'eau de Pont-l'Evêque
 2018,AGON,MANCHE,50,NORMANDIE,1,0,"Coutainville Le Passous, Plage Centre"
-2018,BARNEVILLE-CARTERET,MANCHE,50,NORMANDIE,1,0,"Plage de Carteret, Plage de Barneville CD 130"
+2018,BARNEVILLE-CARTERET,MANCHE,50,NORMANDIE,1,1,"Plage de Carteret, Plage de Barneville CD 130, Port de Barneville Carteret"
 2018,BRÉHAL,MANCHE,50,NORMANDIE,1,0,Face au CD 592
-2018,CAROLLES EN,MANCHE,50,NORMANDIE,1,0,face du Poste SNSM
+2018,CAROLLES,MANCHE,50,NORMANDIE,1,0,En face du Poste SNSM
 2018,COUDEVILLE-SUR-MER,MANCHE,50,NORMANDIE,1,0,Face au CD 351
 2018,GOUVILLE-SUR-MER,MANCHE,50,NORMANDIE,1,0,Face RD 268
 2018,GRANVILLE,MANCHE,50,NORMANDIE,1,0,Le Plat Gousset
@@ -67,6 +103,12 @@ year,commune,department_name,department_number,region,beach_flag,port_flag,place
 2018,PORTBAIL,MANCHE,50,NORMANDIE,1,0,Face au poste secours Pompiers
 2018,SAINT-PAIR-SUR-MER,MANCHE,50,NORMANDIE,1,0,Poste de secours Kairon
 2018,SIOUVILLE HAGUE,MANCHE,50,NORMANDIE,1,0,Face cale John Hunter
+2018,CHERBOURG,MANCHE,50,NORMANDIE,0,1,Port de Chantereyne de Cherbourg
+2018,DIÉLETTE,MANCHE,50,NORMANDIE,0,1,Port de Diélette
+2018,CARENTAN,MANCHE,50,NORMANDIE,0,1,Port de Plaisance de Carentan
+2018,SAINT-VAAST-LA-HOUGUE,MANCHE,50,NORMANDIE,0,1,Port de Saint-Vaast-la-Hougue
+2018,OUISTREHAM,CALVADOS,14,NORMANDIE,0,1,Bassin de plaisance de Ouistreham
+2018,DIVES-CABOURG-HOULGATE,CALVADOS,14,NORMANDIE,0,1,Port de Dives-Cabourg-Houlgate
 2018,DIEPPE,SEINE-MARITIME,76,NORMANDIE,1,1,"Plage de Puys, Port de Dieppe"
 2018,FÉCAMP,SEINE-MARITIME,76,NORMANDIE,1,1,"Fécamp, Port de Plaisance de Fécamp"
 2018,LE HAVRE,SEINE-MARITIME,76,NORMANDIE,1,0,Plage du Havre
@@ -80,192 +122,141 @@ year,commune,department_name,department_number,region,beach_flag,port_flag,place
 2018,SAINT-GEORGES-DE-DIDONNE,CHARENTE-MARITIME,17,NOUVELLE-AQUITAINE,1,0,"Face avenue Amazones, 300 m Sud accrobranche, Face avenue Béteille"
 2018,SAINT-TROJAN-LES-BAINS,CHARENTE-MARITIME,17,NOUVELLE-AQUITAINE,1,0,"La grande plage, Gatseau"
 2018,SAINT-PALAIS-SUR-MER,CHARENTE-MARITIME,17,NOUVELLE-AQUITAINE,1,0,Plage du Bureau
+2018,LA FLOTTE,CHARENTE-MARITIME,17,NOUVELLE-AQUITAINE,0,1,Port de Plaisance de La Flotte
+2018,SAINT-DENIS D'OLÉRON,CHARENTE-MARITIME,17,NOUVELLE-AQUITAINE,0,1,Port de Saint-Denis d'Oléron
 2018,AMBRUGEAT-MEYMAC,CORRÈZE,19,NOUVELLE-AQUITAINE,1,0,Ambrugeat
 2018,EGLETONS,CORRÈZE,19,NOUVELLE-AQUITAINE,1,0,Plage du deiro
 2018,MASSERET,CORRÈZE,19,NOUVELLE-AQUITAINE,1,0,Plan d'eau Masseret - Lamongerie
 2018,NEUVIC D'USSEL,CORRÈZE,19,NOUVELLE-AQUITAINE,1,0,La Plage
 2018,TREIGNAC,CORRÈZE,19,NOUVELLE-AQUITAINE,1,0,Les Bariousses
-2018,CARSAC,DORDOGNE,24,NOUVELLE-AQUITAINE,1,0,de Gurson Gurson
-2018,LA JEMAYE-PONTEYRAUD GRAND,DORDOGNE,24,NOUVELLE-AQUITAINE,1,0,étang de La Jemaye
-2018,SAINT ESTEPHE GRAND,DORDOGNE,24,NOUVELLE-AQUITAINE,1,0,étang de Saint Estephe
-2018,SAINT-SAUD-LACOUSSIÈRE LE GRAND,DORDOGNE,24,NOUVELLE-AQUITAINE,1,0,étang
-2018,T AMNIES,DORDOGNE,24,NOUVELLE-AQUITAINE,1,0,Étang Communal
+2018,CARSAC DEDORDOGNE? 24,NOUVELLE-AQUITAINE,1,0,de Gurson Gurson
+2018,LA JEMAYE-PONTEYRAUD,DORDOGNE,24,NOUVELLE-AQUITAINE,1,0,Grand étang de La Jemaye
+2018,SAINT ESTEPHE,DORDOGNE,24,NOUVELLE-AQUITAINE,1,0,Grand étang de Saint Estephe
+2018,SAINT-SAUD-LACOUSSIÈRE,DORDOGNE,24,NOUVELLE-AQUITAINE,1,0,Le grand étang
+2018,TAMNIES,DORDOGNE,24,NOUVELLE-AQUITAINE,1,0,Étang Communal
 2018,BORDEAUX,GIRONDE,33,NOUVELLE-AQUITAINE,1,0,Plage de Bordeaux lac
 2018,GRAYAN,GIRONDE,33,NOUVELLE-AQUITAINE,1,0,"et l'Hôpital Le Gurp, Euronat (naturiste)"
 2018,HOURTIN,GIRONDE,33,NOUVELLE-AQUITAINE,1,0,"Hourtin Océan, Lac : La Jetée (Plage du port), Lac : Piqueyrot"
 2018,LE VERDON-SUR-MER,GIRONDE,33,NOUVELLE-AQUITAINE,1,0,"Plage de la Chambrette, Plage océanne de Saint Nicolas"
 2018,NAUJAC-SUR-MER,GIRONDE,33,NOUVELLE-AQUITAINE,1,0,Le Pin Sec
-2018,SOULAC-SUR-MER,GIRONDE,33,NOUVELLE-AQUITAINE,1,0,"L 'Amélie, Plage Centrale, Plage des Naïades"
+2018,SOULAC-SUR-MER,GIRONDE,33,NOUVELLE-AQUITAINE,1,0,"L'Amélie, Plage Centrale, Plage des Naïades"
 2018,VENDAYS-MONTALIVET,GIRONDE,33,NOUVELLE-AQUITAINE,1,0,"Montalivet, l'ACM"
+2018,MÉDOC,GIRONDE,33,NOUVELLE-AQUITAINE,0,1,Port Médoc
 2018,SEIGNOSSE,LANDES,40,NOUVELLE-AQUITAINE,1,0,"Estagnots, Penon"
 2018,GUICHE,PYRÉNÉES-ATLANTIQUES,64,NOUVELLE-AQUITAINE,1,0,Lac des Arroques
 2018,SAINT HILAIRE LES PLACES,HAUTE-VIENNE,87,NOUVELLE-AQUITAINE,1,0,Lac plaisance
 2018,FLEURY,AUDE,11,OCCITANIE,1,0,"d'Aude Les Cabanes de Fleury, Saint-Pierre-La-Mer"
 2018,GRUISSAN,AUDE,11,OCCITANIE,1,1,"Grazel, Les Chalets, Mateille-Ayguades, Port de Plaisance de Gruissan"
 2018,LEUCATE,AUDE,11,OCCITANIE,1,1,"La Franqui (Presqu'île), Leucate Plage (Presqu'île), Naturistes (Port Leucate), Les Carats (Port Leucate), Copacabana (Port Leucate), Port de Leucate"
-2018,NARBONNE-PLAGE 1ER,AUDE,11,OCCITANIE,1,0,"Poste de Secours, e Poste de Secours, e Poste de Secours, e Poste de Secours"
+2018,NARBONNE-PLAGE,AUDE,11,OCCITANIE,1,0,"1er Poste de Secours, 2e Poste de Secours, 3e Poste de Secours, 4e Poste de Secours"
 2018,PORT-LA-NOUVELLE,AUDE,11,OCCITANIE,1,0,Plage du Front de Mer
-2018,SALLES-CURAN,AVEYRON,12,OCCITANIE,1,0,"Plage des Vernhes, Plage des Vernhes"
-2018,LE-GRAU-DU-ROI,GARD,30,OCCITANIE,1,0,"Le Boucanet, Pointe de l'Espiguette, Port Camargue Nord, Port Camargue Sud, Rive Droite, Rive Gauche31 HAUTEGARONNEMontréjeau Lac Montréjeau"
-2018,AGDE,HÉRAULT,34,OCCITANIE,1,0,"Grau d'Agde, La Plagette, La Roquille, La T amarissière, Le Môle, Les Battuts, Plage Naturiste, Richelieu, Rochelongue, Saint Vincent"
+2018,CASTELNAUDARY,AUDE,11,OCCITANIE,0,1,Port de Castelnaudary
+2018,NARBONNE,AUDE,11,OCCITANIE,0,1,Port de Plaisance de Narbonne
+2018,SALLES-CURAN,AVEYRON,12,OCCITANIE,1,0,"Plage des Vernhes 1, Plage des Vernhes 2"
+2018,LE-GRAU-DU-ROI,GARD,30,OCCITANIE,1,0,"Le Boucanet, Pointe de l'Espiguette, Port Camargue Nord, Port Camargue Sud, Rive Droite, Rive Gauche"
+2018,BELLEGARDE,GARD,30,OCCITANIE,0,1,Port de Bellegarde
+2018,CAMARGUE DU GRAU DU ROI,GARD,30,OCCITANIE,0,1,Port Camargue du Grau du Roi
+2018,MONTRÉJEAU,HAUTE-GARONNE,31,OCCITANIE,1,0,Lac Montréjeau
+2018,TOULOUSE,HAUTE-GARONNE,31,OCCITANIE,0,1,Port Saint-Sauveur de Toulouse
+2018,AGDE,HÉRAULT,34,OCCITANIE,1,0,"Grau d'Agde, La Plagette, La Roquille, La Tamarissière, Le Môle, Les Battuts, Plage Naturiste, Richelieu, Rochelongue, Saint Vincent"
 2018,CLERMONT-L'HÉRAULT,HÉRAULT,34,OCCITANIE,1,0,Plage de Clermont-l'Hérault Lac du Salagou
 2018,FRONTIGNAN,HÉRAULT,34,OCCITANIE,1,1,"La Peyrade Entrée, Les Aresquiers, Plaisanciers, Port Rive Est, Port Rive Ouest, Port de Plaisance de Frontignan"
 2018,LA GRANDE MOTTE,HÉRAULT,34,OCCITANIE,1,1,"Grand Travers, Plage de la Rose des Sables, Plage du Couchant, Saint Clair / Point Zéro, Port de La Grande Motte"
 2018,MARSEILLAN,HÉRAULT,34,OCCITANIE,1,0,"Plage d'honneur, Robinson"
-2018,MAUGUIO,HÉRAULT,34,OCCITANIE,1,0,"Carnon Carnon /Degrasse, Carnon Centre, Carnon l'Avranche (De Grasse/Suffren), Carnon les Dunes (secteur grand travers)"
-2018,PALAVAS-LES-FLOTS,HÉRAULT,34,OCCITANIE,1,0,"Rive Droite - L 'Albatros, Rive Droite - Saint Pierre, Rive Gauche - Le Grec, Rive Gauche - St Maurice, Rive Gauche - St Roch"
+2018,MAUGUIO-CARNON,HÉRAULT,34,OCCITANIE,1,0,"Carnon Carnon /Degrasse, Carnon Centre, Carnon l'Avranche (De Grasse/Suffren), Carnon les Dunes (secteur grand travers)"
+2018,PALAVAS-LES-FLOTS,HÉRAULT,34,OCCITANIE,1,1,"Rive Droite - L'Albatros, Rive Droite - Saint Pierre, Rive Gauche - Le Grec, Rive Gauche - St Maurice, Rive Gauche - St Roch, Port de Palavas les Flots"
 2018,PORTIRAGNES,HÉRAULT,34,OCCITANIE,1,0,"La Redoute (Blockhaus), Le Bosquet"
 2018,SÉRIGNAN,HÉRAULT,34,OCCITANIE,1,0,Sérignan Plage
 2018,SÈTE,HÉRAULT,34,OCCITANIE,1,0,"3 Digues, Castellas, Lazaret, Plage de la Baleine, Plage de la Fontaine, Plage du Lido"
 2018,VALRAS-PLAGE,HÉRAULT,34,OCCITANIE,1,0,"Casino, De Gaulle, Les Mouettes, Poste de secours central"
 2018,VIAS,HÉRAULT,34,OCCITANIE,1,0,Farinette
 2018,VILLENEUVE-LÈS-MAGUELONE,HÉRAULT,34,OCCITANIE,1,0,"Maguelone Est, Maguelone Ouest"
+2018,BOUZIGUES,HÉRAULT,34,OCCITANIE,0,1,Port de Bouzigues
+2018,MARSEILLAN PLAGE,HÉRAULT,34,OCCITANIE,0,1,Port de Marseillan Plage
+2018,MARSEILLAN VILLE,HÉRAULT,34,OCCITANIE,0,1,Port de Marseillan Ville
+2018,CARNON,HÉRAULT,34,OCCITANIE,0,1,Port de Plaisance de Carnon
+2018,CAP D'AGDE,HÉRAULT,34,OCCITANIE,0,1,Port de Plaisance du Cap d'Agde
+2018,VENDRES,HÉRAULT,34,OCCITANIE,0,1,Port départemental Vendres en Domitienne
 2018,MONTCUQ EN QUERCY BLANC,LOT,46,OCCITANIE,1,0,Plage de Saint-Sernin
 2018,VILLEFORT,LOZÈRE,48,OCCITANIE,1,0,Barrage de Villefort
-2018,ARGELÈS-SUR-MER,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,1,"Plage Centre-Pins, Plage de la Marenda-T amariguer, Plage du Racou, Plage Sud, Port d'Argelès-sur-Mer"
+2018,ARGELÈS-SUR-MER,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,1,"Plage Centre-Pins, Plage de la Marenda-Tamariguer, Plage du Racou, Plage Sud, Port d'Argelès-sur-Mer"
 2018,BANYULS-SUR-MER,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,0,Plage Centrale
 2018,CANET-EN-ROUSSILLON,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,0,"Plage Centrale, Plage de la Marenda, Plage Du Grand Large, Plage du Mar Estang, Plage du Roussillon, Plage du Sardinal (Nord du port)"
-2018,PORT BARCARÈS,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,0,"Plage du Lydia, Plage Digue Sud du Port, Plage du Village"
-2018,PORT-VENDRES,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,0,"Anse de Paulilles, Plage de l'Usine"
-2018,SAINT CYPRIEN,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,0,"Plage de l'Art PS1, Plage de l'Art PS2, Plage de la Lagune PS6, Plage des Capellans PS4, Plage du Port PS3"
+2018,PORT BARCARÈS,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,1,"Plage du Lydia, Plage Digue Sud du Port, Plage du Village, Port Saint-Ange-du-Barcarès"
+2018,PORT-VENDRES,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,1,"Anse de Paulilles, Plage de l'Usine, Port de Plaisance de Port Vendres"
+2018,SAINT CYPRIEN,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,1,"Plage de l'Art PS1, Plage de l'Art PS2, Plage de la Lagune PS6, Plage des Capellans PS4, Plage du Port PS3, Port de Plaisance de Saint-Cyprien"
 2018,SAINTE-MARIE-LA-MER,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,0,"Plage Centrale, Plage du 1er Epi, Plage du 2ème Epi, Plage du 3ème Epi, Plage du 4ème Epi, Plage du camping municipal"
-2018,T ORREILLES,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,0,"Plage Centre, Plage Nord, Plage Sud"
+2018,TORREILLES,PYRÉNÉES-ORIENTALES,66,OCCITANIE,1,0,"Plage Centre, Plage Nord, Plage Sud"
 2018,TREBAS LES BAINS,TARN,81,OCCITANIE,1,0,Base de Loisirs de Trébas
 2018,LAGUÉPIE,TARN-ET-GARONNE,82,OCCITANIE,1,0,Plage du Viaur
 2018,MOLIÈRES,TARN-ET-GARONNE,82,OCCITANIE,1,0,Lac Plage Sable
-2018,MONCLAR-DE-QUERCY,TARN-ET-GARONNE,82,OCCITANIE,1,0,Lac Plage coté T oboggan
+2018,MONCLAR-DE-QUERCY,TARN-ET-GARONNE,82,OCCITANIE,1,0,Lac Plage coté Toboggan
 2018,LA BERNERIE-EN-RETZ,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"Grande Plage face Mairie, Plan d'eau"
-2018,LA TURBALLE,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"Ker Élisabeth, Les Bretons, Pen Bron (V . V .F)"
-2018,PORNIC,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"L 'étang, La Noeveillard, Le Porteau, Portmain"
-2018,PRÉFAILLES,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"L 'Anse du Sud, Port Meleu"
+2018,LA TURBALLE,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"Ker Élisabeth, Les Bretons 1, Pen Bron (V.V.F)"
+2018,PORNIC,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"L'étang, La Noeveillard, Le Porteau, Portmain"
+2018,PRÉFAILLES,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"L'Anse du Sud, Port Meleu"
 2018,SAINT-BREVIN-LES-PINS,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"Plage de l'Ermitage, Plage des Rochelets, Plage de l'Océan"
 2018,SAINT-MICHEL-CHEF-CHEF,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"Gohaud La Rousellerie, Tharon"
 2018,SAINT-PHILBERT-DE-GRAND-LIEU,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,Plan d'eau de la base de loisirs
 2018,SAINT-NAZAIRE,LOIRE-ATLANTIQUE,44,PAYS DE LA LOIRE,1,0,"Monsieur Hulot Saint-Marc-sur-Mer, Plage de Saint-Marc-sur-mer / La Courance, Plage des Jaunais"
 2018,LA FLÈCHE,SARTHE,72,PAYS DE LA LOIRE,1,0,Plan d'eau de La Monnerie
-2018,LA BARRE,VENDÉE,85,PAYS DE LA LOIRE,1,0,"de Monts Fromentine, La Bergère / La Grande Côte"
-2018,LA F,VENDÉE,85,PAYS DE LA LOIRE,1,0,"aute-sur-Mer Grand'Plage, Plage de la Barrique"
-2018,LA TRANCHE,VENDÉE,85,PAYS DE LA LOIRE,1,0,"sur Mer Corps de garde, Grande Plage, La Grière, La Porte des Iles, La T errière, Les Generelles, Sainte Anne"
-2018,LONGEVILLE,VENDÉE,85,PAYS DE LA LOIRE,1,0,"sur Mer Le Petit Rocher, Les Conches"
+2018,LA BARRE DE MONTS,VENDÉE,85,PAYS DE LA LOIRE,1,0,"Fromentine, La Bergère / La Grande Côte"
+2018,LA FAUTE-SUR-MER,VENDÉE,85,PAYS DE LA LOIRE,1,0,"Grand'Plage, Plage de la Barrique"
+2018,LA TRANCHE SUR MER,VENDÉE,85,PAYS DE LA LOIRE,1,0,"Corps de garde, Grande Plage, La Grière, La Porte des Iles, La Terrière, Les Generelles, Sainte Anne"
+2018,LONGEVILLE SUR MER,VENDÉE,85,PAYS DE LA LOIRE,1,0,"Le Petit Rocher, Les Conches"
 2018,NOTRE DAME DE MONTS,VENDÉE,85,PAYS DE LA LOIRE,1,0,Grande Plage
 2018,SAINT-JEAN-DE-MONTS,VENDÉE,85,PAYS DE LA LOIRE,1,0,"La Grande Plage, Le Golf, La Parée du Jonc"
-2018,T,VENDÉE,85,PAYS DE LA LOIRE,1,0,almont-Saint-Hilaire Le Veillon
+2018,TALMONT-SAINT-HILAIRE,VENDÉE,85,PAYS DE LA LOIRE,1,0,Le Veillon
 2018,XANTON-CHASSENON,VENDÉE,85,PAYS DE LA LOIRE,1,0,Espace de loisirs du Lac de Chassenon
-2018,SAINT VINCENT LES FORTS,ALPES-DE-HAUTE-PROVENCE,04,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Camping municipal
-2018,CHORGES,HAUTES-ALPES,05,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Baie Saint michel, Le grand Pré - Les Trémouilles"
-2018,CROTS,HAUTES-ALPES,05,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Chanterenne
-2018,EMBRUN,HAUTES-ALPES,05,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Plage Nord
-2018,ROUSSET,HAUTES-ALPES,05,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Bois Vieux
-2018,SAUZE DU,HAUTES-ALPES,05,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Lac Port Saint Pierre (plage)
-2018,SAVINES,HAUTES-ALPES,05,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Le Lac La voilerie, Combette"
-2018,ANTIBES,ALPES-MARITIMES,06,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Antibes-les-Pins Est, Antibes-les-Pins Ouest, Fontonne Est, Fontonne Ouest, Fort Carré, La Salis, Les Groules, Marineland"
-2018,CANNES,ALPES-MARITIMES,06,PROVENCE-ALPES-CÔTE D'AZUR,1,1,"Chantiers navals, Font de Veyre, Gare Marchandises, Gazagnaire, Ile Sainte Marguerite Est, Ile Sainte Marguerite Ouest, Midi, Moure Rouge, Riou (Plage de la Nadine), Rochers de la Bocca, Saint Georges, Sud Aviation, Trou (Roubine), Port Pierre Canto"
-2018,CAP,ALPES-MARITIMES,06,PROVENCE-ALPES-CÔTE D'AZUR,1,0,d'Ail Pissarelles
-2018,MANDELIEU - LA NAPOULE,ALPES-MARITIMES,06,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Plage du Sable d'Or
-2018,NICE,ALPES-MARITIMES,06,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Carras, Centenaire, Coco Beach, Magnan, Saint Hélène"
-2018,CASSIS,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,1,1,"Bestouan, Grande Mer, Calanque de Port Miou, Port Départemental de Cassis GTC"
-2018,FOS-SUR-MER,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Cavaou, Grande Plage"
-2018,MARIGNANE,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Marignane Jaï nord
-2018,PORT-DE-BOUC,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,1,1,"Bottai, Port de Plaisance de Port de Plaisance de Port de Bouc"
-2018,SAUSSET-LES-PINS,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Corniche
-2018,HYÈRES,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Almanarre Nord, Ceinturon Est, La Bergerie, Port Pothuau"
-2018,LA CROIX,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Valmer Gigaro, La Douane"
-2018,LA LONDE,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,1,"les Maures L 'Argentière, Miramar, T amaris, Ports de La Londe"
-2018,LA-SEYNE-SUR-MER,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Sablettes Centre, Sablette Est"
-2018,LE LAVANDOU,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Aiguebelle, Anglade, Cavalière, la Fossette, Lavandou ville, Pramousquier, Saint Clair"
-2018,LE PRADET,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"La Garonne, Le Monaco, Le Pin de Galle, Les Bonnettes, Les Oursinières"
-2018,RAYOL CANADEL SUR MER,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Plage Canadel, Plage Pramousquier Est, Plage Rayol"
-2018,SAINT-CYR-SUR-MER,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,1,"Les Lecques Saint-Come Ouest, Vieux Port des Lecques de Saint-Cyr-sur-Mer"
-2018,SAINT-MANDRIER-SUR-MER,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"La Coudoulière, La Vieille, Saint-Asile, T ouring Club, Le Canon"
-2018,SAINTE-MAXIME,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Plage du centre-ville, Plage Garonnette, Plage La Croisette, Plage La Nartelle"
-2018,SIX-FOURS-LES-PLAGES,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Bonnegrace Anse (B ex Manuella), Bonnegrace Anse D (face office de tourisme), La Coudoulière, Les Roches Brunes, Plage du Cros"
-2018,T,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"oulon Anse Mistral, Les Pins Centre, Lido, Source Ouest"
-2018,SAINT PAUL,LA-RÉUNION,97,OUTRE-MER,1,0,"Plage Boucan Canot, Plage Ermitage Centre La Passe, Plage Roches Noires"
-2018,BORA,POLYNÉSIE-FRANÇAISE,98,OUTRE-MER,1,0,"Bora Complexe sportif T eriimaevarua (Salle Omnisport Pago), Plage Hôtel Conrad, Plage Hôtel Four Seasons, Plage Hôtel Intercontinental Moana Beach, Plage Hôtel Intercontinental Thalasso Resort & Spa, Plage Hôtel Maitai Polynesia, Plage Hôtel Meridien, Plage Hôtel Pearl Beach, Plage Hôtel Sofitel Marara, Plage Hôtel St Régis, Plage publique Matira, Plage snack Matira4 DELAMERÀLATERRE DELAMERÀLATERRE 5Occitanie35Nouvelle-Aquitaine28Grand Est6Hauts-de-France5Normandie21Pays de la Loire17Bretagne17Auvergne-Rhône-Alpes17Provence-Alpes-Côte d'Azur29Bourgogne-Franche-Comté3Centre-Val de Loire3Île-de-France2Corse1PolynésieFrançaiseLa Réunion"
-2018,OUISTREHAM,CALVADOS,14,NORMANDIE,0,1,Bassin de plaisance de Ouistreham
-2018,COURSEULLES-SUR-MER,CALVADOS,14,NORMANDIE,0,1,Port de Plaisance de Courseulles-sur-Mer
-2018,DIVES-CABOURG-HOULGATE,CALVADOS,14,NORMANDIE,0,1,Port de Dives-Cabourg-Houlgate
-2018,BARNEVILLE CARTERET,MANCHE,50,NORMANDIE,0,1,Port de Barneville Carteret
-2018,CHERBOURG,MANCHE,50,NORMANDIE,0,1,Port de Chantereyne de Cherbourg
-2018,DIÉLETTE,MANCHE,50,NORMANDIE,0,1,Port de Diélette
-2018,CARENTAN,MANCHE,50,NORMANDIE,0,1,Port de Plaisance de Carentan
-2018,SAINT-VAAST-LA-HOUGUE,MANCHE,50,NORMANDIE,0,1,Port de Saint-Vaast-la-Hougue
-2018,LA FLOTTE,CHARENTE-MARITIME,17,NOUVELLE-AQUITAINE,0,1,Port de Plaisance de La Flotte
-2018,SAINT-DENIS D'OLÉRON,CHARENTE-MARITIME,17,NOUVELLE-AQUITAINE,0,1,Port de Saint-Denis d'Oléron
-2018,MÉDOC,GIRONDE,33,NOUVELLE-AQUITAINE,0,1,Port Médoc
-2018,CASTELNAUDARY,AUDE,11,OCCITANIE,0,1,Port de Castelnaudary
-2018,NARBONNE,AUDE,11,OCCITANIE,0,1,Port de Plaisance de Narbonne
-2018,BELLEGARDE,GARD,30,OCCITANIE,0,1,Port de Bellegarde
-2018,CAMARGUE DU GRAU DU ROI,GARD,30,OCCITANIE,0,1,Port Camargue du Grau du Roi
-2018,TOULOUSE,HAUTE-GARONNE,31,OCCITANIE,0,1,Port Saint-Sauveur de T oulouse
-2018,BOUZIGUES,HÉRAULT,34,OCCITANIE,0,1,Port de Bouzigues
-2018,MARSEILLAN PLAGE,HÉRAULT,34,OCCITANIE,0,1,Port de Marseillan Plage
-2018,MARSEILLAN VILLE,HÉRAULT,34,OCCITANIE,0,1,Port de Marseillan Ville
-2018,PALAVAS LES FLOTS,HÉRAULT,34,OCCITANIE,0,1,Port de Palavas les Flots
-2018,CARNON,HÉRAULT,34,OCCITANIE,0,1,Port de Plaisance de Carnon
-2018,CAP D'AGDE,HÉRAULT,34,OCCITANIE,0,1,Port de Plaisance du Cap d'Agde
-2018,VENDRES,HÉRAULT,34,OCCITANIE,0,1,Port départemental Vendres en Domitienne
-2018,PORT-BARCARÈS,PYRÉNÉES-ORIENTALES,66,OCCITANIE,0,1,Port Saint-Ange-du-Barcarès
-2018,PORT VENDRES,PYRÉNÉES-ORIENTALES,66,OCCITANIE,0,1,Port de Plaisance de Port Vendres
-2018,SAINT-CYPRIEN,PYRÉNÉES-ORIENTALES,66,OCCITANIE,0,1,Port de Plaisance de Saint-Cyprien
 2018,BOURGENAY,VENDÉE,85,PAYS DE LA LOIRE,0,1,Port de Plaisance de Bourgenay
-2018,GOLFE-JUAN,ALPES-MARITIMES,06,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port Camille Rayon du Golfe Juan
-2018,LA NAPOULE,ALPES-MARITIMES,06,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port de La Napoule
-2018,CAP D'AIL,ALPES-MARITIMES,06,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port de plaisance de Cap d'Ail
-2018,VAUBAN,ALPES-MARITIMES,06,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port Vauban
+2018,SAINT VINCENT LES FORTS,ALPES-DE-HAUTE-PROVENCE,4,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Camping municipal
+2018,CHORGES,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Baie Saint michel, Le grand Pré - Les Trémouilles"
+2018,CROTS,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Chanterenne
+2018,EMBRUN,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Plage Nord
+2018,ROUSSET,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Bois Vieux
+2018,SAUZE DU LAC,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Port Saint Pierre (plage)
+2018,SAVINES,HAUTES-ALPES,5,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Le Lac La voilerie, Combette"
+2018,ANTIBES,ALPES-MARITIMES,6,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Antibes-les-Pins Est, Antibes-les-Pins Ouest, Fontonne Est, Fontonne Ouest, Fort Carré, La Salis, Les Groules, Marineland"
+2018,CANNES,ALPES-MARITIMES,6,PROVENCE-ALPES-CÔTE D'AZUR,1,1,"Chantiers navals, Font de Veyre, Gare Marchandises, Gazagnaire, Ile Sainte Marguerite Est, Ile Sainte Marguerite Ouest, Midi, Moure Rouge, Riou (Plage de la Nadine), Rochers de la Bocca, Saint Georges, Sud Aviation, Trou (Roubine), Port Pierre Canto"
+2018,CAP D'AIL,ALPES-MARITIMES,6,PROVENCE-ALPES-CÔTE D'AZUR,1,1,Pissarelles, Port de plaisance de Cap d'Ail
+2018,MANDELIEU-LA-NAPOULE,ALPES-MARITIMES,6,PROVENCE-ALPES-CÔTE D'AZUR,1,1,"Plage du Sable d'Or, Port de La Napoule"
+2018,NICE,ALPES-MARITIMES,6,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Carras, Centenaire, Coco Beach, Magnan, Saint Hélène"
+2018,GOLFE JUAN,ALPES-MARITIMES,6,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port Camille Rayon du Golfe Juan
+2018,VAUBAN,ALPES-MARITIMES,6,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port Vauban
+2018,CASSIS,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,1,1,"Bestouan, Grande Mer, Calanque de Port Miou, Port Départemental de Cassis GTC"
+2018,FOS-SUR-MER,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,1,1,"Cavaou, Grande Plage, Port Saint-Gervais de Fos sur Mer"
+2018,MARIGNANE,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Marignane Jaï nord
+2018,PORT-DE-BOUC,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,1,1,"Bottai, Port de Plaisance de Port de Bouc"
+2018,SAUSSET-LES-PINS,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,1,0,Corniche
 2018,MARSEILLE,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,0,1,"CNTL de Marseille, Société Nautique de Marseille"
 2018,PORT SAINT-LOUIS DU RHÔNE,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port de Plaisance de Port Saint-Louis du Rhône
 2018,MARTIGUES,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port Napoleon
-2018,FOS SUR MER,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port Saint-Gervais de Fos sur Mer
-2018,POINTE ROUGE,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Y achting Club Pointe Rouge
-2018,LECQUES,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Nouveau Port des Lecques
+2018,POINTE ROUGE,BOUCHES-DU-RHÔNE,13,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Yachting Club Pointe Rouge
+2018,HYÈRES,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Almanarre Nord, Ceinturon Est, La Bergerie, Port Pothuau"
+2018,LA CROIX VALMER,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Gigaro, La Douane"
+2018,LA LONDE LES MAURES,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,1,"L'Argentière, Miramar, Tamaris, Ports de La Londe"
+2018,LA-SEYNE-SUR-MER,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Sablettes Centre, Sablette Est"
+2018,LE LAVANDOU,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,1,"Aiguebelle, Anglade, Cavalière, la Fossette, Lavandou ville, Pramousquier, Saint Clair, Port du Lavandou"
+2018,LE PRADET,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"La Garonne, Le Monaco, Le Pin de Galle, Les Bonnettes, Les Oursinières"
+2018,RAYOL CANADEL SUR MER,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Plage Canadel, Plage Pramousquier Est, Plage Rayol"
+2018,SAINT-CYR-SUR-MER,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,1,"Les Lecques Saint-Come Ouest, Vieux Port des Lecques de Saint-Cyr-sur-Mer, Nouveau Port des Lecques"
+2018,SAINT-MANDRIER-SUR-MER,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"La Coudoulière, La Vieille, Saint-Asile, Touring Club, Le Canon"
+2018,SAINTE-MAXIME,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Plage du centre-ville, Plage Garonnette, Plage La Croisette, Plage La Nartelle"
+2018,SIX-FOURS-LES-PLAGES,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Bonnegrace Anse (B ex Manuella), Bonnegrace Anse D (face office de tourisme), La Coudoulière, Les Roches Brunes, Plage du Cros"
+2018,TOULON,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,1,0,"Anse Mistral, Les Pins Centre, Lido, Source Ouest"
+2018,BANDOL,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port de Plaisance de Bandol
 2018,BORMES LES MIMOSAS,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port de Bormes les Mimosas
 2018,LA COUDOULIÈRE,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port de La Coudoulière
 2018,LA MADRAGUE,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port de la Madrague
-2018,BANDOL,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port de Plaisance de Bandol
 2018,SANTA LUCIA,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port de Plaisance de Santa Lucia
 2018,COGOLIN,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port de Plaisance les Marines de Cogolin
 2018,EMBIEZ,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port de Plaisance Saint-Pierre des Embiez
-2018,LAVANDOU,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port du Lavandou
 2018,FRÉJUS,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port Fréjus
 2018,HYÈRES LES PALMIERS,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port Saint-Pierre de Hyères les Palmiers
 2018,ISSAMBRES,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Port San Peïre des Issambres
 2018,SAINT-RAPHAËL VIEUX PORT,VAR,83,PROVENCE-ALPES-CÔTE D'AZUR,0,1,Saint-Raphaël Vieux Port
-2018,MARIN,MARTINIQUE,97,OUTRE-MER,0,1,Port de plaisance du Marin
-2018,BRUNELET - NOUMÉA,NOUVELLE-CALÉDONIE,98,OUTRE-MER,0,1,Port Brunelet - Nouméa
-2018,T AÏNA,POLYNÉSIE-FRANÇAISE,98,OUTRE-MER,0,1,Marina T aïna
-2018,L'ÉPERVIÈRE,DRÔME,26,AUVERGNE-RHÔNE-ALPES,0,1,Port de l'Épervière
-2018,SCIEZ,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,0,1,Port de Sciez
-2018,RIVES,HAUTE-SAVOIE,74,AUVERGNE-RHÔNE-ALPES,0,1,Port de plaisance de Rives
-2018,DELUZ,DOUBS,25,BOURGOGNE-FRANCHE-COMTÉ,0,1,Halte fluviale de Deluz
-2018,BESANÇON,DOUBS,25,BOURGOGNE-FRANCHE-COMTÉ,0,1,Halte de Besançon (Moulin St Paul)
-2018,DECIZE,NIÈVRE,58,BOURGOGNE-FRANCHE-COMTÉ,0,1,Port de Decize
-2018,BINIC,CÔTES-D'ARMOR,22,BRETAGNE,0,1,Port de Plaisance de Binic
-2018,PAIMPOL,CÔTES-D'ARMOR,22,BRETAGNE,0,1,Port de Plaisance de Paimpol
-2018,SAINT-QUAY-PORTRIEUX,CÔTES-D'ARMOR,22,BRETAGNE,0,1,Port de Saint-Quay-Portrieux
-2018,CAMARET,FINISTÈRE,29,BRETAGNE,0,1,Port de Plaisance de Camaret
-2018,DOUARNENEZ,FINISTÈRE,29,BRETAGNE,0,1,Port de Plaisance de Douarnenez
-2018,MORGAT,FINISTÈRE,29,BRETAGNE,0,1,Port de Plaisance de Morgat
-2018,MOULIN BLANC,FINISTÈRE,29,BRETAGNE,0,1,Port du Moulin Blanc
-2018,GÂVRES,MORBIHAN,56,BRETAGNE,0,1,Port de Gâvres
-2018,LORIENT CENTRE,MORBIHAN,56,BRETAGNE,0,1,Port de Lorient Centre
-2018,KERNÉVEL,MORBIHAN,56,BRETAGNE,0,1,Port de plaisance du Kernével
-2018,PORT-LOUIS,MORBIHAN,56,BRETAGNE,0,1,Port-Louis
-2018,BRIARE LE CANAL,LOIRET,45,CENTRE-VAL DE LOIRE,0,1,Port Briare le Canal
-2018,MONTHERMÉ,ARDENNES,08,GRAND-EST,0,1,Port de plaisance Intercommunal de Monthermé
-2018,NUISEMENT,MARNE,51,GRAND-EST,0,1,Port de plaisance de Nuisement
-2018,L'ANSE DU JARD,MARNE,51,GRAND-EST,0,1,Relais nautique de l'anse du Jard
-2018,GIFFAUMONT CHAMPAUBERT,MARNE,51,GRAND-EST,0,1,Station nautique de Giffaumont Champaubert
-2018,NEMOURS,HAUTE-MARNE,52,GRAND-EST,0,1,Port de Nemours
-2018,NANCY,MEURTHE-ET-MOSELLE,54,GRAND-EST,0,1,"Port Saint-Georges de Nancy, Port de France (T oul)"
-2018,MICHEL ROTH,MEURTHE-ET-MOSELLE,54,GRAND-EST,0,1,Port de plaisance Michel Roth (Pont-à-Mousson)
-2018,NONSARD,MEUSE,55,GRAND-EST,0,1,Port de Nonsard
-2018,NAUTIC'HAM,MOSELLE,57,GRAND-EST,0,1,Nautic'Ham (Basse Ham)
-2018,METZ,MOSELLE,57,GRAND-EST,0,1,Port de Metz
-2018,SARREGUEMINES,MOSELLE,57,GRAND-EST,0,1,Port de Sarreguemines
-2018,SAVERNE,BAS-RHIN,67,GRAND-EST,0,1,Port de Plaisance de Saverne
-2018,COLMAR,HAUT-RHIN,68,GRAND-EST,0,1,Port de Colmar
-2018,LILLE MÉTROPOLE,NORD,59,HAUTS-DE-FRANCE,0,1,Port Fluvial des Près-du-Hem Lille Métropole
-2018,PORTE-DU-HAINAUT,NORD,59,HAUTS-DE-FRANCE,0,1,Port fluvial de la Porte du Hainaut
-2018,D'ÉTAPLES,PAS-DE-CALAIS,62,HAUTS-DE-FRANCE,0,1,Port de Plaisance d'Étaples
-2018,SAINT-VALÉRY-SUR-SOMME,SOMME,80,HAUTS-DE-FRANCE,0,1,"Port de Plaisance de Saint-Valéry-sur-Somme Une seconde vie pour les drapeaux Pavillon Bleu Cette année encore, le Pavillon Bleu s'est engagé dans la revalorisation de ses anciens drapeaux millésimés. Dans une démarche écologique et citoyenne, le label a confié cette mission à l'Établis- sement et Service d'Aide par le Travail Ménilmontant, à Paris. Les travailleurs en situation de handicap de l'atelier couture ont confectionné, à partir des drapeaux, des sacs, des pochettes et des banderoles. Depuis ans, l'ESATMénilmontant con-tribue à la reconnaissance et à l'intégration des personnes handicapées, en leur proposant des activités professionnelles diverses et un soutien médico-social. Aujourd'hui, près de 153 travailleurs en situation de handicap mental et psychique sont accueillis au sein de l'établisse-ment, afin de développer leur capacité d'intégration par le travail. Découvrez l'ESAT et ses activités catmenilmontant.com6 DELAMERÀLATERRE DELAMERÀLATERRE 7Retrouvez les sites labellisés Pavillon Bleu proches de chez vous sur l'application IphoneOccitanie20Nouvelle-Aquitaine4Grand Est14Hauts-de-France4Île-de-FranceNormandie11Pays de la Loire1Bretagne12"
+2018,SAINT PAUL,LA RÉUNION,974,OUTRE-MER,1,0,"Plage Boucan Canot, Plage Ermitage Centre La Passe, Plage Roches Noires"
+2018,LE MARIN,MARTINIQUE,972,OUTRE-MER,0,1,Port de plaisance du Marin
+2018,BORA,POLYNÉSIE FRANÇAISE,987,OUTRE-MER,1,0,"Complexe sportif Teriimaevarua (Salle Omnisport Pago), Plage Hôtel Conrad, Plage Hôtel Four Seasons, Plage Hôtel Intercontinental Moana Beach, Plage Hôtel Intercontinental Thalasso Resort & Spa, Plage Hôtel Maitai Polynesia, Plage Hôtel Meridien, Plage Hôtel Pearl Beach, Plage Hôtel Sofitel Marara, Plage Hôtel St Régis, Plage publique Matira, Plage snack Matira"
+2018,BRUNELET - NOUMÉA,NOUVELLE-CALÉDONIE,988,OUTRE-MER,0,1,Port Brunelet - Nouméa
+2018,TAÏNA,POLYNÉSIE FRANÇAISE,987,OUTRE-MER,0,1,Marina Taïna
